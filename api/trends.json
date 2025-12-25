@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T17:31:28.715663+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-25T18:29:49.218396+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -39,11 +39,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时42分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[14时42分 ~ 18时29分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -185,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 18时29分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -243,11 +244,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
