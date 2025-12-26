@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-12-26T12:43:10.710588+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2025-12-26T13:29:25.663577+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 8,
       "titles": [
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 12时43分]"
-        },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
           "url": "https://www.cls.cn/detail/2240453",
@@ -30,8 +16,48 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 13时29分]"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 13时29分]"
+        },
+        {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 13时29分]"
+        },
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 13时29分]"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
@@ -45,29 +71,6 @@
           "time_info": "10时06分"
         },
         {
-          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
-          "url": "https://www.cls.cn/detail/2240534",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 12时43分]"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 12时43分]"
-        },
-        {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
           "url": "https://www.zhihu.com/question/1987780060753719586",
           "source": "知乎",
@@ -75,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时29分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -84,11 +87,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时29分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -147,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 12时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 13时29分]"
         }
       ]
     },
