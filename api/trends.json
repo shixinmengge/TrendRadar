@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:29:12.506545+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2025-12-26T19:24:55.705506+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             14,
             18,
             20,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 19时24分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -66,6 +67,19 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时33分 ~ 17时30分]"
+        },
+        {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 19时24分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -89,18 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
@@ -209,7 +211,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
