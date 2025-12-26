@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:29:25.663577+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-12-26T14:41:43.132093+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 14时41分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -28,11 +28,12 @@
             14,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 13时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 14时41分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 14时41分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -56,8 +57,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 14时41分]"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
@@ -78,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时41分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -151,8 +152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 13时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 14时41分]"
         }
       ]
     },
