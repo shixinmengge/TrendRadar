@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T14:40:03.162601+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-12-27T15:25:04.014952+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 15时25分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 15时25分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -32,16 +44,16 @@
           "time_info": "[00时31分 ~ 05时24分]"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 15时25分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时31分 ~ 14时40分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 14时40分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -225,8 +225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 14时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -244,8 +244,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 15时25分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -298,11 +298,12 @@
             9,
             11,
             14,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 15时25分]"
         }
       ]
     },
