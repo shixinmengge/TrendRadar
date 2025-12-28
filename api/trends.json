@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T14:40:05.323783+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-12-28T15:26:48.341883+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时26分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
