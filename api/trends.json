@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T02:39:12.483511+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2025-12-30T03:22:01.014611+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             13,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 03时22分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -50,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 03时22分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -81,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -93,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 02时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股盘中）",
@@ -103,7 +105,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -114,7 +116,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
