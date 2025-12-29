@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T06:26:50.196929+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-12-30T07:26:30.488004+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -27,8 +27,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "美股收盘：三大股指齐跌 特斯拉跌超3%",
@@ -46,22 +57,35 @@
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
           "url": "https://wallstreetcn.com/livenews/3028341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2243401",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时26分"
         },
         {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
@@ -70,7 +94,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -81,7 +105,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -111,7 +135,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -122,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -136,11 +160,12 @@
             8,
             9,
             22,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -148,11 +173,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 07时26分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -181,6 +207,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 05时25分]"
+        },
+        {
+          "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20251230062733774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "Meta收购Manus，从而加速AI创新。",
+          "url": "https://wallstreetcn.com/livenews/3028361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "东部战区发布的AI视频意味深长",
+          "url": "https://www.toutiao.com/trending/7589159411391217700/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
