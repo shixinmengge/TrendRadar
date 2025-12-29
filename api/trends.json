@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:35:38.471110+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-12-29T14:45:29.607989+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             3,
             5,
             23,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时45分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -64,7 +65,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
@@ -92,7 +93,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
