@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T18:31:44.446481+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2025-12-30T19:26:20.869234+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,44 @@
             4,
             9,
             5,
-            7
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 19时26分]"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时31分 ~ 19时26分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4,
+            12,
+            11,
+            10,
+            9,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时07分 ~ 18时31分]"
+          "time_info": "[12时03分 ~ 19时26分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -69,20 +102,6 @@
           "time_info": "[01时24分 ~ 10时07分]"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 18时31分]"
-        },
-        {
           "title": "用一个字证明自己不是AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
@@ -98,23 +117,6 @@
           "time_info": "[01时24分 ~ 06时26分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            4,
-            12,
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时03分 ~ 18时31分]"
-        },
-        {
           "title": "AI造假当庭露馅,法官严斥伪造者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
           "source": "贴吧",
@@ -122,22 +124,24 @@
             7,
             8,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时31分 ~ 19时26分]"
         },
         {
           "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
           "url": "https://www.cls.cn/detail/2244074",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
@@ -158,11 +162,12 @@
           "url": "https://wallstreetcn.com/livenews/3028701",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -225,6 +230,18 @@
           "time_info": "[14时42分 ~ 15时29分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
           "url": "https://www.zhihu.com/question/1987934900884637667",
           "source": "知乎",
@@ -282,24 +299,13 @@
           "time_info": "07时26分"
         },
         {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "独居女生深夜肠胃炎靠AI自救脱险",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E8%82%A0%E8%83%83%E7%82%8E%E9%9D%A0AI%E8%87%AA%E6%95%91%E8%84%B1%E9%99%A9%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
@@ -307,8 +313,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 19时26分]"
+        },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
           "url": "https://wallstreetcn.com/articles/3762238",
@@ -319,17 +336,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 06时26分]"
-        },
-        {
-          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 18时31分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -343,6 +349,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 10时07分]"
+        },
+        {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 19时26分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -379,20 +399,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 18时31分]"
-        },
-        {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
@@ -415,6 +421,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "美股热门中概股盘前多数走高，百度(BIDU.O)涨超5%，小鹏汽车(XPEV.N)涨3%，唯品会(VIPS.N)、网易(NTES.O)涨超2%，台积电(TSM.N)、阿里巴巴(BABA.N)涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230184217470800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "百度(BIDU.O)美股盘前涨超5%，港股今日收涨近9%。",
+          "url": "https://flash.jin10.com/detail/20251230183448415800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
