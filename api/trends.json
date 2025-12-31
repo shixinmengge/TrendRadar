@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T16:38:17.851298+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-31T17:32:18.352622+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -104,8 +104,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时03分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 17时32分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 17时32分]"
         },
         {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
@@ -117,19 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -272,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "字节跳动旗下海外AI助手Dola日活破千万",
@@ -455,8 +467,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 16时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 17时32分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
