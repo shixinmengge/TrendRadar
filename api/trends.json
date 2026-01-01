@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:27:26.812414+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-02T07:27:37.003709+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -120,7 +120,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -130,8 +130,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时27分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     }
