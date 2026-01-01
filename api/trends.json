@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:55:37.965858+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-01-01T21:38:44.839002+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[10时24分 ~ 21时38分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 20时55分]"
+          "appearance_count": 11,
+          "time_info": "[12时13分 ~ 21时38分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -83,11 +83,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时42分 ~ 20时55分]"
+          "appearance_count": 9,
+          "time_info": "[14时42分 ~ 21时38分]"
         },
         {
           "title": "AI魔改翻车!广电出手救名著",
@@ -109,11 +110,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时38分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -224,8 +226,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[10时24分 ~ 21时38分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
