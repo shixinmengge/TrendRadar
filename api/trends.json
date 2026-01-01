@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T03:22:51.008902+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-01-02T04:31:42.827827+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -25,11 +25,12 @@
           "ranks": [
             11,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -78,11 +79,12 @@
           "ranks": [
             8,
             12,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -126,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         }
       ]
     }
