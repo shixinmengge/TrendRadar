@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T22:27:06.061034+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-01-01T23:29:05.128430+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时42分 ~ 23时29分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -57,6 +57,20 @@
           "time_info": "[10时24分 ~ 19时24分]"
         },
         {
+          "title": "AI魔改翻车,广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 23时29分]"
+        },
+        {
           "title": "给AI内容“卸妆” 一眼辨真伪",
           "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
           "source": "百度热搜",
@@ -75,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 23时29分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -105,17 +119,15 @@
           "time_info": "[10时24分 ~ 16时37分]"
         },
         {
-          "title": "AI魔改翻车,广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
+          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
+          "url": "https://wallstreetcn.com/livenews/3029625",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            12,
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -223,11 +235,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时24分 ~ 23时29分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -328,6 +341,58 @@
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 18时31分]"
+        },
+        {
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "OpenAI 正在采取措施改进其音频人工智能模型，以此为最终发布由AI驱动的个人设备做准备。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google",
       "match_count": 2,
       "titles": [
@@ -372,25 +437,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 18时31分]"
         }
       ]
     },
