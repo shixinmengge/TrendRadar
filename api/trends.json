@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T13:32:49.586960+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-01-02T14:43:09.715475+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时43分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -29,19 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时32分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时43分]"
         },
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -53,8 +42,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 14时43分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -81,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 14时43分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时25分]"
+        },
+        {
+          "title": "给AI内容“卸妆”一眼辨真伪",
+          "url": "https://www.douyin.com/hot/2354033",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
         }
       ]
     },
@@ -173,8 +184,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时43分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
