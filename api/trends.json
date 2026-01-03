@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T21:34:15.759353+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-01-03T22:26:05.795758+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时25分 ~ 21时34分]"
+          "appearance_count": 20,
+          "time_info": "[07时25分 ~ 22时26分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 21时34分]"
+          "appearance_count": 19,
+          "time_info": "[10时02分 ~ 22时26分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -74,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时33分 ~ 21时34分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 22时26分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -127,6 +127,20 @@
           "time_info": "[06时27分 ~ 16时35分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 22时26分]"
+        },
+        {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260103013328832800",
           "source": "金十数据",
@@ -151,19 +165,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时38分 ~ 07时25分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时34分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -311,8 +312,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时39分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[14时39分 ~ 22时26分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时26分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -328,6 +343,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时24分 ~ 15时25分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时25分 ~ 22时26分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -357,20 +385,6 @@
           "time_info": "[00时33分 ~ 19时22分]"
         },
         {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            18,
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时34分]"
-        },
-        {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
@@ -391,19 +405,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 21时34分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
