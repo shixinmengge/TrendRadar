@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T19:22:55.572249+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-01-03T20:52:48.506414+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时25分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[07时25分 ~ 20时52分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时02分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[10时02分 ~ 20时52分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -69,11 +70,12 @@
             7,
             6,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 20时52分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -189,11 +191,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时52分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
@@ -308,8 +311,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时39分 ~ 19时22分]"
+          "appearance_count": 10,
+          "time_info": "[14时39分 ~ 20时52分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -387,6 +390,19 @@
           "time_info": "[11时58分 ~ 16时35分]"
         },
         {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时52分]"
+        },
+        {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
           "url": "https://flash.jin10.com/detail/20260103013040455800",
           "source": "金十数据",
@@ -398,6 +414,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时38分 ~ 07时25分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 20时52分]"
         },
         {
           "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
@@ -428,31 +457,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 06时27分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 19时22分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时22分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
