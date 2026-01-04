@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T05:25:56.511772+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-01-05T06:26:52.927668+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "年度抽象AI作品Top10",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -26,11 +26,12 @@
             29,
             18,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时26分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -40,8 +41,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 05时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 06时26分]"
+        },
+        {
+          "title": "央视点名AI魔改乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     }
