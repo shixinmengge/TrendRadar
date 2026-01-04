@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T07:26:18.668278+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-01-04T10:26:19.213545+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 10时26分]"
         },
         {
           "title": "美食博主手搓对抗AI的一年",
@@ -33,8 +34,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 10时26分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -67,7 +68,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
@@ -75,7 +76,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -99,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 10时26分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -109,11 +110,40 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 10时26分]"
+        },
+        {
+          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
+          "url": "https://wallstreetcn.com/articles/3762476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini向小胖道歉",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E5%90%91%E5%B0%8F%E8%83%96%E9%81%93%E6%AD%89&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
