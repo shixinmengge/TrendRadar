@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:15:23.885358+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-01-04T13:32:49.248648+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时32分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
@@ -108,11 +108,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
