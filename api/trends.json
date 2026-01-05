@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T21:01:30.799834+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-01-05T21:49:06.499144+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
@@ -136,6 +136,18 @@
           "time_info": "[13时40分 ~ 14时49分]"
         },
         {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 21时49分]"
+        },
+        {
           "title": "当AI遇上3D泰坦尼克号动画",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
           "source": "bilibili 热搜",
@@ -170,17 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 14时49分]"
-        },
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "腾讯启动AI小程序成长计划",
@@ -279,7 +280,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -298,7 +299,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -334,6 +335,17 @@
           "time_info": "17时40分"
         },
         {
+          "title": "汇丰策略师对美股接近最大程度超配",
+          "url": "https://wallstreetcn.com/livenews/3030912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3030750",
           "source": "华尔街见闻-快讯",
@@ -344,6 +356,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时33分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
+          "url": "https://flash.jin10.com/detail/20260105212007984800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
@@ -377,6 +400,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3030899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY在周一盘初小幅走强，现报98.55。",
+          "url": "https://flash.jin10.com/detail/20260105070426303800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美元指数DXY短线走低约10点，现报98.80。欧元兑美元EUR/USD日内跌幅达0.50%，现报1.1661。",
+          "url": "https://flash.jin10.com/detail/20260105210959234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -391,26 +453,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY在周一盘初小幅走强，现报98.55。",
-          "url": "https://flash.jin10.com/detail/20260105070426303800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "21时01分"
         }
       ]
     }
