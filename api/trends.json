@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:26:46.401174+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-06T04:33:18.040633+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -26,23 +26,12 @@
           "ranks": [
             30,
             29,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 03时26分]"
-        },
-        {
-          "title": "惠普新3K笔记本比Macbook Air更薄",
-          "url": "https://wallstreetcn.com/livenews/3031053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 04时33分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -50,11 +39,25 @@
           "source": "抖音",
           "ranks": [
             22,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时42分 ~ 04时33分]"
+        },
+        {
+          "title": "惠普新3K笔记本比Macbook Air更薄",
+          "url": "https://wallstreetcn.com/livenews/3031053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时33分]"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -93,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -104,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -151,11 +154,12 @@
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时33分]"
         }
       ]
     },
