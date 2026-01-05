@@ -1,11 +1,218 @@
 {
-  "generated_at": "2026-01-06T06:28:48.384786+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-01-06T07:27:31.891009+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
+        },
+        {
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29,
+            10,
+            14,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 07时27分]"
+        },
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            22,
+            17,
+            24,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时42分 ~ 07时27分]"
+        },
+        {
+          "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
+          "url": "https://wallstreetcn.com/livenews/3031121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
+          "url": "https://flash.jin10.com/detail/20260106060052070800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "惠普新3K笔记本比Macbook Air更薄",
+          "url": "https://wallstreetcn.com/livenews/3031053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时33分]"
+        },
+        {
+          "title": "开业月余，三家股份行AIC密集投向“硬科技”",
+          "url": "https://wallstreetcn.com/livenews/3031145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
+          "url": "https://flash.jin10.com/detail/20260106055327542800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "英伟达推出BlueField-4数据处理器，赋能新一代AI原生存储基础设施，开启AI新纪元",
+          "url": "https://wallstreetcn.com/livenews/3031139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "三星推出以AI为核心的电视和家电",
+          "url": "https://wallstreetcn.com/livenews/3030980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
+          "url": "https://flash.jin10.com/detail/20260106063939900800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
+          "url": "https://wallstreetcn.com/livenews/3031109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "黄仁勋：英伟达新款Rubin芯片进展顺利，助力加速AI进程",
+          "url": "https://wallstreetcn.com/livenews/3031135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
+          "url": "https://flash.jin10.com/detail/20260106062543527800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
+          "url": "https://wallstreetcn.com/livenews/3031124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "波士顿动力机器人首次进厂干活，现代汽车正式公布集团级AI机器人战略",
+          "url": "https://wallstreetcn.com/livenews/3031036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -24,11 +231,23 @@
           "url": "https://www.cls.cn/detail/2248463",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
+        },
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -85,9 +304,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "微芯科技(MCHP.O)美股盘后上涨2.5%，此前公司更新三季度业绩指引。",
@@ -96,7 +326,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -136,129 +366,43 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 10,
+      "keyword_group": "openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
+          "title": "OpenAI家务机器人售价2万美元",
+          "url": "https://wallstreetcn.com/livenews/3031066",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
-        },
-        {
-          "title": "B站AI大赛开始了",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            29,
             10,
-            14,
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 06时28分]"
-        },
-        {
-          "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
-          "url": "https://wallstreetcn.com/livenews/3031121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            22,
-            17,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 06时28分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
-          "url": "https://flash.jin10.com/detail/20260106060052070800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "惠普新3K笔记本比Macbook Air更薄",
-          "url": "https://wallstreetcn.com/livenews/3031053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时33分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
-          "url": "https://flash.jin10.com/detail/20260106055327542800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "三星推出以AI为核心的电视和家电",
-          "url": "https://wallstreetcn.com/livenews/3030980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
-          "url": "https://wallstreetcn.com/livenews/3031109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "波士顿动力机器人首次进厂干活，现代汽车正式公布集团级AI机器人战略",
-          "url": "https://wallstreetcn.com/livenews/3031036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            13,
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时28分]"
+        },
+        {
+          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
+          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "07时27分"
+        },
+        {
+          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3031108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -302,38 +446,8 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时28分]"
-        },
-        {
-          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3031108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三星今年将为8亿设备配备谷歌AI",
@@ -345,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：亚马逊云服务(AWS)、谷歌云、微软、OCI将于2026年部署基于Vera Rubin的实例。",
+          "url": "https://flash.jin10.com/detail/20260106062451748800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     }
