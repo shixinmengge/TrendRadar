@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T06:29:05.643736+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-01-07T07:27:52.891655+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "为何说AI抢走了你的内存",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时29分]"
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 07时27分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -43,15 +43,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
-          "url": "https://wallstreetcn.com/livenews/3031921",
+          "title": "股份制银行AIC多元投资项目密集落地",
+          "url": "https://wallstreetcn.com/livenews/3031945",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时27分"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -90,6 +90,18 @@
           "time_info": "[00时38分 ~ 01时29分]"
         },
         {
+          "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
+          "url": "https://wallstreetcn.com/livenews/3031921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
           "url": "https://wallstreetcn.com/livenews/3031856",
           "source": "华尔街见闻-快讯",
@@ -112,6 +124,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时29分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：AI并非取代人类，而是改变招聘标准",
+          "url": "https://wallstreetcn.com/livenews/3031938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -142,7 +176,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -227,7 +261,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -262,8 +296,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 07时27分]"
+        },
+        {
+          "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -326,6 +382,18 @@
           "time_info": "[05时28分 ~ 06时29分]"
         },
         {
+          "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
+          "url": "https://wallstreetcn.com/livenews/3031915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "城堡证券：看好“一月效应”引发美股反弹",
           "url": "https://wallstreetcn.com/livenews/3031829",
           "source": "华尔街见闻-快讯",
@@ -338,24 +406,13 @@
           "time_info": "[02时41分 ~ 03时23分]"
         },
         {
-          "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
-          "url": "https://wallstreetcn.com/livenews/3031915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
           "url": "https://wallstreetcn.com/livenews/3031910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -366,7 +423,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -377,7 +434,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
