@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:34:38.368291+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-06T18:32:11.487472+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -91,6 +91,18 @@
           "time_info": "15时32分"
         },
         {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 18时32分]"
+        },
+        {
           "title": "监管命令显示，印度反垄断调查发现，塔塔钢铁、JSW钢铁、印度钢铁管理局（SAIL）及另外25家公司合谋操纵钢铁价格。",
           "url": "https://flash.jin10.com/detail/20260106162818905800",
           "source": "金十数据",
@@ -161,16 +173,16 @@
           "time_info": "[10时09分 ~ 14时44分]"
         },
         {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时32分 ~ 17时34分]"
+          "time_info": "[17时34分 ~ 18时32分]"
         },
         {
           "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
@@ -261,7 +273,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -275,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -382,9 +383,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
+          "url": "https://flash.jin10.com/detail/20260106175355647800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
@@ -415,6 +427,18 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 18时32分]"
+        },
+        {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -425,18 +449,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 06时28分]"
-        },
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时27分 ~ 17时34分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -689,11 +701,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[10时09分 ~ 18时32分]"
         }
       ]
     }
