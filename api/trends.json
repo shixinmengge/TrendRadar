@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T22:32:20.059530+08:00",
-  "total_titles_processed": 2042,
+  "generated_at": "2026-01-07T23:33:09.265513+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时39分 ~ 22时32分]"
+          "appearance_count": 12,
+          "time_info": "[16时39分 ~ 23时33分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时39分 ~ 22时32分]"
+          "appearance_count": 12,
+          "time_info": "[16时39分 ~ 23时33分]"
         },
         {
           "title": "英伟达押注物理AI背后逻辑",
@@ -115,6 +115,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时32分 ~ 19时27分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时59分 ~ 23时33分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -209,19 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时27分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时59分 ~ 22时32分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -648,7 +648,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -711,8 +711,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数DXY短线走低10点，最新报98.53。",
+          "url": "https://flash.jin10.com/detail/20260107230917904800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
         {
           "title": "美元指数6日上涨",
           "url": "https://flash.jin10.com/detail/20260107050530787800",
