@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:32:23.471914+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-01-07T14:43:33.942731+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时43分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -39,11 +40,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时43分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -68,6 +70,19 @@
           "time_info": "01时29分"
         },
         {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时43分]"
+        },
+        {
           "title": "股份制银行AIC多元投资项目密集落地",
           "url": "https://wallstreetcn.com/livenews/3031945",
           "source": "华尔街见闻-快讯",
@@ -90,19 +105,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时08分 ~ 12时06分]"
-        },
-        {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时32分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -161,8 +163,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时43分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -372,8 +374,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时43分]"
         },
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -381,11 +383,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 14时43分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
