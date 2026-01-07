@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:59:20.495184+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-01-07T21:48:05.798939+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,19 @@
           "time_info": "[07时27分 ~ 17时35分]"
         },
         {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 21时48分]"
+        },
+        {
           "title": "英伟达押注物理AI背后逻辑",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
           "source": "bilibili 热搜",
@@ -49,6 +62,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时05分 ~ 19时27分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 21时48分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -64,19 +90,6 @@
           "time_info": "[01时29分 ~ 07时27分]"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 20时59分]"
-        },
-        {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
           "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
@@ -89,19 +102,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时05分 ~ 17时35分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 20时59分]"
         },
         {
           "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
@@ -211,6 +211,18 @@
           "time_info": "[06时29分 ~ 07时27分]"
         },
         {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 21时48分]"
+        },
+        {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
           "url": "https://wallstreetcn.com/livenews/3031856",
           "source": "华尔街见闻-快讯",
@@ -266,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -428,7 +429,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         }
@@ -436,7 +437,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -616,6 +617,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时23分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107214121257800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "沙特阿美股价早盘股价上涨1.5%。",
