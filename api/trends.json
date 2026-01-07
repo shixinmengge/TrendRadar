@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T19:27:16.657853+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-01-07T20:59:20.495184+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
@@ -64,6 +64,19 @@
           "time_info": "[01时29分 ~ 07时27分]"
         },
         {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 20时59分]"
+        },
+        {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
           "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
@@ -78,17 +91,17 @@
           "time_info": "[12时05分 ~ 17时35分]"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             8,
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 20时59分]"
         },
         {
           "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
@@ -102,19 +115,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时32分 ~ 19时27分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时27分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -241,7 +241,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -266,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -296,7 +307,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -409,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "弃用顾问公司 摩根大通资管转用AI平台Proxy IQ处理投票",
+          "url": "https://flash.jin10.com/detail/20260107200149977800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
