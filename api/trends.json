@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:05:28.042522+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-08T13:32:15.676209+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 13时32分]"
         },
         {
           "title": "中芯国际在陆港两地上涨 摩根士丹利称其为中国AI本地化的关键支持者",
@@ -133,7 +134,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -166,7 +167,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -177,7 +178,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -208,8 +209,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时05分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 13时32分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -219,8 +220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 13时32分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -307,7 +308,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
