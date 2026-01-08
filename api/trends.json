@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T01:33:22.885412+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-01-09T02:38:53.555869+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时38分]"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时38分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -67,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时38分]"
         }
       ]
     },
@@ -83,9 +83,26 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 02时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI将收购执Convogo背后的团队，后者是一款帮助执行教练、顾问、人才领导和人力资源团队实现领导力评估与反馈报告自动化和优化的商业软件平台。",
+          "url": "https://flash.jin10.com/detail/20260109021642687800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "02时38分"
         }
       ]
     }
