@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T22:31:59.903918+08:00",
-  "total_titles_processed": 2070,
+  "generated_at": "2026-01-09T23:32:22.749066+08:00",
+  "total_titles_processed": 2166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -15,8 +15,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时32分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时32分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -35,18 +49,17 @@
           "time_info": "[13时32分 ~ 20时59分]"
         },
         {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
+            5,
             6,
-            4,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时32分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -60,17 +73,18 @@
           "time_info": "[00时38分 ~ 03时25分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            7
+            11,
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 23时32分]"
         },
         {
           "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
@@ -85,20 +99,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时39分 ~ 21时44分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 22时31分]"
         },
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -122,7 +122,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -137,6 +137,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时39分 ~ 17时35分]"
+        },
+        {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时32分]"
+        },
+        {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时32分]"
         },
         {
           "title": "金靖章若楠剧宣诡异的像AI",
@@ -176,6 +202,18 @@
           "time_info": "[06时28分 ~ 07时24分]"
         },
         {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时32分]"
+        },
+        {
           "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
           "url": "https://wallstreetcn.com/livenews/3033950",
           "source": "华尔街见闻-快讯",
@@ -188,28 +226,15 @@
           "time_info": "[17时35分 ~ 18时31分]"
         },
         {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
+          "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
+          "url": "https://flash.jin10.com/detail/20260109232712672800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时31分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
@@ -265,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
@@ -347,7 +361,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -357,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时10分 ~ 22时31分]"
+          "appearance_count": 17,
+          "time_info": "[10时10分 ~ 23时32分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -396,8 +410,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时10分 ~ 22时31分]"
+          "appearance_count": 17,
+          "time_info": "[10时10分 ~ 23时32分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -496,13 +510,24 @@
           "time_info": "[06时28分 ~ 07时24分]"
         },
         {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-09）",
           "url": "https://flash.jin10.com/detail/20260109220150497800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -513,7 +538,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -579,7 +604,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -593,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.88%，公用事业ETF涨1.67%，生物科技指数ETF涨0.92%，银行业ETF涨0.72%，半导体ETF、全球科技股指数ETF至多涨0.62%，网络股指数ETF则跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3034235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "生科ETF收跌超2.5%，半导体ETF跌约1.6%，领跌美股行业ETF，标普能源板块创4月以来最大单日涨幅",
@@ -684,8 +720,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "彭博美元指数涨幅扩大，刷新一个月高位。",
+          "url": "https://wallstreetcn.com/livenews/3034262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
         {
           "title": "美元指数8日上涨",
           "url": "https://flash.jin10.com/detail/20260109044102190800",
