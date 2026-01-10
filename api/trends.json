@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T14:39:31.366411+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-01-10T15:25:47.766665+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             9,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 14时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 15时25分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -97,6 +98,19 @@
           "time_info": "[00时37分 ~ 06时28分]"
         },
         {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时25分]"
+        },
+        {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
           "source": "澎湃新闻",
@@ -110,29 +124,17 @@
           "time_info": "[00时37分 ~ 05时28分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 14时39分]"
-        },
-        {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
           "url": "https://wallstreetcn.com/articles/3762982",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 15时25分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -299,11 +301,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时25分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -354,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时25分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -442,11 +445,12 @@
           "ranks": [
             4,
             8,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 15时25分]"
         }
       ]
     }
