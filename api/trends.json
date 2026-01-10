@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:28:42.571123+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-01-10T14:39:31.366411+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 13时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 14时39分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时39分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -131,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时39分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -194,11 +194,12 @@
             1,
             9,
             13,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时39分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -297,11 +298,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时39分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -352,8 +354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时39分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -439,11 +441,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时39分]"
         }
       ]
     }
