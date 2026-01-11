@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T21:35:39.714967+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-01-11T22:25:40.778399+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时32分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[13时32分 ~ 22时25分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时24分 ~ 21时35分]"
+          "appearance_count": 24,
+          "time_info": "[01时24分 ~ 22时25分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -53,11 +53,12 @@
             17,
             28,
             26,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时41分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[14时41分 ~ 22时25分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -86,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 21时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 22时25分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -110,8 +111,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 21时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 22时25分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 22时25分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -124,18 +137,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时35分 ~ 18时29分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 21时35分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -191,6 +192,30 @@
           "time_info": "[12时14分 ~ 16时35分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 22时25分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
           "url": "https://flash.jin10.com/detail/20260111150811201800",
           "source": "金十数据",
@@ -203,18 +228,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时27分 ~ 18时29分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 21时35分]"
         },
         {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
@@ -338,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时25分]"
         },
         {
           "title": "下周看点：美股Q4财报季拉开帷幕",
