@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T12:14:26.567346+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-01-11T13:32:43.843347+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 12时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 13时32分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -33,8 +33,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时32分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -57,8 +57,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 12时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 13时32分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -84,27 +84,40 @@
           "time_info": "[00时32分 ~ 07时26分]"
         },
         {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时32分]"
+        },
+        {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
           "ranks": [
             6,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 13时32分]"
         },
         {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时32分"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -116,6 +129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "AI照片竟然拿了摄影比赛第一名",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "AI时代还有学画画的必要吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
