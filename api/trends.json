@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T02:42:15.818317+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-13T03:26:27.731098+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "张文宏：拒绝把AI引入医院病历系统",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -96,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -107,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -117,11 +117,12 @@
           "ranks": [
             17,
             15,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -130,11 +131,12 @@
           "ranks": [
             24,
             22,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -144,19 +146,31 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "辉瑞计划在所有业务中加强AI的应用。",
           "url": "https://wallstreetcn.com/livenews/3035503",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
+        },
+        {
+          "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
+          "url": "https://flash.jin10.com/detail/20260113024637591800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "03时26分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -194,8 +208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -269,8 +283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -280,8 +294,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -292,8 +306,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时26分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
