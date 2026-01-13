@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T12:06:10.073094+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-01-13T13:32:29.630125+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -56,19 +56,6 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
-          "title": "张文宏：拒绝把AI引入医院病历系统",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时06分]"
-        },
-        {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
           "url": "https://www.cls.cn/detail/2254978",
           "source": "财联社热门",
@@ -79,6 +66,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 06时25分]"
+        },
+        {
+          "title": "张文宏：拒绝把AI引入医院病历系统",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -94,17 +95,6 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -114,11 +104,23 @@
             18,
             21,
             16,
-            27
+            27,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时32分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时23分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -131,11 +133,12 @@
             26,
             23,
             21,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -144,11 +147,12 @@
           "ranks": [
             22,
             24,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -195,11 +199,34 @@
             30,
             15,
             23,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时28分 ~ 12时06分]"
+          "appearance_count": 7,
+          "time_info": "[05时28分 ~ 13时32分]"
+        },
+        {
+          "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3035821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时32分]"
         },
         {
           "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
@@ -214,17 +241,6 @@
           "time_info": "[06时25分 ~ 07时23分]"
         },
         {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
-        },
-        {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
           "url": "https://www.cls.cn/detail/2255512",
           "source": "财联社热门",
@@ -233,8 +249,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时32分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
+          "time_info": "[12时05分 ~ 13时32分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -259,17 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时26分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "苹果官宣iPhone将搭载最强AI",
@@ -305,6 +322,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "如何看待马斯克AI预言",
+          "url": "https://www.douyin.com/hot/2366116",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "催化事件不断，AI应用从“可用”迈向“好用”",
           "url": "https://wallstreetcn.com/livenews/3035605",
           "source": "华尔街见闻-快讯",
@@ -322,7 +350,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -374,8 +402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时32分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -416,11 +444,12 @@
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时32分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -431,8 +460,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时32分]"
         },
         {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
@@ -544,6 +573,18 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 13时32分]"
+        },
+        {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2255324",
           "source": "财联社热门",
@@ -555,18 +596,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时35分 ~ 10时06分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 12时06分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -742,7 +771,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
