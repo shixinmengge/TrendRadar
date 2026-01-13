@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:50:40.331715+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2026-01-13T22:33:07.583256+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -83,6 +83,19 @@
           "time_info": "[00时35分 ~ 14时43分]"
         },
         {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时33分]"
+        },
+        {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
           "url": "https://www.cls.cn/detail/2254799",
           "source": "财联社热门",
@@ -96,16 +109,17 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5
+            3,
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时50分]"
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 22时33分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -124,19 +138,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时35分 ~ 21时50分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时35分 ~ 22时33分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -148,11 +151,23 @@
             14,
             13,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时05分 ~ 21时50分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 22时33分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时23分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -201,16 +216,45 @@
           "time_info": "[04时32分 ~ 10时06分]"
         },
         {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
+          "url": "https://www.cls.cn/detail/2256264",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 22时33分]"
+        },
+        {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时33分]"
+        },
+        {
+          "title": "事关AI应用、GEO概念，上市公司密集回应",
+          "url": "https://www.cls.cn/detail/2256448",
+          "source": "财联社热门",
           "ranks": [
             3,
+            2,
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时50分]"
+          "time_info": "[21时01分 ~ 22时33分]"
         },
         {
           "title": "张文宏称拒绝把AI引入医院病历系统",
@@ -242,6 +286,21 @@
           "time_info": "[05时28分 ~ 14时43分]"
         },
         {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10,
+            25,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 22时33分]"
+        },
+        {
           "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
           "url": "https://www.cls.cn/detail/2255873",
           "source": "财联社热门",
@@ -268,57 +327,18 @@
           "time_info": "[00时35分 ~ 00时36分]"
         },
         {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时50分]"
-        },
-        {
-          "title": "事关AI应用、GEO概念，上市公司密集回应",
-          "url": "https://www.cls.cn/detail/2256448",
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时50分]"
-        },
-        {
-          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
-          "url": "https://www.cls.cn/detail/2256264",
-          "source": "财联社热门",
-          "ranks": [
-            13,
+            12,
             10,
-            4
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时50分]"
-        },
-        {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            10,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时50分]"
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 22时33分]"
         },
         {
           "title": "东方明珠：公司不直接从事AI业务，AI应用不直接产生营收",
@@ -413,19 +433,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 14时43分]"
-        },
-        {
-          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
-          "url": "https://www.cls.cn/detail/2256259",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时50分]"
         },
         {
           "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
@@ -590,6 +597,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "微软：推出以社区为核心的AI基础设施新举措。 将投资新的合作伙伴关系，为当地居民在建设和运营阶段提供技能培训和就业机会。 将要求公用事业公司和公共委员会将我们的费率设定得足够高，以覆盖数据中心的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3036210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
           "url": "https://wallstreetcn.com/livenews/3035442",
           "source": "华尔街见闻-快讯",
@@ -636,6 +654,220 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时43分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时23分]"
+        },
+        {
+          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2255324",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 10时06分]"
+        },
+        {
+          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
+          "url": "https://wallstreetcn.com/articles/3763105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 19时28分]"
+        },
+        {
+          "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
+          "url": "https://flash.jin10.com/detail/20260113050054548800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时25分]"
+        },
+        {
+          "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3035579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时25分]"
+        },
+        {
+          "title": "美国CPI数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3036204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时33分]"
+        },
+        {
+          "title": "美股集体低开 中概股逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
+          "url": "https://wallstreetcn.com/livenews/3035592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
+          "url": "https://wallstreetcn.com/livenews/3035591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "L3Harris美股盘前涨超10%，据彭博，美国国防部将向L3Harris的导弹部门投资10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3036084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3036218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050522045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050512989800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美股小盘股创七年来对大盘股最长连胜记录",
+          "url": "https://flash.jin10.com/detail/20260113060720442800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "摩根大通：第四季度调整后营收为467.7亿美元，市场预期为463.5亿美元； 第四季度FICC销售与交易收入为53.8亿美元，同比增长7.5%，市场预期为52.7亿美元； 第四季度股票销售与交易收入为28.6亿美元，同比增长40%，市场预期为27亿美元； 第四季度管理净利息收入为251.1亿美元，同比增长7%，市场预期为249.9亿美元； 第四季度每股收益（EPS）为4.63美元； 第四季度贷款总额为1.49万亿美元，同比增长11%，市场预期为1.45万亿美元。 摩根大通美股盘前上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google",
       "match_count": 17,
       "titles": [
@@ -648,8 +880,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时06分 ~ 21时50分]"
+          "appearance_count": 16,
+          "time_info": "[10时06分 ~ 22时33分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -662,8 +894,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时06分 ~ 21时50分]"
+          "appearance_count": 16,
+          "time_info": "[10时06分 ~ 22时33分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -736,6 +968,18 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 22时33分]"
+        },
+        {
           "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
           "url": "https://wallstreetcn.com/livenews/3035456",
           "source": "华尔街见闻-快讯",
@@ -770,17 +1014,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时29分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
         },
         {
           "title": "谷歌今年将在越南研发并生产高端手机。",
@@ -836,208 +1069,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 05时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时43分]"
-        },
-        {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2255324",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 10时06分]"
-        },
-        {
-          "title": "美国CPI数据公布后，美股股指期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3036204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
-          "url": "https://wallstreetcn.com/articles/3763105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 19时28分]"
-        },
-        {
-          "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
-          "url": "https://flash.jin10.com/detail/20260113050054548800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时25分]"
-        },
-        {
-          "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
-          "url": "https://wallstreetcn.com/livenews/3035579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时25分]"
-        },
-        {
-          "title": "美股集体低开 中概股逆势走强",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
-        },
-        {
-          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
-          "url": "https://wallstreetcn.com/livenews/3035592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
-          "url": "https://wallstreetcn.com/livenews/3035591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "L3Harris美股盘前涨超10%，据彭博，美国国防部将向L3Harris的导弹部门投资10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3036084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3035989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260113050522045800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260113050512989800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "美股小盘股创七年来对大盘股最长连胜记录",
-          "url": "https://flash.jin10.com/detail/20260113060720442800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "摩根大通：第四季度调整后营收为467.7亿美元，市场预期为463.5亿美元； 第四季度FICC销售与交易收入为53.8亿美元，同比增长7.5%，市场预期为52.7亿美元； 第四季度股票销售与交易收入为28.6亿美元，同比增长40%，市场预期为27亿美元； 第四季度管理净利息收入为251.1亿美元，同比增长7%，市场预期为249.9亿美元； 第四季度每股收益（EPS）为4.63美元； 第四季度贷款总额为1.49万亿美元，同比增长11%，市场预期为1.45万亿美元。 摩根大通美股盘前上涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3036125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
         }
       ]
     },
@@ -1128,7 +1159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         }
