@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:28:20.884469+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-01-14T21:02:03.616439+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -32,6 +32,22 @@
           "time_info": "[10时20分 ~ 17时36分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时20分 ~ 21时02分]"
+        },
+        {
           "title": "技术拆解疑似马斯克AI账号",
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
           "source": "bilibili 热搜",
@@ -48,19 +64,16 @@
           "time_info": "[00时40分 ~ 13时32分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
           "ranks": [
-            17,
-            10,
-            8,
-            6,
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时20分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 21时02分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -102,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时13分 ~ 21时02分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -119,8 +132,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时31分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[13时31分 ~ 21时02分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -164,18 +177,6 @@
           "time_info": "[00时40分 ~ 19时28分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时28分]"
-        },
-        {
           "title": "中国核聚变装置融入AI技术",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
           "source": "bilibili 热搜",
@@ -200,8 +201,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 21时02分]"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 21时02分]"
         },
         {
           "title": "彩讯股份：拟发行可转债募资不超过14.6亿元，用于智算中心建设项目、Rich AIBox平台研发升级项目、企业级AI智能体应用开发项目。",
@@ -210,7 +223,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -251,18 +264,6 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时28分]"
-        },
-        {
           "title": "EDG官宣Maokai回归",
           "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
@@ -287,6 +288,17 @@
           "time_info": "[00时40分 ~ 01时33分]"
         },
         {
+          "title": "王自如说荣耀Air补齐iPhoneAir短板",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AF%B4%E8%8D%A3%E8%80%80Air%E8%A1%A5%E9%BD%90iPhoneAir%E7%9F%AD%E6%9D%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "马斯克：电力是AI时代唯一的“军备”",
           "url": "https://www.toutiao.com/trending/7594102715242250276/",
           "source": "今日头条",
@@ -296,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "值得买：公司注意到近期市场对“GEO”相关概念关注较大，公司业务暂不涉及GEO业务。公司AI相关业务和产品处于投入初始阶段，公司2025年前三季度实现AI相关收入占公司整体营业收入比例很小，对公司整体经营情况没有重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3037036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
@@ -392,7 +415,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -436,7 +459,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
@@ -444,7 +467,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -454,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时20分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时20分 ~ 21时02分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -577,6 +600,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
+          "url": "https://flash.jin10.com/detail/20260114202836391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -608,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3037009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
