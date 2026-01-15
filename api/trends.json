@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T16:39:43.152151+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-15T17:35:24.345717+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -63,6 +63,20 @@
           "time_info": "[10时09分 ~ 16时39分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时35分]"
+        },
+        {
           "title": "AI查贪官准确率相当高",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -101,8 +115,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 16时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 17时35分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -141,20 +155,6 @@
           "time_info": "[00时39分 ~ 16时39分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时39分]"
-        },
-        {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
           "url": "https://www.cls.cn/detail/2257499",
           "source": "财联社热门",
@@ -173,11 +173,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 17时35分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -192,6 +193,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时42分 ~ 07时24分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 17时35分]"
         },
         {
           "title": "AI医疗、AI制药概念震荡调整，泓博医药跌超18%，诺思格跌近15%，国际医学、博济医药、嘉和美康、贝瑞基因等跌逾5%。",
@@ -216,19 +231,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 03时26分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 16时39分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -290,6 +292,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
+          "url": "https://www.cls.cn/detail/2258510",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 17时35分]"
         },
         {
           "title": "千问AI打电话订餐厅",
@@ -358,15 +371,15 @@
           "time_info": "12时08分"
         },
         {
-          "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
-          "url": "https://www.cls.cn/detail/2258510",
+          "title": "两市量能逼近4万亿，短线波动加剧，静待商业航天、AI 应用筹码沉淀",
+          "url": "https://www.cls.cn/detail/2258295",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时31分"
+          "time_info": "17时35分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -389,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "印度航空：AI101航班在浓雾中滑行时遭遇异物，导致右侧发动机受损。",
+          "url": "https://flash.jin10.com/detail/20260115172343912800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "台积电：AI相关需求强劲。",
@@ -422,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "印度航空证实，从德里飞往纽约的AI101航班起飞后，因伊朗领空意外关闭，被迫返回德里。",
+          "url": "https://flash.jin10.com/detail/20260115172210698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国加州州长纽森：呼吁司法部长立即调查xAI并追究其责任。",
@@ -471,7 +506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -493,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 17时35分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -629,6 +664,17 @@
           "time_info": "[06时31分 ~ 07时24分]"
         },
         {
+          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
+          "url": "https://wallstreetcn.com/livenews/3037834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013113108800",
           "source": "金十数据",
@@ -727,11 +773,12 @@
             12,
             15,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时35分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
