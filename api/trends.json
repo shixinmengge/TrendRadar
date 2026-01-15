@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:35:24.345717+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-01-15T18:32:55.303508+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -48,6 +48,20 @@
           "time_info": "[02时42分 ~ 13时33分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 18时32分]"
+        },
+        {
           "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
           "url": "https://www.cls.cn/detail/2258255",
           "source": "财联社热门",
@@ -61,20 +75,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时09分 ~ 16时39分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时35分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -112,11 +112,12 @@
             17,
             18,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 17时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 18时32分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -177,8 +178,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 18时32分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 18时32分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -195,18 +210,15 @@
           "time_info": "[02时42分 ~ 07时24分]"
         },
         {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
           "ranks": [
-            9,
-            6,
-            5,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "AI医疗、AI制药概念震荡调整，泓博医药跌超18%，诺思格跌近15%，国际医学、博济医药、嘉和美康、贝瑞基因等跌逾5%。",
@@ -338,6 +350,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "赖清德称自己的“赖”里有AI被讽",
           "url": "https://www.douyin.com/hot/2368133",
           "source": "抖音",
@@ -377,7 +400,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -410,7 +433,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -454,7 +477,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -528,8 +551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时09分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[10时09分 ~ 18时32分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -670,7 +693,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -777,8 +800,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 18时32分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
