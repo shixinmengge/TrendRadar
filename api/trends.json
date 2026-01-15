@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:33:06.159565+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-01-15T14:43:27.008964+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -81,11 +81,12 @@
             10,
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -115,11 +116,12 @@
             13,
             19,
             14,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时43分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -143,8 +145,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 14时43分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时33分]"
+          "time_info": "[12时08分 ~ 14时43分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -159,18 +173,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时42分 ~ 07时24分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时33分]"
         },
         {
           "title": "AI医疗、AI制药概念震荡调整，泓博医药跌超18%，诺思格跌近15%，国际医学、博济医药、嘉和美康、贝瑞基因等跌逾5%。",
@@ -222,6 +224,18 @@
           "time_info": "[12时08分 ~ 13时33分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 14时43分]"
+        },
+        {
           "title": "于正秀腹肌被判定AI",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -235,15 +249,15 @@
           "time_info": "[12时08分 ~ 13时33分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 14时43分]"
         },
         {
           "title": "美国主要电网运营商因AI热潮过热调低用电需求预测",
@@ -256,17 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
-          "url": "https://www.zhihu.com/question/1994356851211515794",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 13时33分]"
         },
         {
           "title": "千问AI打电话订餐厅",
@@ -300,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "美国佛州州长加大对AI与数据中心“现实风险”的警告力度",
@@ -344,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "台积电：AI相关需求强劲。",
+          "url": "https://flash.jin10.com/detail/20260115142312699800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "加州总检察长：我们要求xAI就其阻止深度伪造内容生成与传播的计划立即作出回应。",
@@ -415,7 +440,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -443,6 +468,17 @@
           "time_info": "[02时42分 ~ 06时31分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 14时43分]"
+        },
+        {
           "title": "美股集体低开 携程跌近17%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
           "source": "百度热搜",
@@ -455,17 +491,6 @@
           "time_info": "[00时39分 ~ 07时24分]"
         },
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时33分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
           "url": "https://www.cls.cn/detail/2258154",
           "source": "财联社热门",
@@ -475,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时43分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -500,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
+          "url": "https://flash.jin10.com/detail/20260115142957597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
@@ -658,11 +694,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时43分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
