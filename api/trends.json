@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:31:54.930491+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-01-15T16:39:43.152151+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,21 @@
           "time_info": "[02时42分 ~ 13时33分]"
         },
         {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 16时39分]"
+        },
+        {
           "title": "AI查贪官准确率相当高",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -82,11 +97,12 @@
             11,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 16时39分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -117,25 +133,26 @@
             19,
             14,
             22,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 16时39分]"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4,
-            5,
-            3
+            7,
+            3,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时09分 ~ 15时31分]"
+          "time_info": "[12时08分 ~ 16时39分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -150,17 +167,17 @@
           "time_info": "[01时33分 ~ 07时24分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
           "ranks": [
             7,
-            3,
-            2
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时31分]"
+          "time_info": "[13时32分 ~ 16时39分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -175,19 +192,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时42分 ~ 07时24分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时31分]"
         },
         {
           "title": "AI医疗、AI制药概念震荡调整，泓博医药跌超18%，诺思格跌近15%，国际医学、博济医药、嘉和美康、贝瑞基因等跌逾5%。",
@@ -212,6 +216,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 03时26分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时39分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -261,18 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时32分 ~ 14时43分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时31分]"
         },
         {
           "title": "美国主要电网运营商因AI热潮过热调低用电需求预测",
@@ -326,7 +331,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -359,7 +364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -481,6 +486,17 @@
           "time_info": "[00时39分 ~ 07时24分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 16时39分]"
+        },
+        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -492,17 +508,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 06时31分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 15时31分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -725,8 +730,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时39分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
