@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:24:46.437377+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-17T04:29:38.128352+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -37,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -49,22 +52,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
           "url": "https://flash.jin10.com/detail/20260117021136642800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时29分]"
         }
       ]
     },
@@ -80,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -91,19 +96,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
@@ -131,7 +137,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -142,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -154,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -165,8 +171,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
+        },
+        {
+          "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
+          "url": "https://flash.jin10.com/detail/20260117034809871800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
@@ -235,8 +252,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时29分]"
         }
       ]
     }
