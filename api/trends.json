@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:31:50.337710+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-01-16T16:39:11.888817+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -34,6 +34,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时42分 ~ 07时28分]"
+        },
+        {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时39分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -86,24 +99,12 @@
             25,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 15时31分]"
-        },
-        {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 15时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 16时39分]"
         },
         {
           "title": "三大指数集体翻绿，创业板指此前一度涨超1%，AI应用、保险、油气、医药医疗等方向跌幅居前，沪深京三市下跌个股超3000只。",
@@ -179,6 +180,18 @@
           "time_info": "[10时10分 ~ 12时05分]"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 16时39分]"
+        },
+        {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
           "url": "https://wallstreetcn.com/livenews/3038126",
           "source": "华尔街见闻-快讯",
@@ -189,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
@@ -223,17 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "券商晨会精华：把握AIDC电源向大功率、高压化、直流化趋势",
@@ -362,8 +375,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时39分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -402,6 +415,19 @@
           "time_info": "07时28分"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 16时39分]"
+        },
+        {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260116050523142800",
           "source": "金十数据",
@@ -424,19 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时29分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 15时31分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
@@ -535,8 +548,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 16时39分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -681,7 +694,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
