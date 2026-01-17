@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T12:40:02.021938+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-01-17T13:27:59.366427+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 11时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 13时27分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时27分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -46,20 +60,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时30分 ~ 07时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时40分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -172,8 +172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 13时27分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -218,8 +218,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 13时27分]"
         },
         {
           "title": "美政府推动科技巨头为AI用电买单",
@@ -228,11 +228,12 @@
           "ranks": [
             11,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 13时27分]"
         },
         {
           "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
@@ -297,7 +298,7 @@
     },
     {
       "keyword_group": "chatgpt",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -362,6 +363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时29分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
@@ -495,11 +507,12 @@
           "ranks": [
             3,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 13时27分]"
         }
       ]
     }
