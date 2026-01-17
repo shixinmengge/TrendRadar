@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:34:43.987356+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-17T17:28:04.683678+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 16时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时27分 ~ 17时28分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -45,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 16时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 17时28分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -198,8 +198,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 17时28分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -311,8 +311,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 17时28分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
