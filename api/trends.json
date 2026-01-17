@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T02:37:06.557807+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-01-18T03:21:31.340799+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -37,8 +37,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     },
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     }
