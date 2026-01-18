@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T14:41:05.510752+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-01-18T15:26:33.958293+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "ranks": [
             12,
             10,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时26分]"
         },
         {
           "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
@@ -61,11 +62,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时26分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -76,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时26分]"
         },
         {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
@@ -128,8 +130,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时26分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -147,11 +149,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 15时26分]"
         }
       ]
     },
@@ -176,11 +179,12 @@
           "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 15时26分]"
         }
       ]
     },
