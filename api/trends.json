@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:25:13.694165+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-18T23:26:46.996232+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 22时25分]"
+          "appearance_count": 10,
+          "time_info": "[17时28分 ~ 23时26分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -33,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时31分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[13时31分 ~ 23时26分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -109,11 +109,12 @@
           "ranks": [
             4,
             12,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 23时26分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -220,8 +221,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时40分 ~ 22时25分]"
+          "appearance_count": 15,
+          "time_info": "[14时40分 ~ 23时26分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -239,7 +240,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -252,6 +253,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 10时24分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     }
