@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:04:13.296093+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-01-19T22:35:49.945196+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -83,6 +83,29 @@
           "time_info": "[16时42分 ~ 19时28分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时35分]"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时35分]"
+        },
+        {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
           "url": "https://wallstreetcn.com/livenews/3039528",
           "source": "华尔街见闻-快讯",
@@ -93,28 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 14时50分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
-        },
-        {
-          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
-          "url": "https://www.cls.cn/detail/2262181",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "Air手机界来了个真Pro",
@@ -145,7 +146,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -225,12 +226,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "李稻葵：马斯克的预言是“AI乌托邦”",
+          "url": "https://www.toutiao.com/trending/7596717546255581227/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -255,6 +267,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时25分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
@@ -317,6 +340,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
