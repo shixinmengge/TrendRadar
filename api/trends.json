@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-19T10:22:05.848149+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-19T12:16:45.414955+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 10时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 12时16分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时26分]"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
