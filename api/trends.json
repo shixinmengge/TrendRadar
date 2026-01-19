@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T07:26:23.315897+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-19T10:22:05.848149+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时22分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 10时22分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -50,7 +50,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -68,26 +68,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt",
-      "match_count": 1,
+      "keyword_group": "openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 10时22分]"
+        },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
@@ -99,6 +93,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时22分]"
         }
       ]
     },
