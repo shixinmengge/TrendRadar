@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:37:43.308993+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-01-19T19:28:33.349259+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时28分]"
         },
         {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
@@ -189,6 +189,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时28分]"
+        },
+        {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
@@ -200,17 +211,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时25分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时37分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
