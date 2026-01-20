@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:39:17.632521+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2026-01-20T23:38:50.976317+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -294,7 +294,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -306,8 +306,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时27分 ~ 22时39分]"
+          "appearance_count": 19,
+          "time_info": "[07时27分 ~ 23时38分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -330,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1.5%，标普500指数期货跌1.3%，道指期货跌1.3%。",
@@ -359,11 +370,12 @@
           "url": "https://www.cls.cn/detail/2264127",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 22时39分]"
+          "appearance_count": 3,
+          "time_info": "[22时38分 ~ 23时38分]"
         },
         {
           "title": "Applovin美股盘前跌超10%，现报511.53美元。Capitalwatch指控APPLovin“广告即洗钱”，协助“东南亚杀猪盘” 。",
@@ -377,15 +389,37 @@
           "time_info": "17时40分"
         },
         {
+          "title": "美股存储芯片股逆势大涨，美光、希捷、闪迪等股集体刷新记录新高",
+          "url": "https://wallstreetcn.com/livenews/3040557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美股三大指数大幅低开",
           "url": "https://flash.jin10.com/detail/20260120223022654800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "行业ETF美股盘初几乎全线溃败，生物科技指数ETF、可选消费ETF、全球科技股指数ETF至多跌2.29%，网络股指数ETF、科技行业ETF、半导体ETF至多跌1.82%，能源业ETF涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3040543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "欧美股市跌幅扩大，纳斯达克100指数期货跌2%，德国DAX指数跌超1%",
@@ -485,6 +519,17 @@
           "time_info": "[07时27分 ~ 07时28分]"
         },
         {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 23时38分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI与ServiceNow达成协议，在商业软件中使用人工智能代理。",
           "url": "https://flash.jin10.com/detail/20260120204541894800",
           "source": "金十数据",
@@ -505,23 +550,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -571,13 +605,24 @@
           "time_info": "17时40分"
         },
         {
+          "title": "恒天然：1月20日全球乳品贸易（GDT）拍卖价格指数上涨1.5%，奶粉各合同期FAS拍卖均价3,615美元/吨。 批发奶粉价格指数上升1.0%，报3,449美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3040547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3040513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -610,8 +655,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 23时38分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
