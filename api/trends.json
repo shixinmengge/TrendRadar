@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T18:36:48.716122+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-01-20T19:31:50.723196+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "医生给1岁娃开小众药被AI提醒慎用",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时35分 ~ 15时35分]"
+        },
+        {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 19时31分]"
         },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -41,19 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 18时36分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -185,7 +185,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -221,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "国际铝业协会（IAI）：12月全球原铝产量为629.6万公吨。",
+          "url": "https://flash.jin10.com/detail/20260120190051094800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
@@ -292,8 +303,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时27分 ~ 18时36分]"
+          "appearance_count": 15,
+          "time_info": "[07时27分 ~ 19时31分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -479,11 +490,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 19时31分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
@@ -524,11 +536,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 19时31分]"
         }
       ]
     }
