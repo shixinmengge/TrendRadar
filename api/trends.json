@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T17:40:09.274201+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-20T18:36:48.716122+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "医生给1岁娃开小众药被AI提醒慎用",
@@ -43,6 +43,19 @@
           "time_info": "07时28分"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 18时36分]"
+        },
+        {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
           "url": "https://www.cls.cn/detail/2262334",
           "source": "财联社热门",
@@ -52,6 +65,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 03时25分]"
+        },
+        {
+          "title": "外媒谈AI竞争：中国会笑到最后",
+          "url": "https://www.douyin.com/hot/2373802",
+          "source": "抖音",
+          "ranks": [
+            16,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 18时36分]"
         },
         {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
@@ -67,18 +93,6 @@
           "time_info": "[04时32分 ~ 06时29分]"
         },
         {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 17时40分]"
-        },
-        {
           "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
           "url": "https://www.zhihu.com/question/1995084390166988443",
           "source": "知乎",
@@ -89,18 +103,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 13时36分]"
-        },
-        {
-          "title": "外媒谈AI竞争：中国会笑到最后",
-          "url": "https://www.douyin.com/hot/2373802",
-          "source": "抖音",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 17时40分]"
         },
         {
           "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
@@ -175,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
@@ -279,8 +292,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时27分 ~ 17时40分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 18时36分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -322,7 +335,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -333,7 +346,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -386,7 +399,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -465,11 +478,12 @@
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时36分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
@@ -509,11 +523,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4%E6%AF%8F%E7%9B%8E%E5%8F%B84700%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时36分]"
         }
       ]
     }
