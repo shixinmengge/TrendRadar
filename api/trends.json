@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T03:34:06.401593+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-22T04:39:50.546046+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             8,
-            29
+            29,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -50,11 +51,12 @@
           "ranks": [
             18,
             13,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -65,8 +67,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -76,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 03时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 04时39分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -114,6 +116,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3041492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
           "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
           "url": "https://wallstreetcn.com/livenews/3041407",
           "source": "华尔街见闻-快讯",
@@ -139,29 +152,43 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
           "url": "https://wallstreetcn.com/articles/3763768",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
+        },
+        {
+          "title": "美股集体高开 百度涨5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 04时39分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -176,15 +203,15 @@
           "time_info": "[02时53分 ~ 03时34分]"
         },
         {
-          "title": "美股集体高开 百度涨5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A85%25",
-          "source": "百度热搜",
+          "title": "特朗普称与北约达成格陵兰“协议框架”，2月1日不加关税，美股涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3041483",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 03时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股盘中）",
@@ -207,6 +234,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
+          "url": "https://wallstreetcn.com/livenews/3041450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时34分]"
+        },
+        {
+          "title": "美元指数短线拉升，特朗普称与北约就“未来格陵兰协议”达成框架",
+          "url": "https://wallstreetcn.com/livenews/3041496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     },
@@ -240,26 +296,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
-          "url": "https://wallstreetcn.com/livenews/3041450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时39分]"
         }
       ]
     }
