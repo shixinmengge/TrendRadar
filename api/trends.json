@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:31:42.635181+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2026-01-21T21:04:06.550806+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 21时04分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -94,6 +94,30 @@
           "time_info": "[13时35分 ~ 16时40分]"
         },
         {
+          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时04分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
           "url": "https://wallstreetcn.com/livenews/3040698",
           "source": "华尔街见闻-快讯",
@@ -154,18 +178,6 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时31分]"
-        },
-        {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3040692",
           "source": "华尔街见闻-快讯",
@@ -209,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "奈飞美股盘前跌幅扩大至7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "拼多多美股盘前涨超7%。",
@@ -264,12 +287,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "强生第四季度调整后每股收益2.46美元，上年同期2.04美元，预估2.47美元。 第四季度销售额245.6亿美元，同比增长9.1%，预估241.5亿美元。 强生预计2026年销售额1,000亿美元至1,010亿美元，市场预估988.8亿美元。 强生预计2026年调整后每股收益11.43美元至11.63美元。 强生美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3041259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -298,8 +332,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时35分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[13时35分 ~ 21时04分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 21时04分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -313,18 +362,15 @@
           "time_info": "[13时35分 ~ 19时31分]"
         },
         {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
+          "title": "俄罗斯积雪9层楼高视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7597721748050444351/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            12,
-            10,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时31分]"
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "拳头程序员分析人类对战AI胜算",
@@ -348,6 +394,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时37分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时04分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -387,16 +445,15 @@
           "time_info": "[02时53分 ~ 04时17分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时31分]"
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
@@ -428,7 +485,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -494,7 +551,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
@@ -660,8 +717,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 21时04分]"
         },
         {
           "title": "对价格“不敏感”的央行需求或将支撑黄金",
