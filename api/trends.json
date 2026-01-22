@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:36:35.297788+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-01-22T19:29:56.151143+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -93,6 +93,20 @@
           "time_info": "[06时32分 ~ 15时34分]"
         },
         {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时45分 ~ 19时29分]"
+        },
+        {
           "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
           "url": "https://www.cls.cn/detail/2265956",
           "source": "财联社热门",
@@ -124,20 +138,6 @@
           "time_info": "[12时14分 ~ 18时36分]"
         },
         {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时45分 ~ 18时36分]"
-        },
-        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时52分 ~ 07时32分]"
+        },
+        {
+          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260122191404959800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
@@ -173,6 +184,29 @@
           "time_info": "[10时21分 ~ 14时45分]"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时29分]"
+        },
+        {
           "title": "切入生成式AI赛道！苹果战略转向：首款AI聊天机器人要来了？",
           "url": "https://www.cls.cn/detail/2265865",
           "source": "财联社热门",
@@ -194,17 +228,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时21分 ~ 13时35分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 17时42分]"
         },
         {
           "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
@@ -356,8 +379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 19时29分]"
         },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -392,8 +415,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 19时29分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
