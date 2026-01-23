@@ -1,855 +1,106 @@
 {
-  "generated_at": "2026-01-23T23:34:06.831331+08:00",
-  "total_titles_processed": 2156,
+  "generated_at": "2026-01-24T00:39:45.816467+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
-          "url": "https://www.cls.cn/detail/2267129",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时31分]"
-        },
-        {
-          "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
-          "url": "https://wallstreetcn.com/articles/3763880",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时43分 ~ 07时28分]"
-        },
-        {
-          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，白银逼近100美元/盎司",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时33分 ~ 23时34分]"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260123050525773800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260123050514385800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘后跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260123050245110800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时36分]"
-        },
-        {
-          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3042893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时01分]"
-        },
-        {
-          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时33分]"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260123024054852800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260123024048159800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
-          "url": "https://flash.jin10.com/detail/20260123215250387800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.78%，报426.08点，时隔一个交易日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.49%，报2968.32点，也创收盘历史新高，美股开盘之前维持微幅下跌状态、持续交投于2880点下方，随后显著拉升。 （美股）原材料指数收涨1.88%，（美股）金属与矿业指数收跌0.89%。",
-          "url": "https://wallstreetcn.com/livenews/3042327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3042983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 阿里巴巴涨5%",
-          "url": "https://flash.jin10.com/detail/20260123050139083800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场股票指数涨1%，创历史新高，亚洲、拉美股市走高。 成分股三星电子创历史新高，带动韩国股指首次突破5000点整数位心理关口。 MSCI拉美股票指数涨1.9%，创2018年4月份以来新高；拉美/原材料指数已经在2026年迄今狂飙17%，更大范围的股票指数同期也涨12%。 MSCI发展中国家外汇指数涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3042326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘后跌幅扩大至10%，其一季度营收展望不及预期。",
-          "url": "https://flash.jin10.com/detail/20260123062128122800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3042921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "网络股指数ETF收涨1.9%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3042314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "AMD美股盘前涨超3%。中国数据中心及云计算公司ADR同步走高，世纪互联涨5.7%、万国数据涨7.4%、金山云涨6.1%。",
-          "url": "https://wallstreetcn.com/livenews/3042920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "英特尔股价美股盘后跌9%。",
-          "url": "https://wallstreetcn.com/livenews/3042340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3042182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美股盘前，英特尔跌约13%，AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色。",
-          "url": "https://wallstreetcn.com/livenews/3042776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3042306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美银：特朗普关税威胁下美股资金流出170亿美元 欧洲、日本获强势流入",
-          "url": "https://wallstreetcn.com/livenews/3042905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260123223746516800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "英特尔四季度营收136.7亿美元，分析师预期134.3亿美元。 四季度数据中心和AI营收47.4亿美元，分析师预期44.2亿美元。 四季度客户计算营收81.9亿美元，分析师预期83.0亿美元。 四季度英特尔代工（Intel Foundry）营收45.1亿美元，分析师预期43.6亿美元。 预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。 英特尔（INTC）美股盘后跌4.62%。",
-          "url": "https://wallstreetcn.com/livenews/3042302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美股行业ETF普遍走低，全球航空业ETF跌1.14%，银行业ETF跌0.74%，金融业ETF跌0.71%，生物科技指数ETF跌0.64%，半导体指数跌0.50%，科技行业ETF跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3043000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜Meta收涨超5.6%，特斯拉涨超4.1%",
-          "url": "https://wallstreetcn.com/livenews/3042301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时28分]"
-        },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763967",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时10分 ~ 23时34分]"
-        },
-        {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
           "url": "https://www.zhihu.com/question/1997844624513975566",
           "source": "知乎",
           "ranks": [
-            14,
-            13,
-            11,
-            6,
-            7,
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时39分 ~ 23时34分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%91%E5%B1%95%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%88%9B%E4%BD%9C%E8%80%85%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            19,
-            24,
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时32分 ~ 23时34分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时28分]"
-        },
-        {
-          "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3042302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时31分"
-        },
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
-          "url": "https://wallstreetcn.com/livenews/3042270",
+          "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3043036",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 05时31分]"
-        },
-        {
-          "title": "郑钦文的网友们人均用上了AI助理",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E7%BD%91%E5%8F%8B%E4%BB%AC%E4%BA%BA%E5%9D%87%E7%94%A8%E4%B8%8A%E4%BA%86AI%E5%8A%A9%E7%90%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 15时32分]"
-        },
-        {
-          "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
-          "url": "https://www.cls.cn/detail/2267399",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时37分]"
-        },
-        {
-          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
-          "url": "https://www.zhihu.com/question/1997937872972505781",
-          "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
-          "title": "智谱 AI 因算力告急「限购」GLM 编程计划，暴露出 AI 行业哪些问题？",
-          "url": "https://www.zhihu.com/question/1997433388664131775",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时33分]"
-        },
-        {
-          "title": "影视飓风说荣耀Air是独一档",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%AF%B4%E8%8D%A3%E8%80%80Air%E6%98%AF%E7%8B%AC%E4%B8%80%E6%A1%A3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
+          "url": "https://flash.jin10.com/detail/20260123233248519800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 19时28分]"
-        },
-        {
-          "title": "韩国在全球率先施行涉AI指导性法律，相关细节引发国内业界担忧",
-          "url": "https://wallstreetcn.com/livenews/3042354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "头号重仓股易主，公募持续掘金AI主线",
-          "url": "https://wallstreetcn.com/livenews/3042350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "市场消息：印度反垄断调查通过WhatsApp聊天记录及生产数据，将塔塔钢铁、JSW钢铁、印度钢铁管理局（SAIL）以及RINL与钢铁价格垄断联盟联系起来。报告称，“有充分的间接证据”表明SAIL、RINL、JSW和塔塔钢铁进行了协同行动。",
-          "url": "https://flash.jin10.com/detail/20260123175410057800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
-          "url": "https://wallstreetcn.com/livenews/3042186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "中国变压器掐住全球AI命门",
-          "url": "https://www.toutiao.com/trending/7598341224663109161/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
           "ranks": [
-            20,
-            17,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时37分 ~ 23时34分]"
-        },
-        {
-          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
-          "url": "https://wallstreetcn.com/livenews/3042255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时36分]"
-        },
-        {
-          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
-          "url": "https://flash.jin10.com/detail/20260123151617900800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
-          "url": "https://wallstreetcn.com/livenews/3042190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
-          "url": "https://flash.jin10.com/detail/20260123150451290800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000407972800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 6,
+      "keyword_group": "美股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
-          "url": "https://flash.jin10.com/detail/20260123040242165800",
-          "source": "金十数据",
+          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
-        },
-        {
-          "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
-          "url": "https://wallstreetcn.com/livenews/3042264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：上个月API业务新增了约10亿美元的年度经常性收入(ARR)。",
-          "url": "https://flash.jin10.com/detail/20260123021101684800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时31分]"
-        },
-        {
-          "title": "OpenAI拟从客户AI辅助研发成果中分成",
-          "url": "https://flash.jin10.com/detail/20260123024532109800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR。",
-          "url": "https://wallstreetcn.com/livenews/3042253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时31分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR（年度可重复性收入/年度经常性收入）。",
-          "url": "https://wallstreetcn.com/livenews/3042253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数DXY跌约0.5% 非美货币日内走高",
-          "url": "https://flash.jin10.com/detail/20260123002146902800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美元指数DXY日内跌超0.50%，现报98.30。",
-          "url": "https://flash.jin10.com/detail/20260123044526005800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.67%，暂报3704.62点，北京时间03:27出现一波显著的拉升行情，随后长时间地高位震荡，06:11达到3813.05点，18:00之前开始逐步回吐涨幅。 MarketVectorTM数字资产100中盘指数涨2.42%，报3504.02点。 MarketVector数字资产100指数涨1.85%，报18229.71点。 目前，Solana跌2%，狗狗币跌1.51%，XRP跌1.79%。 比特币跌1%，暂报88999美元；以太坊跌2.34%，暂报2950美元。",
-          "url": "https://wallstreetcn.com/livenews/3042215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美元指数跌0.4%",
-          "url": "https://wallstreetcn.com/livenews/3042282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "现货黄金涨超1.2%，刷新历史高位至4891美元上方，得益于美元走弱。 美元指数跌超0.4%，至98.31。",
-          "url": "https://wallstreetcn.com/livenews/3042235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时10分 ~ 21时01分]"
-        },
-        {
-          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3042361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
-          "url": "https://flash.jin10.com/detail/20260123120453959800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "00时39分"
         }
       ]
     }
