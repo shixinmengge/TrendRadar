@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T10:10:41.101043+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-23T12:08:37.395215+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[00时43分 ~ 06时31分]"
         },
         {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时08分]"
+        },
+        {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
           "url": "https://wallstreetcn.com/articles/3763880",
           "source": "华尔街见闻",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时43分 ~ 07时28分]"
-        },
-        {
-          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
-          "url": "https://www.cls.cn/detail/2267129",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 10时10分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
@@ -295,11 +296,12 @@
           "url": "https://wallstreetcn.com/articles/3763967",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 12时08分]"
         },
         {
           "title": "韩国在全球率先施行涉AI指导性法律，相关细节引发国内业界担忧",
@@ -546,11 +548,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 12时08分]"
         }
       ]
     }
