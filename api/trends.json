@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T22:33:02.247003+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2026-01-23T23:34:06.831331+08:00",
+  "total_titles_processed": 2156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时43分 ~ 07时28分]"
+        },
+        {
+          "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，白银逼近100美元/盎司",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
@@ -158,7 +169,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -180,7 +191,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -306,6 +317,17 @@
           "time_info": "21时01分"
         },
         {
+          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260123223746516800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "英特尔四季度营收136.7亿美元，分析师预期134.3亿美元。 四季度数据中心和AI营收47.4亿美元，分析师预期44.2亿美元。 四季度客户计算营收81.9亿美元，分析师预期83.0亿美元。 四季度英特尔代工（Intel Foundry）营收45.1亿美元，分析师预期43.6亿美元。 预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。 英特尔（INTC）美股盘后跌4.62%。",
           "url": "https://wallstreetcn.com/livenews/3042302",
           "source": "华尔街见闻-快讯",
@@ -315,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美股行业ETF普遍走低，全球航空业ETF跌1.14%，银行业ETF跌0.74%，金融业ETF跌0.71%，生物科技指数ETF跌0.64%，半导体指数跌0.50%，科技行业ETF跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3043000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收涨超5.6%，特斯拉涨超4.1%",
@@ -354,8 +387,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 22时33分]"
+          "appearance_count": 16,
+          "time_info": "[10时10分 ~ 23时34分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -372,17 +405,21 @@
           "time_info": "[14时44分 ~ 18时33分]"
         },
         {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
           "ranks": [
+            14,
+            13,
+            11,
+            6,
+            7,
             9,
-            8,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[16时39分 ~ 23时34分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -395,24 +432,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时32分 ~ 22时33分]"
+          "appearance_count": 11,
+          "time_info": "[15时32分 ~ 23时34分]"
         },
         {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
-          "source": "知乎",
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            13,
-            11,
-            6,
-            7,
-            9
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时28分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -573,11 +607,12 @@
           "ranks": [
             20,
             17,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 23时34分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
