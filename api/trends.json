@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:27:13.480938+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-01-24T23:27:17.520780+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时01分 ~ 22时27分]"
+          "appearance_count": 19,
+          "time_info": "[12时01分 ~ 23时27分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -44,11 +44,12 @@
             5,
             4,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 23时27分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -61,11 +62,12 @@
             18,
             21,
             22,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时35分 ~ 22时27分]"
+          "appearance_count": 12,
+          "time_info": "[16时35分 ~ 23时27分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
@@ -94,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时23分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[19时23分 ~ 23时27分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -105,11 +107,12 @@
             1,
             14,
             21,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 23时27分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -124,17 +127,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时26分 ~ 19时24分]"
-        },
-        {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
@@ -212,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时43分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时27分]"
         },
         {
           "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
@@ -325,7 +329,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -336,8 +340,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时28分 ~ 22时27分]"
+          "appearance_count": 22,
+          "time_info": "[07时28分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -351,8 +355,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时28分 ~ 22时27分]"
+          "appearance_count": 22,
+          "time_info": "[07时28分 ~ 23时27分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -376,6 +380,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时30分 ~ 07时28分]"
+        },
+        {
+          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
+          "url": "https://flash.jin10.com/detail/20260124222616668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
