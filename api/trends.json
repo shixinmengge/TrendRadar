@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T04:29:35.110812+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-01-25T05:25:07.547299+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -37,22 +37,12 @@
           "ranks": [
             17,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
-        },
-        {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -65,8 +55,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 05时25分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -94,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -105,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时25分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -116,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时25分]"
         }
       ]
     },
@@ -133,8 +134,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时25分]"
         }
       ]
     }
