@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T03:22:30.589453+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-01-25T04:29:35.110812+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -40,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -61,11 +61,12 @@
           "ranks": [
             20,
             18,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 04时29分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -93,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -104,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -115,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时29分]"
         }
       ]
     },
@@ -132,8 +133,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时29分]"
         }
       ]
     }
