@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:37:54.669420+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-01-25T22:26:26.016706+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 21时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 22时26分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时41分 ~ 22时26分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -45,24 +59,12 @@
             2,
             1,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 21时37分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时41分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 22时26分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -74,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 22时26分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -186,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }
@@ -291,11 +293,12 @@
             8,
             13,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 21时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 22时26分]"
         }
       ]
     }
