@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:29:39.325322+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-01-25T19:24:21.355586+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 18时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 19时24分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 19时24分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -67,6 +67,18 @@
           "time_info": "[00时33分 ~ 07时26分]"
         },
         {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 19时24分]"
+        },
+        {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
@@ -79,16 +91,17 @@
           "time_info": "[00时33分 ~ 10时28分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            10,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时41分 ~ 19时24分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -106,19 +119,6 @@
           "time_info": "[01时24分 ~ 07时26分]"
         },
         {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时41分 ~ 18时29分]"
-        },
-        {
           "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
           "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
           "source": "百度热搜",
@@ -127,8 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时24分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -204,11 +204,12 @@
             8,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 18时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 19时24分]"
         },
         {
           "title": "警惕美股波动性卷土重来",
@@ -263,11 +264,12 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时24分]"
         }
       ]
     }
