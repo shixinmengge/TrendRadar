@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-01-27T04:35:30.006785+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-01-27T05:31:35.335992+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3044195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
+          "url": "https://wallstreetcn.com/livenews/3044129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 03时30分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050540534800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050519889800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 苹果涨近3%",
+          "url": "https://flash.jin10.com/detail/20260127050110831800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 7,
@@ -15,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -26,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -37,8 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -49,8 +134,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -61,8 +146,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -90,43 +175,52 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
+          "source": "金十数据",
           "ranks": [
-            1
+            10
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
+          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
+          "url": "https://flash.jin10.com/detail/20260126235706137800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
-          "url": "https://wallstreetcn.com/livenews/3044129",
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20260127044040593800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美元指数跌约0.6%，一度创逾四个月新低",
+          "url": "https://wallstreetcn.com/livenews/3044178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            23,
-            28
+            18
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 03时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },
@@ -142,8 +236,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时31分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
@@ -152,7 +246,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -203,23 +297,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
-          "url": "https://flash.jin10.com/detail/20260126235706137800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
