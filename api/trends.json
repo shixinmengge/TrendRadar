@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:34:56.919535+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-01-26T16:42:42.324435+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -91,11 +91,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 16时42分]"
         },
         {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
@@ -104,11 +105,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 16时42分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -120,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 16时42分]"
         },
         {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
@@ -129,11 +131,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 16时42分]"
         },
         {
           "title": "网友刚买iPhoneAir第二天就降价2000元",
@@ -146,6 +149,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时37分]"
+        },
+        {
+          "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
+          "url": "https://www.cls.cn/detail/2269055",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
+          "url": "https://flash.jin10.com/detail/20260126154144414800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "你怎么看iPhone Air降价",
@@ -198,7 +223,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -214,11 +239,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 16时42分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -228,11 +254,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 16时42分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -260,7 +287,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -288,13 +315,24 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
