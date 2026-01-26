@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T03:30:49.318945+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-01-27T04:35:30.006785+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -37,30 +37,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
           "url": "https://www.cls.cn/detail/2270223",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -99,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -110,8 +112,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -125,6 +127,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时35分]"
+        },
+        {
+          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
+          "url": "https://flash.jin10.com/detail/20260127032144088800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     },
@@ -177,23 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时30分]"
         }
       ]
     },
