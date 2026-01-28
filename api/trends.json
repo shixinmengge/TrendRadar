@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-29T01:38:59.905413+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-29T02:48:28.530247+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
           "url": "https://www.zhihu.com/question/1999415789258826467",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
+        },
+        {
+          "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
+          "url": "https://wallstreetcn.com/livenews/3045737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -26,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -37,8 +49,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -48,20 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -71,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -89,18 +102,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
           "url": "https://www.cls.cn/detail/2272925",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -109,7 +123,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -120,7 +134,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -133,8 +147,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
+        },
+        {
+          "title": "瑞银：美联储仍将成为美股的顺风因素",
+          "url": "https://flash.jin10.com/detail/20260129022119825800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -150,6 +175,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
+          "url": "https://flash.jin10.com/detail/20260129021221208800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -161,8 +203,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时48分]"
         }
       ]
     }
