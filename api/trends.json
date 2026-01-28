@@ -1,11 +1,209 @@
 {
-  "generated_at": "2026-01-29T06:35:37.524286+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-01-29T07:33:22.435544+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260129013122619800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260129013023144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
+          "url": "https://flash.jin10.com/detail/20260129051658551800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时35分]"
+        },
+        {
+          "title": "瑞银：美联储仍将成为美股的顺风因素",
+          "url": "https://flash.jin10.com/detail/20260129022119825800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260129050547411800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260129050543904800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
+          "url": "https://wallstreetcn.com/livenews/3045853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨2.38%，报451.13点。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.13%，报3196.53点。 （美股）原材料指数收跌0.29%，金属与矿业指数收跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3045820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
+          "url": "https://flash.jin10.com/detail/20260129053426174800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
+          "url": "https://flash.jin10.com/detail/20260129050049767800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260128235421935800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -17,8 +215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -26,23 +224,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -53,11 +240,12 @@
             13,
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -68,8 +256,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -77,6 +265,18 @@
           "source": "凤凰网",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -100,7 +300,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -167,7 +367,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -192,187 +392,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
         },
         {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260129013122619800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260129013023144800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
-          "url": "https://flash.jin10.com/detail/20260129051658551800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时35分]"
-        },
-        {
-          "title": "瑞银：美联储仍将成为美股的顺风因素",
-          "url": "https://flash.jin10.com/detail/20260129022119825800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260129050547411800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260129050543904800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
-          "url": "https://wallstreetcn.com/livenews/3045829",
+          "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
+          "url": "https://wallstreetcn.com/livenews/3045880",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
-          "url": "https://wallstreetcn.com/livenews/3045853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨2.38%，报451.13点。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.13%，报3196.53点。 （美股）原材料指数收跌0.29%，金属与矿业指数收跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3045852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3045820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
-          "url": "https://flash.jin10.com/detail/20260129053426174800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
-          "url": "https://flash.jin10.com/detail/20260129050049767800",
-          "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260128235421935800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "07时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -381,7 +417,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -395,6 +431,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "周四亚太盘初，纳斯达克100股指期货涨0.5%。 目前（美股盘后），科技股IBM涨8.4%，（电话会已经结束的）Meta涨8.3%，Pinterest涨3%，美光涨2.8%，谷歌A涨2.3%，AMD、（电话会仍在继续的）特斯拉涨超1%，（电话会仍在继续的）微软跌5.2%。",
+          "url": "https://wallstreetcn.com/livenews/3045888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -439,8 +514,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时33分]"
         }
       ]
     }
