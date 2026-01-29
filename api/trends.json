@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T14:58:44.186365+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-01-29T15:48:28.378686+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时48分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -93,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时35分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 15时48分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -138,8 +138,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时48分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时48分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -164,18 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时35分]"
-        },
-        {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 14时58分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -242,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -494,6 +506,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时48分]"
+        },
+        {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3045867",
           "source": "华尔街见闻-快讯",
@@ -503,19 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时58分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -611,8 +624,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时48分 ~ 15时48分]"
         }
       ]
     }
