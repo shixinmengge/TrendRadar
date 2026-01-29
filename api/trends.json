@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:48:28.378686+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-01-29T16:51:50.671280+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -93,8 +93,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时51分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时48分]"
+          "time_info": "[12时43分 ~ 16时51分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -130,29 +143,18 @@
           "time_info": "02时48分"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时48分]"
-        },
-        {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
           "url": "https://www.cls.cn/detail/2273507",
           "source": "财联社热门",
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 16时51分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -179,6 +181,18 @@
           "time_info": "[05时36分 ~ 06时35分]"
         },
         {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时51分]"
+        },
+        {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
           "url": "https://flash.jin10.com/detail/20260129051210358800",
           "source": "金十数据",
@@ -188,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -234,6 +259,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "Meta四季度营收598.9亿美元，分析师预期584.2亿美元。 四季度运营利润247.5亿美元，同比增长5.9%。 预计2026年资本开支1150亿-1350亿美元，分析师预期1106.2亿美元。 预计2026年总体开支1620亿 预计一季度营收535亿-565亿美元，分析师预期512.7亿美元。 公司将在优先领域招聘，尤其是人工智能（AI）方面。",
           "url": "https://wallstreetcn.com/livenews/3045830",
           "source": "华尔街见闻-快讯",
@@ -245,15 +281,15 @@
           "time_info": "05时36分"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "16时51分"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -503,7 +539,7 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -551,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
