@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:44:14.247391+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-01-29T13:51:51.240191+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 12时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -126,8 +126,31 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 13时51分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时35分 ~ 12时44分]"
+          "time_info": "[12时43分 ~ 13时51分]"
+        },
+        {
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时51分]"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
@@ -140,28 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时35分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
-          "title": "AI应用板块爆发",
-          "url": "https://www.toutiao.com/trending/7599545650313642034/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -230,6 +231,28 @@
           "time_info": "05时36分"
         },
         {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "光明村村民领京东AI手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%9D%91%E6%9D%91%E6%B0%91%E9%A2%86%E4%BA%AC%E4%B8%9CAI%E6%89%8B%E6%9C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
           "url": "https://wallstreetcn.com/livenews/3045749",
           "source": "华尔街见闻-快讯",
@@ -247,7 +270,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -304,8 +327,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时51分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -469,17 +492,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3045867",
           "source": "华尔街见闻-快讯",
@@ -489,6 +501,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时51分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -583,8 +607,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 12时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时51分]"
         }
       ]
     }
