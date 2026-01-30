@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T10:36:18.776069+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-01-30T12:46:38.280382+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 10时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 12时46分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -41,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 10时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 12时46分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -123,6 +124,18 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 12时46分]"
+        },
+        {
           "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3046720",
           "source": "华尔街见闻-快讯",
@@ -171,6 +184,18 @@
           "time_info": "[03时36分 ~ 04时39分]"
         },
         {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 12时46分]"
+        },
+        {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3046630",
           "source": "华尔街见闻-快讯",
@@ -183,15 +208,15 @@
           "time_info": "[02时58分 ~ 03时36分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "12时46分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
@@ -216,15 +241,15 @@
           "time_info": "05时35分"
         },
         {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
+          "title": "Ai 编程时代，Rust 会不会未盛先衰？",
+          "url": "https://www.zhihu.com/question/1979722947267671278",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "12时46分"
         },
         {
           "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
@@ -341,8 +366,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时46分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时46分]"
         },
         {
           "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
@@ -354,18 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
-          "url": "https://www.cls.cn/detail/2274922",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 10时36分]"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -564,6 +589,57 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 12时46分]"
+        },
+        {
+          "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
+          "url": "https://www.zhihu.com/question/2000353838817882383",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
+          "url": "https://wallstreetcn.com/livenews/3046568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -585,7 +661,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -607,7 +683,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
@@ -652,46 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 10时36分]"
-        },
-        {
-          "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
-          "url": "https://www.zhihu.com/question/2000353838817882383",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
-          "url": "https://wallstreetcn.com/livenews/3046568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
         }
       ]
     },
