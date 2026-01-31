@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T02:42:30.638696+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-01T03:27:37.524316+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -48,8 +48,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时27分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -77,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时27分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -88,19 +88,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时27分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",
           "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%ABAI%E5%8A%A9%E6%89%8B%E6%95%B0%E5%B0%8F%E6%97%B6%E4%B8%A4%E5%BA%A6%E6%94%B9%E5%90%8D",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时27分]"
         }
       ]
     },
@@ -114,11 +115,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时27分]"
         }
       ]
     },
@@ -134,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时27分]"
         }
       ]
     }
