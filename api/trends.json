@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T21:04:26.462043+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-01T22:33:37.588176+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时07分 ~ 21时04分]"
+          "appearance_count": 10,
+          "time_info": "[13时07分 ~ 22时33分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -124,11 +124,12 @@
             3,
             7,
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 21时04分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 22时33分]"
         },
         {
           "title": "男子被AI诊断梅毒医生否认却不信",
@@ -165,6 +166,18 @@
           "time_info": "[14时59分 ~ 15时43分]"
         },
         {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时33分]"
+        },
+        {
           "title": "沈腾 不方便的话全让AI说了",
           "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E4%B8%8D%E6%96%B9%E4%BE%BF%E7%9A%84%E8%AF%9D%E5%85%A8%E8%AE%A9AI%E8%AF%B4%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -176,15 +189,15 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
-          "source": "财联社热门",
+          "title": "如何评价 Moltbook（AI Agent 社交网络）？这代表了什么趋势？",
+          "url": "https://www.zhihu.com/question/2000595697171452447",
+          "source": "知乎",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "22时33分"
         }
       ]
     },
@@ -258,11 +271,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 22时33分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -271,11 +285,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 22时33分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -315,11 +330,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时33分]"
         }
       ]
     },
