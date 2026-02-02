@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T13:03:46.358988+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-02-02T15:11:31.825192+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 15时11分]"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "小鹏全球首款AI汽车正式开启海外大规模发运",
@@ -143,8 +154,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 13时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 15时11分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -174,8 +185,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 13时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 15时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
+          "url": "https://flash.jin10.com/detail/20260202142855006800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         }
       ]
     }
