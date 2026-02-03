@@ -1,11 +1,183 @@
 {
-  "generated_at": "2026-02-04T04:46:52.019505+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-04T05:42:30.263517+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
+        },
+        {
+          "title": "美股延续跌势，道指下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260204030013728800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3049338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3049337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘后跌超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260204051829095800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
+          "url": "https://wallstreetcn.com/livenews/3049332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3049330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
+          "url": "https://wallstreetcn.com/livenews/3049298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260204050616128800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年02月03日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260204050611908800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股收盘：纳指跌超1% PayPal大跌20%",
+          "url": "https://flash.jin10.com/detail/20260204050057353800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股延续跌势，纳指下跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260204021533895800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -15,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -25,11 +197,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -40,8 +213,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -52,8 +225,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -63,8 +236,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -75,8 +248,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
+        },
+        {
+          "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
+          "url": "https://wallstreetcn.com/livenews/3049304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -90,24 +275,13 @@
           "time_info": "[01时03分 ~ 03时04分]"
         },
         {
-          "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
-          "url": "https://wallstreetcn.com/livenews/3049304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
           "url": "https://wallstreetcn.com/livenews/3049303",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -118,7 +292,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -143,23 +317,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "Centerview联合创始人：AI变革真实存在，但推进节奏或不及预期",
+          "url": "https://wallstreetcn.com/livenews/3049303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
           "url": "https://wallstreetcn.com/livenews/3049302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
         },
         {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
@@ -171,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "用户报告称，OpenAI出现故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3049313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
@@ -190,7 +387,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -201,7 +398,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -212,88 +409,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
-        },
-        {
-          "title": "美股延续跌势，道指下跌1.00%。",
-          "url": "https://flash.jin10.com/detail/20260204030013728800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
-        },
-        {
-          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
-          "url": "https://wallstreetcn.com/livenews/3049298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
         {
-          "title": "美股延续跌势，纳指下跌2.00%。",
-          "url": "https://flash.jin10.com/detail/20260204021533895800",
+          "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
+          "url": "https://flash.jin10.com/detail/20260204043502987800",
           "source": "金十数据",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时04分"
+          "time_info": "05时42分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -304,8 +439,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时42分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -317,13 +452,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260204045424029800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI：ChatGPT当前存在一些问题。",
+          "url": "https://wallstreetcn.com/livenews/3049318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
+          "url": "https://flash.jin10.com/detail/20260204044011737800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
           "url": "https://wallstreetcn.com/livenews/3049251",
@@ -346,11 +514,12 @@
           "url": "https://wallstreetcn.com/livenews/3049308",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
         }
       ]
     }
