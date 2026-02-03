@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T18:51:02.446232+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-02-03T19:40:29.154273+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 19时40分]"
+        },
+        {
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 19时40分]"
         },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -36,20 +51,6 @@
           "time_info": "[10时42分 ~ 16时49分]"
         },
         {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时51分]"
-        },
-        {
           "title": "解读SpaceX收购xAI",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
           "source": "bilibili 热搜",
@@ -57,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 19时40分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -162,6 +163,19 @@
           "time_info": "[16时49分 ~ 18时51分]"
         },
         {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时40分]"
+        },
+        {
           "title": "摩尔线程AI Coding Plan上线",
           "url": "https://wallstreetcn.com/livenews/3049004",
           "source": "华尔街见闻-快讯",
@@ -173,16 +187,17 @@
           "time_info": "17时53分"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时40分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -195,18 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 07时35分]"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
         },
         {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
@@ -270,7 +273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -332,8 +335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 19时40分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -356,8 +359,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时40分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
