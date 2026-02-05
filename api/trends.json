@@ -1,11 +1,203 @@
 {
-  "generated_at": "2026-02-06T06:36:02.196644+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-06T07:31:13.657469+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时36分]"
+        },
+        {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
+          "url": "https://www.cls.cn/detail/2281879",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时36分]"
+        },
+        {
+          "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "Anthropic发布新AI 金融服务公司承压",
+          "url": "https://flash.jin10.com/detail/20260206032448754800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时41分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
+          "url": "https://flash.jin10.com/detail/20260206061539402800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
+          "url": "https://wallstreetcn.com/livenews/3050875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
+          "url": "https://wallstreetcn.com/livenews/3050847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时41分]"
+        },
+        {
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
+          "url": "https://wallstreetcn.com/livenews/3050910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
+          "url": "https://wallstreetcn.com/livenews/3050871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
+          "url": "https://wallstreetcn.com/livenews/3050826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "FactSec下跌10%，创2020年3月份以来盘中新低，投资者关注Anthropic对AI模型进行升级。",
+          "url": "https://wallstreetcn.com/livenews/3050824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -25,11 +217,26 @@
           "ranks": [
             9,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24,
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时31分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -41,20 +248,6 @@
             14,
             22,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24,
-            28,
-            21
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -93,6 +286,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
+          "url": "https://wallstreetcn.com/livenews/3050900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -141,152 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时36分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
-          "url": "https://wallstreetcn.com/livenews/3050900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
-          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
-          "url": "https://wallstreetcn.com/articles/3765006",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
-          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
-          "url": "https://www.cls.cn/detail/2281879",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
-          "title": "Anthropic发布新AI 金融服务公司承压",
-          "url": "https://flash.jin10.com/detail/20260206032448754800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时41分]"
-        },
-        {
-          "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
-          "url": "https://wallstreetcn.com/livenews/3050875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时36分]"
-        },
-        {
-          "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
-          "url": "https://wallstreetcn.com/livenews/3050847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时41分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
-          "url": "https://flash.jin10.com/detail/20260206061539402800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
-          "url": "https://wallstreetcn.com/livenews/3050871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
-          "url": "https://wallstreetcn.com/livenews/3050826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "FactSec下跌10%，创2020年3月份以来盘中新低，投资者关注Anthropic对AI模型进行升级。",
-          "url": "https://wallstreetcn.com/livenews/3050824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         }
       ]
     },
@@ -384,27 +454,29 @@
           "time_info": "[00时58分 ~ 06时36分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时31分]"
         }
       ]
     },
@@ -433,6 +505,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         }
       ]
     }
