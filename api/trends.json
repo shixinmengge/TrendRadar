@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:40:51.239166+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-02-05T21:17:13.241817+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[10时38分 ~ 21时17分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时52分 ~ 21时17分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时54分 ~ 18时51分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 19时40分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -293,7 +293,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -370,6 +370,17 @@
           "time_info": "[07时35分 ~ 15时53分]"
         },
         {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
+        },
+        {
           "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
           "url": "https://www.cls.cn/detail/2281312",
           "source": "财联社热门",
@@ -442,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时36分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
@@ -557,7 +579,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -567,8 +589,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时35分 ~ 19时40分]"
+          "appearance_count": 14,
+          "time_info": "[07时35分 ~ 21时17分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -580,6 +602,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 06时36分]"
+        },
+        {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时52分 ~ 21时17分]"
+        },
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时52分 ~ 21时17分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -596,32 +644,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时58分 ~ 19时40分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 19时40分]"
-        },
-        {
-          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
-          "url": "https://www.cls.cn/detail/2281407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 19时40分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -645,6 +667,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 10时38分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
@@ -679,8 +712,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[14时01分 ~ 21时17分]"
         },
         {
           "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
