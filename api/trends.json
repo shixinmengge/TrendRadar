@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:08:28.199689+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-02-06T16:54:36.253555+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             3,
             2,
             25,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时58分 ~ 15时08分]"
+          "appearance_count": 17,
+          "time_info": "[00时58分 ~ 16时54分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -45,6 +46,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时54分]"
         },
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -70,17 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 06时36分]"
-        },
-        {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时08分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -277,6 +279,17 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 16时54分]"
+        },
+        {
           "title": "美股收盘：纳指连续三天均跌超1%",
           "url": "https://www.cls.cn/detail/2282258",
           "source": "财联社热门",
@@ -288,17 +301,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时30分 ~ 15时08分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 15时08分]"
         },
         {
           "title": "美股",
@@ -574,11 +576,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 15时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 16时54分]"
         }
       ]
     },
