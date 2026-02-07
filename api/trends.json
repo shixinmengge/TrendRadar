@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T17:38:24.674164+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-02-07T18:35:19.682253+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "UP主联合自制AI春晚",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 18时35分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 18时35分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -79,6 +79,20 @@
           "time_info": "[00时56分 ~ 10时34分]"
         },
         {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 18时35分]"
+        },
+        {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
           "url": "https://flash.jin10.com/detail/20260207040949574800",
           "source": "金十数据",
@@ -99,20 +113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时33分]"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 17时38分]"
         },
         {
           "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
@@ -170,17 +170,6 @@
           "time_info": "[00时56分 ~ 03时44分]"
         },
         {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://wallstreetcn.com/livenews/3051704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
           "url": "https://wallstreetcn.com/livenews/3051663",
           "source": "华尔街见闻-快讯",
@@ -201,11 +190,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时35分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -219,6 +209,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时33分]"
+        },
+        {
+          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
+          "url": "https://wallstreetcn.com/livenews/3051704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时35分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -256,6 +258,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时39分 ~ 07时33分]"
+        },
+        {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 18时35分]"
         },
         {
           "title": "阿里如何用AI重新定义自己",
@@ -297,20 +311,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
         {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
+          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32558072",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "18时35分"
         },
         {
           "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
@@ -319,7 +333,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -330,7 +344,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
@@ -359,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 17时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 18时35分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -373,8 +387,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 17时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 18时35分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -389,8 +403,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 17时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 18时35分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -729,8 +743,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 17时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 18时35分]"
         }
       ]
     },
