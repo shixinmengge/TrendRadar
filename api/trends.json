@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T00:39:39.874681+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-08T01:32:44.331614+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "UP主联合自制AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -48,19 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -68,6 +58,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -87,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -98,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -109,8 +110,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         }
       ]
     }
