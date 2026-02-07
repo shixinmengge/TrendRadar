@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T12:43:33.261242+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-02-07T13:49:17.795409+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 12时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 13时49分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -29,11 +29,12 @@
             17,
             19,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时49分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -70,6 +71,18 @@
           "time_info": "[04时41分 ~ 07时33分]"
         },
         {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时49分]"
+        },
+        {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
           "url": "https://www.cls.cn/detail/2283020",
           "source": "财联社热门",
@@ -96,15 +109,16 @@
           "time_info": "[00时56分 ~ 03时44分]"
         },
         {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时49分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -125,11 +139,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时49分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时49分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -169,28 +197,40 @@
           "time_info": "[05时39分 ~ 07时33分]"
         },
         {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时43分]"
-        },
-        {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
           "url": "https://wallstreetcn.com/livenews/3051663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时49分]"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时49分]"
+        },
+        {
+          "title": "阿里如何用AI重新定义自己",
+          "url": "https://www.toutiao.com/trending/7603783138296204806/",
+          "source": "今日头条",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时43分]"
+          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "媒体：AI之争又打成了奶茶大战",
@@ -204,35 +244,13 @@
           "time_info": "[03时43分 ~ 03时44分]"
         },
         {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
           "url": "https://wallstreetcn.com/articles/3765198",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
@@ -261,11 +279,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 12时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 13时49分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -279,6 +298,17 @@
           "time_info": "[00时56分 ~ 03时44分]"
         },
         {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时49分]"
+        },
+        {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -290,15 +320,16 @@
           "time_info": "[04时41分 ~ 06时33分]"
         },
         {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时49分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -321,18 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时43分]"
         },
         {
           "title": "美股KBW地区银行指数突破2022年所创收盘历史最高位。",
@@ -536,11 +555,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时49分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -611,8 +631,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时49分]"
         }
       ]
     },
