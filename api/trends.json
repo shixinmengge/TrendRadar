@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T21:03:28.854569+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-02-07T22:33:49.957883+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "UP主联合自制AI春晚",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[12时43分 ~ 22时33分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -30,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时43分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[12时43分 ~ 22时33分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -246,11 +247,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 22时33分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -302,6 +304,18 @@
           "time_info": "[18时35分 ~ 19时29分]"
         },
         {
+          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
+          "url": "https://wallstreetcn.com/articles/3765198",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 22时33分]"
+        },
+        {
           "title": "阿里如何用AI重新定义自己",
           "url": "https://www.toutiao.com/trending/7603783138296204806/",
           "source": "今日头条",
@@ -324,17 +338,6 @@
           "time_info": "[03时43分 ~ 03时44分]"
         },
         {
-          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
-          "url": "https://wallstreetcn.com/articles/3765198",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "AI考验我人脉的时候到了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E8%80%83%E9%AA%8C%E6%88%91%E4%BA%BA%E8%84%89%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -355,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "AI点外卖是伪需求吗",
@@ -381,8 +395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时33分 ~ 21时03分]"
+          "appearance_count": 14,
+          "time_info": "[07时33分 ~ 22时33分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -404,11 +418,12 @@
             3,
             2,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时33分 ~ 21时03分]"
+          "appearance_count": 14,
+          "time_info": "[07时33分 ~ 22时33分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -436,8 +451,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时56分 ~ 21时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 22时33分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
