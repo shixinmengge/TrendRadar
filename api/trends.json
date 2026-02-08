@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T13:26:55.097041+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-02-08T15:01:29.873530+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 13时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时01分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -28,11 +28,12 @@
             4,
             5,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 15时01分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -45,8 +46,22 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 15时01分]"
+        },
+        {
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时33分 ~ 15时01分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -78,24 +93,24 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
-          "url": "https://wallstreetcn.com/articles/3765226",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时01分]"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时01分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -111,6 +126,19 @@
           "time_info": "[02时45分 ~ 07时37分]"
         },
         {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时01分]"
+        },
+        {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
           "url": "https://wallstreetcn.com/articles/3765210",
           "source": "华尔街见闻",
@@ -121,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 11时17分]"
+        },
+        {
+          "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
+          "url": "https://wallstreetcn.com/articles/3765225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -134,27 +173,26 @@
           "time_info": "[07时37分 ~ 11时17分]"
         },
         {
-          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
-          "url": "https://flash.jin10.com/detail/20260208081050471800",
-          "source": "金十数据",
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时26分]"
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
+          "title": "“AI.com”域名卖出7000万美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时00分 ~ 15时01分]"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
@@ -194,8 +232,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 13时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 15时01分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
