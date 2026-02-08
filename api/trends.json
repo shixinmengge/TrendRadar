@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T19:29:59.907963+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-02-08T21:04:28.866294+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 21时04分]"
         },
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时26分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时26分 ~ 21时04分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -41,11 +41,12 @@
             2,
             10,
             4,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时26分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时26分 ~ 21时04分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -75,8 +76,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 21时04分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -100,11 +101,12 @@
             15,
             13,
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时00分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时00分 ~ 21时04分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -142,6 +144,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时00分 ~ 16时41分]"
+        },
+        {
+          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -182,6 +195,18 @@
           "time_info": "[07时37分 ~ 11时17分]"
         },
         {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时04分]"
+        },
+        {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
           "url": "https://wallstreetcn.com/articles/3765225",
           "source": "华尔街见闻",
@@ -191,6 +216,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时00分 ~ 15时01分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时04分]"
+        },
+        {
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时04分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -225,39 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 17时38分]"
-        },
-        {
-          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
-          "url": "https://www.cls.cn/detail/2283872",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
-          "url": "https://www.zhihu.com/question/2003429600861110745",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
@@ -298,8 +314,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 21时04分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -309,11 +325,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 19时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 21时04分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -343,8 +360,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 21时04分]"
         }
       ]
     },
@@ -361,8 +378,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 21时04分]"
         }
       ]
     },
@@ -394,11 +411,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时04分]"
         }
       ]
     }
