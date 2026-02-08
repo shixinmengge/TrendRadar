@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:47:24.753955+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-02-09T03:31:52.919313+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -48,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -60,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -70,11 +71,12 @@
           "ranks": [
             9,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
@@ -82,11 +84,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -96,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -109,8 +112,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -120,8 +123,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时31分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -148,8 +151,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -159,8 +162,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         }
       ]
     },
@@ -177,8 +180,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         }
       ]
     },
@@ -194,8 +197,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         }
       ]
     }
