@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T15:46:03.057024+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-02-08T16:41:07.590169+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 16时41分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -46,8 +46,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时41分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -73,8 +73,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 16时41分]"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 16时41分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -89,18 +102,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时37分]"
-        },
-        {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时46分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -118,11 +119,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时00分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[15时00分 ~ 16时41分]"
         },
         {
           "title": "“AI.com”域名卖出7000万美元",
@@ -133,8 +135,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时00分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[15时00分 ~ 16时41分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -197,6 +199,17 @@
           "time_info": "[07时37分 ~ 11时17分]"
         },
         {
+          "title": "吃上AI主理人的席了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8AAI%E4%B8%BB%E7%90%86%E4%BA%BA%E7%9A%84%E5%B8%AD%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
           "source": "澎湃新闻",
@@ -234,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 16时41分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -253,11 +266,29 @@
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 16时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "time_info": "[16时40分 ~ 16时41分]"
         }
       ]
     }
