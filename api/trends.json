@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:03:20.315970+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-02-11T19:51:00.868636+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 18时03分]"
+          "appearance_count": 10,
+          "time_info": "[10时52分 ~ 19时51分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -39,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时08分 ~ 19时51分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -84,11 +85,12 @@
             22,
             23,
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时10分 ~ 18时03分]"
+          "appearance_count": 18,
+          "time_info": "[01时10分 ~ 19时51分]"
         },
         {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
@@ -154,6 +156,18 @@
           "time_info": "[04时53分 ~ 05时52分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时51分]"
+        },
+        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
@@ -164,17 +178,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 05时52分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 18时03分]"
         },
         {
           "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
@@ -314,7 +317,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -322,11 +325,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 18时03分]"
+          "appearance_count": 10,
+          "time_info": "[10时52分 ~ 19时51分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -374,8 +378,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时08分 ~ 19时51分]"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -500,7 +515,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
