@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T01:12:37.465089+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-13T03:12:04.520341+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -26,31 +26,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
+        },
+        {
+          "title": "沙特阿美与微软签订备忘录，帮助推进工业AI。",
+          "url": "https://wallstreetcn.com/livenews/3054694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
           "url": "https://wallstreetcn.com/articles/3765558",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
-        },
-        {
-          "title": "中国AI视频双雄并起",
-          "url": "https://www.toutiao.com/trending/7605961413458136639/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -71,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -82,8 +82,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -91,6 +91,30 @@
           "source": "贴吧",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
+        },
+        {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时12分]"
+        },
+        {
+          "title": "中国AI视频双雄并起",
+          "url": "https://www.toutiao.com/trending/7605961413458136639/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -108,15 +132,15 @@
           "time_info": "00时01分"
         },
         {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
+          "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
+          "url": "https://wallstreetcn.com/livenews/3054662",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时12分"
         },
         {
           "title": "真正的AI在吃肉 虚假的AI在挨揍",
@@ -125,9 +149,31 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "Vital Knowledge分析师亚当·克里萨富利（Adam Crisafulli）认为：人工智能（AI）正在“摧毁那些面临被颠覆风险的传统行业的股价”。 虽然最初的担忧始于软件和服务行业，但现在运输行业也正受到冲击。",
+          "url": "https://wallstreetcn.com/livenews/3054661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美欧市场物流股集体跳水，成为“AI恐慌交易”又一受害者",
+          "url": "https://wallstreetcn.com/livenews/3054660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -144,8 +190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -154,9 +200,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时12分]"
         },
         {
           "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
@@ -176,7 +222,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -189,8 +235,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 03时12分]"
         },
         {
           "title": "美股延续跌势，纳指跌超1.5%，标普500指数跌超1%，道指下跌0.7%。",
@@ -199,7 +245,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -232,7 +278,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
@@ -249,7 +295,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -260,7 +306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -271,7 +317,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -282,7 +328,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
@@ -290,7 +336,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -299,7 +345,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -310,9 +356,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     }
