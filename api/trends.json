@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T16:57:15.190301+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-02-12T18:00:31.253366+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -23,6 +23,18 @@
           "time_info": "[01时22分 ~ 16时57分]"
         },
         {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 18时00分]"
+        },
+        {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
           "source": "澎湃新闻",
@@ -37,6 +49,21 @@
           "time_info": "[01时22分 ~ 15时11分]"
         },
         {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时39分 ~ 18时00分]"
+        },
+        {
           "title": "国产AI降维打击,老外酸了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
           "source": "贴吧",
@@ -48,34 +75,22 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时22分 ~ 16时57分]"
+          "appearance_count": 16,
+          "time_info": "[01时22分 ~ 18时00分]"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
           "ranks": [
             6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 16时57分]"
-        },
-        {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            12,
-            11
+            22,
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时39分 ~ 16时57分]"
+          "time_info": "[10时48分 ~ 18时00分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -116,25 +131,23 @@
           "url": "https://www.douyin.com/hot/2398176",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 18时00分]"
         },
         {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "全国首单“AI+人形机器人”研发领域科创债发行",
+          "url": "https://wallstreetcn.com/livenews/3054410",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            22,
-            11,
-            16
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 16时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -159,17 +172,6 @@
           "time_info": "15时11分"
         },
         {
-          "title": "德银全球CIO：AI不是泡沫，中国资产吸引力上升",
-          "url": "https://wallstreetcn.com/livenews/3054379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "从Deepseek到Seedance中国AI成了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时03分 ~ 15时11分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时11分 ~ 18时00分]"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -194,6 +207,18 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
+          "title": "德银全球CIO：AI不是泡沫，中国资产吸引力上升",
+          "url": "https://wallstreetcn.com/livenews/3054379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 18时00分]"
+        },
+        {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
           "url": "https://wallstreetcn.com/articles/3765478",
           "source": "华尔街见闻",
@@ -204,17 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时48分 ~ 13时04分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 16时57分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -272,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
+          "url": "https://wallstreetcn.com/articles/3765518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "智谱在香港一度涨逾12%，现涨10%，公司上调AI编程订阅套餐价格并将推出新模型。",
@@ -346,7 +371,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -368,7 +393,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -398,7 +423,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -408,8 +433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 16时57分]"
+          "appearance_count": 10,
+          "time_info": "[07时39分 ~ 18时00分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -519,6 +544,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "美股存储概念股盘前上涨，闪迪涨超6%，美光科技涨3.7%，西部数据、希捷科技涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3054396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
+        },
+        {
+          "title": "全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时00分"
         },
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
