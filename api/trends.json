@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T14:05:15.479805+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-02-15T15:42:06.192985+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -104,6 +104,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 10时50分]"
+        },
+        {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时31分 ~ 15时42分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -139,8 +152,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -179,8 +192,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -192,19 +205,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 07时32分]"
-        },
-        {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时31分 ~ 14时05分]"
         },
         {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
@@ -231,6 +231,18 @@
           "time_info": "[00时39分 ~ 10时50分]"
         },
         {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 15时42分]"
+        },
+        {
           "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
           "url": "https://wallstreetcn.com/livenews/3055541",
           "source": "华尔街见闻-快讯",
@@ -254,6 +266,18 @@
           "time_info": "[00时39分 ~ 06时31分]"
         },
         {
+          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
+          "url": "https://wallstreetcn.com/articles/3765746",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时00分 ~ 15时42分]"
+        },
+        {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
           "url": "https://www.zhihu.com/question/1927393488770692768",
           "source": "知乎",
@@ -266,28 +290,16 @@
           "time_info": "[13时00分 ~ 14时05分]"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时05分]"
-        },
-        {
-          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
-          "url": "https://wallstreetcn.com/articles/3765746",
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时00分 ~ 14时05分]"
+          "time_info": "[14时04分 ~ 15时42分]"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -313,15 +325,26 @@
           "time_info": "[05时31分 ~ 06时31分]"
         },
         {
-          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
-          "url": "https://wallstreetcn.com/articles/3765753",
-          "source": "华尔街见闻",
+          "title": "网文行业在未来二三十年真的会被 AI 给废掉吗？",
+          "url": "https://www.zhihu.com/question/1997776604575864283",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "中国AI改变电影制作让老外惊叹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E6%94%B9%E5%8F%98%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C%E8%AE%A9%E8%80%81%E5%A4%96%E6%83%8A%E5%8F%B9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时04分 ~ 14时05分]"
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "杨丽萍67岁仍在学习AI",
@@ -352,6 +375,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 15时42分]"
+        },
+        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -377,18 +412,6 @@
           "time_info": "[00时39分 ~ 10时50分]"
         },
         {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时05分]"
-        },
-        {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
           "url": "https://wallstreetcn.com/livenews/3055539",
           "source": "华尔街见闻-快讯",
@@ -407,6 +430,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 15时42分]"
+        },
+        {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
           "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
           "source": "澎湃新闻",
@@ -414,24 +451,12 @@
             20,
             19,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 14时05分]"
-        },
-        {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 15时42分]"
         }
       ]
     },
@@ -463,8 +488,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时42分]"
         }
       ]
     },
