@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T18:05:11.722789+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-02-16T19:44:42.627083+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 19时44分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -58,6 +58,22 @@
           "time_info": "[00时39分 ~ 18时05分]"
         },
         {
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            4,
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 19时44分]"
+        },
+        {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
           "source": "澎湃新闻",
@@ -67,21 +83,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时05分]"
-        },
-        {
-          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            4,
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 20,
@@ -109,8 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 19时44分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -151,8 +152,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 19时44分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -166,6 +167,32 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时39分 ~ 15时13分]"
+        },
+        {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时44分]"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 19时44分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -182,41 +209,45 @@
           "time_info": "[00时39分 ~ 06时33分]"
         },
         {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时05分]"
-        },
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 18时05分]"
-        },
-        {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
           "url": "https://wallstreetcn.com/articles/3765774",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时05分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时44分]"
+        },
+        {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时44分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时44分]"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -232,42 +263,17 @@
           "time_info": "[13时05分 ~ 16时58分]"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时05分]"
-        },
-        {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时05分]"
-        },
-        {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时05分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时44分]"
         },
         {
           "title": "刘维用AI与去世父母姥姥隔空相见",
@@ -277,8 +283,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 19时44分]"
         },
         {
           "title": "仅凭 AI 真的能做好复杂项目吗？",
@@ -298,9 +304,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        },
+        {
+          "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
+          "url": "https://wallstreetcn.com/livenews/3055722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "港股AI应用股走强，阜博集团（03738.HK）领涨14.38%、海致科技集团（02706.HK）涨12.1%、智谱(02513.HK)涨超7%、阅文集团(00772.HK)涨2.53%。",
@@ -362,11 +379,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 19时44分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -477,8 +495,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 18时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 19时44分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -494,6 +512,35 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时31分 ~ 07时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/livenews/3055703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 19时44分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -525,25 +572,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/livenews/3055703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时44分]"
         }
       ]
     }
