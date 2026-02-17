@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T06:48:44.748787+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-02-18T07:37:11.355353+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时37分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -28,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时37分]"
+        },
+        {
+          "title": "王菲化妆师改口问就是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 07时37分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -44,16 +56,15 @@
           "time_info": "[00时00分 ~ 05时42分]"
         },
         {
-          "title": "王菲化妆师改口问就是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
           "ranks": [
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[06时48分 ~ 07时37分]"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
@@ -218,7 +218,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -241,8 +241,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时37分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -309,11 +331,24 @@
           "url": "https://wallstreetcn.com/livenews/3056154",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时37分]"
+        },
+        {
+          "title": "应用材料美股盘后跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时37分]"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -380,17 +415,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌I/O开发者大会将于5月19日至20日举办",
+          "url": "https://flash.jin10.com/detail/20260218065832449800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
-          "title": "应用材料美股盘后跌7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056144",
+          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
+          "url": "https://wallstreetcn.com/livenews/3056132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时48分]"
+        },
+        {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
+          "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "01时10分"
         }
       ]
     },
@@ -442,46 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
-          "url": "https://wallstreetcn.com/livenews/3056132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时48分]"
-        },
-        {
-          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
-          "url": "https://wallstreetcn.com/livenews/3056102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
-          "url": "https://wallstreetcn.com/livenews/3056046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
         }
       ]
     },
