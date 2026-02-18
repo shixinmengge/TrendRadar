@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T13:00:34.231342+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-02-18T14:10:29.145174+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 13时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 14时10分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 13时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 14时10分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -55,8 +55,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时48分 ~ 13时00分]"
+          "appearance_count": 7,
+          "time_info": "[06时48分 ~ 14时10分]"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时10分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -71,16 +83,16 @@
           "time_info": "[00时00分 ~ 05时42分]"
         },
         {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
+          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
+          "url": "https://www.zhihu.com/question/11260916280",
+          "source": "知乎",
           "ranks": [
-            8,
-            4
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时00分]"
+          "time_info": "[12时59分 ~ 14时10分]"
         },
         {
           "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
@@ -95,15 +107,16 @@
           "time_info": "[10时44分 ~ 13时00分]"
         },
         {
-          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
-          "url": "https://www.zhihu.com/question/11260916280",
-          "source": "知乎",
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.toutiao.com/trending/7607001857601257508/",
+          "source": "今日头条",
           "ranks": [
-            7
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时10分]"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -140,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时46分]"
-        },
-        {
-          "title": "化妆师回应王菲春晚妆造：问就是AI",
-          "url": "https://www.toutiao.com/trending/7607001857601257508/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
         },
         {
           "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
@@ -315,8 +317,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 13时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 14时10分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -337,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时10分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -419,8 +421,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时10分]"
         },
         {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
