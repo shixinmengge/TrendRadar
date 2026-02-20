@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T17:51:20.854566+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-02-20T18:45:26.456342+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -29,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时45分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -43,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时45分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -78,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时45分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -91,6 +91,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 18时45分]"
         },
         {
           "title": "港股午评：恒指收跌0.61% AI应用、机器人概念股逆势走强",
@@ -105,27 +118,16 @@
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
+            27,
             13,
             12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时53分 ~ 17时51分]"
+          "time_info": "[13时59分 ~ 18时45分]"
         },
         {
           "title": "中美AI科技转向",
@@ -154,6 +156,18 @@
           "time_info": "[03时45分 ~ 05时40分]"
         },
         {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时45分]"
+        },
+        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -180,17 +194,16 @@
           "time_info": "[06时39分 ~ 10时39分]"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            13,
-            12
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时45分]"
         },
         {
           "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
@@ -231,15 +244,16 @@
           "time_info": "[16时52分 ~ 17时51分]"
         },
         {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://wallstreetcn.com/livenews/3056907",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时51分]"
+          "time_info": "[17时51分 ~ 18时45分]"
         },
         {
           "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
@@ -265,17 +279,6 @@
           "time_info": "05时40分"
         },
         {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://wallstreetcn.com/livenews/3056907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
           "url": "https://flash.jin10.com/detail/20260220114803176800",
           "source": "金十数据",
@@ -285,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
@@ -335,8 +349,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时39分 ~ 17时51分]"
+          "appearance_count": 10,
+          "time_info": "[06时39分 ~ 18时45分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -376,31 +390,6 @@
           "time_info": "[01时03分 ~ 06时39分]"
         },
         {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时51分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时03分 ~ 17时51分]"
-        },
-        {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
@@ -411,8 +400,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[10时38分 ~ 18时45分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时45分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 18时45分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -486,11 +500,12 @@
           "url": "https://wallstreetcn.com/articles/3765893",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时45分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
@@ -551,11 +566,12 @@
           "url": "https://wallstreetcn.com/livenews/3056911",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时45分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
