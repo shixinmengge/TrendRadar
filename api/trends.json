@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T04:33:47.238743+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-22T05:31:06.284200+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -51,14 +51,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -80,8 +80,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
+        },
+        {
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 05时31分]"
         }
       ]
     },
@@ -100,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         }
       ]
     },
@@ -117,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时31分]"
         }
       ]
     }
