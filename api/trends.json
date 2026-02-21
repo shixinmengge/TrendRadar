@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T03:31:23.366883+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-02-22T04:33:47.238743+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         }
       ]
     },
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -80,8 +80,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         }
       ]
     },
@@ -96,11 +96,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         }
       ]
     },
@@ -116,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         }
       ]
     }
