@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:02:17.837288+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-02-21T22:33:35.231537+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 22时33分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -56,11 +56,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 22时33分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -91,8 +92,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 22时33分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -173,11 +174,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 22时33分]"
         },
         {
           "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
@@ -252,8 +254,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[07时35分 ~ 22时33分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -264,8 +266,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时32分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 22时33分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -290,8 +292,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时50分 ~ 21时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 22时33分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -302,11 +304,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 22时33分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -439,6 +442,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 22时33分]"
+        },
+        {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
           "source": "金十数据",
@@ -469,19 +486,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时35分 ~ 15时38分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时02分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -611,11 +615,12 @@
             7,
             5,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时32分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 22时33分]"
         }
       ]
     },
