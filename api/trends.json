@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:32:59.310861+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:34:00.256264+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -76,8 +76,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
+        },
+        {
+          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
+          "url": "https://flash.jin10.com/detail/20260223064004274800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -93,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -104,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     },
@@ -121,19 +132,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时34分]"
         }
       ]
     }
