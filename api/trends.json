@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T15:44:15.146939+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-02-22T16:41:17.073662+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时41分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时41分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -41,11 +41,12 @@
             10,
             14,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 16时41分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -56,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 16时41分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -81,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 16时41分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -94,6 +95,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 05时31分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -134,8 +157,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时41分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -159,8 +182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时41分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -169,11 +192,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时41分]"
         }
       ]
     },
@@ -190,8 +214,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时41分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -210,11 +234,12 @@
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时41分]"
         }
       ]
     },
@@ -229,11 +254,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 16时41分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -263,11 +289,12 @@
             8,
             12,
             6,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 15时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 16时41分]"
         }
       ]
     }
