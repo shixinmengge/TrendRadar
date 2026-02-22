@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:33:47.584946+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-02-22T23:33:04.298757+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 22时33分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 23时33分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时41分 ~ 23时33分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -43,8 +57,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时45分 ~ 22时33分]"
+          "appearance_count": 16,
+          "time_info": "[10时45分 ~ 23时33分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -58,25 +72,12 @@
             21,
             23,
             17,
-            26
+            26,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时45分 ~ 19时29分]"
-        },
-        {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时33分]"
+          "appearance_count": 14,
+          "time_info": "[10时45分 ~ 23时33分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -88,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时33分]"
+          "appearance_count": 10,
+          "time_info": "[16时41分 ~ 23时33分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -101,8 +102,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[17时38分 ~ 23时33分]"
         },
         {
           "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
@@ -135,11 +136,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时33分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -191,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 22时33分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 23时33分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -220,8 +222,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时57分 ~ 22时33分]"
+          "appearance_count": 14,
+          "time_info": "[13时57分 ~ 23时33分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -250,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 22时33分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 23时33分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -264,8 +266,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 22时33分]"
+          "appearance_count": 12,
+          "time_info": "[15时43分 ~ 23时33分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -333,11 +335,12 @@
             16,
             17,
             21,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 22时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时38分 ~ 23时33分]"
         }
       ]
     }
