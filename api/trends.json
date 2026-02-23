@@ -1,444 +1,105 @@
 {
-  "generated_at": "2026-02-23T23:54:37.563639+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-02-24T01:08:39.176872+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 10时45分]"
-        },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
           "url": "https://wallstreetcn.com/articles/3765976",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时14分 ~ 23时54分]"
-        },
-        {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时05分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时39分 ~ 23时54分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 19时44分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 10时45分]"
-        },
-        {
-          "title": "Seedance2.0重写全球AI版图",
-          "url": "https://www.douyin.com/hot/2407569",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            16,
-            17,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时32分]"
-        },
-        {
-          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
-          "url": "https://wallstreetcn.com/articles/3765955",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 16时59分]"
-        },
-        {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时58分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时08分"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
           "url": "https://www.zhihu.com/question/2008557531367224108",
           "source": "知乎",
           "ranks": [
-            13,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 23时54分]"
-        },
-        {
-          "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
-          "url": "https://wallstreetcn.com/livenews/3057338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时05分]"
-        },
-        {
-          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
-          "url": "https://www.zhihu.com/question/2008217541886043272",
-          "source": "知乎",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 16时59分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时44分 ~ 23时54分]"
-        },
-        {
-          "title": "AI骗局三件套涌入老年机",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E9%AA%97%E5%B1%80%E4%B8%89%E4%BB%B6%E5%A5%97%E6%B6%8C%E5%85%A5%E8%80%81%E5%B9%B4%E6%9C%BA%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
-          "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
-          "url": "https://flash.jin10.com/detail/20260223125210171800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "01时08分"
         },
         {
-          "title": "又一篇“AI灭绝”帖疯传：AI效率悖论或引发经济通缩，标普500指数恐暴跌将近40%",
-          "url": "https://wallstreetcn.com/livenews/3057483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
-          "url": "https://flash.jin10.com/detail/20260223064004274800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "TS Lombard：美国国债并非AI颠覆性风险背景下的理想选择",
-          "url": "https://wallstreetcn.com/livenews/3057490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 16时59分]"
-        },
-        {
-          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
-          "url": "https://wallstreetcn.com/articles/3765941",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "美股延续跌势，纳指下跌1.01%。",
-          "url": "https://flash.jin10.com/detail/20260223235258833800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
-          "url": "https://flash.jin10.com/detail/20260223174523816800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
-          "url": "https://wallstreetcn.com/livenews/3057431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时44分]"
-        },
-        {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时06分 ~ 22时55分]"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 23时54分]"
-        },
-        {
-          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3057423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时44分]"
-        },
-        {
-          "title": "达美乐比萨第四季度营收15.4亿美元，预估15.2亿美元。 第四季度调整后每股收益5.35美元，预估5.37美元。 达美乐比萨美股盘前涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3057447",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "01时08分"
         },
         {
-          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260223223817753800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
-          "url": "https://wallstreetcn.com/livenews/3057446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3057503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
-          "url": "https://www.cls.cn/detail/2292391",
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美股开盘，道指跌0.33%、标普500指数跌0.15%、纳指跌0.13%，诺和诺德(NVO.N)大跌15.65%，公司称其减肥药物卡格列肽（Cagrisema）的实验效果不及礼来的替尔泊肽（Zepbound），礼来(LLY.N)开涨3.86%。",
-          "url": "https://flash.jin10.com/detail/20260223223042733800",
-          "source": "金十数据",
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "01时08分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
+          "url": "https://flash.jin10.com/detail/20260224000737522800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
         }
       ]
     },
     {
-      "keyword_group": "openai",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 19时44分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
+          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
+          "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 10时45分]"
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
         }
       ]
     },
@@ -447,15 +108,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：正在调查面向商业和企业客户的ChatGPT对话中错误率升高的问题。",
-          "url": "https://flash.jin10.com/detail/20260223234136834800",
+          "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
+          "url": "https://flash.jin10.com/detail/20260224001507325800",
           "source": "金十数据",
           "ranks": [
-            5
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
+          "url": "https://wallstreetcn.com/livenews/3057571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
         }
       ]
     }
