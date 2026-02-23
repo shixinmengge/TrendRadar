@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T15:15:06.462659+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-02-23T16:59:07.226485+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 16时59分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -78,8 +78,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 16时59分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -88,11 +88,24 @@
           "ranks": [
             8,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 16时59分]"
+        },
+        {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时59分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -107,26 +120,27 @@
           "time_info": "[10时45分 ~ 13时05分]"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
           "url": "https://www.zhihu.com/question/2008217541886043272",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 16时59分]"
+        },
+        {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "AI骗局三件套涌入老年机",
@@ -176,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 16时59分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -205,8 +219,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 16时59分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
