@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T11:14:01.850354+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-02-24T13:26:18.001086+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 11时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 13时26分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -49,19 +50,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时26分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时26分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -69,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 13时26分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -171,6 +174,17 @@
           "time_info": "[05时54分 ~ 06时51分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015335314800",
           "source": "金十数据",
@@ -196,7 +210,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -272,11 +286,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时54分 ~ 11时14分]"
+          "appearance_count": 7,
+          "time_info": "[05时54分 ~ 13时26分]"
         },
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -316,11 +331,12 @@
           "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时26分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -356,6 +372,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时51分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
