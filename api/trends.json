@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T05:39:11.643775+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-02-27T06:41:24.914137+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时41分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时41分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时41分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时41分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -64,19 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时39分]"
-        },
-        {
-          "title": "押注AI提升公司效率 Block拟裁员近半",
-          "url": "https://flash.jin10.com/detail/20260227052226230800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时41分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
@@ -90,15 +79,16 @@
           "time_info": "00时00分"
         },
         {
-          "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
-          "url": "https://wallstreetcn.com/livenews/3059768",
-          "source": "华尔街见闻-快讯",
+          "title": "押注AI提升公司效率 Block拟裁员近半",
+          "url": "https://flash.jin10.com/detail/20260227052226230800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
         },
         {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
@@ -111,6 +101,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 01时12分]"
+        },
+        {
+          "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
+          "url": "https://wallstreetcn.com/livenews/3059768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
+        },
+        {
+          "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3059767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
+        },
+        {
+          "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
+          "url": "https://wallstreetcn.com/livenews/3059758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -136,17 +162,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3059767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
           "title": "科技巨头2万亿美元豪赌AI",
           "url": "https://www.toutiao.com/trending/7611122303522311734/",
           "source": "今日头条",
@@ -158,15 +173,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
-          "url": "https://wallstreetcn.com/livenews/3059758",
+          "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时41分"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -175,9 +190,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3059779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "Ithina组建全球人工智能（AI）操作平台。",
@@ -238,7 +264,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -249,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时41分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -260,63 +286,101 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时41分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
           "url": "https://wallstreetcn.com/livenews/3059772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260227050836225800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260227050544804800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨8%。",
           "url": "https://flash.jin10.com/detail/20260227050538943800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
         },
         {
           "title": "美股收盘：纳指跌超1% 英伟达大跌逾5%",
           "url": "https://flash.jin10.com/detail/20260227050044369800",
           "source": "金十数据",
           "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时41分]"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
+          "url": "https://flash.jin10.com/detail/20260227053003552800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3059778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时41分"
+        },
+        {
+          "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3059777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1.00%。",
@@ -344,7 +408,7 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -358,6 +422,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时46分]"
+        },
+        {
+          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
+          "url": "https://wallstreetcn.com/livenews/3059781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -459,8 +534,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
