@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:06:57.347653+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-27T16:52:07.194786+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -31,6 +31,18 @@
           "time_info": "[00时00分 ~ 07时37分]"
         },
         {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 16时52分]"
+        },
+        {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
@@ -43,16 +55,17 @@
           "time_info": "[01时12分 ~ 06时41分]"
         },
         {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时37分 ~ 16时52分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -63,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 15时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时00分 ~ 16时52分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -81,21 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时00分 ~ 15时06分]"
-        },
-        {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 15时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时00分 ~ 16时52分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -106,11 +106,12 @@
             16,
             17,
             19,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 15时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时37分 ~ 16时52分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -121,8 +122,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 16时52分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "time_info": "[12时50分 ~ 16时52分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -178,19 +203,6 @@
           "ranks": [
             10,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时06分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -257,6 +269,17 @@
           "time_info": "[05时39分 ~ 06时41分]"
         },
         {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 16时52分]"
+        },
+        {
           "title": "Meta持续投资AI，用于监测Cloaking。",
           "url": "https://wallstreetcn.com/livenews/3059700",
           "source": "华尔街见闻-快讯",
@@ -278,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "科技巨头2万亿美元豪赌AI",
@@ -388,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "恒生指数收盘涨0.95%，能源、资源、AI以及创新药板块不同程度反弹",
+          "url": "https://wallstreetcn.com/livenews/3060118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "中国AI调用量首次超过美国",
@@ -549,7 +594,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -906,11 +951,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时52分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
