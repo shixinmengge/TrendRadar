@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T03:27:06.698090+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-01T04:33:54.371930+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -39,8 +39,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 04时33分]"
         },
         {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 02时42分]"
+        },
+        {
+          "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
+          "url": "https://www.zhihu.com/question/2010680269259179931",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     },
@@ -68,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -79,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时33分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -90,8 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时33分]"
         }
       ]
     },
@@ -107,11 +118,12 @@
             12,
             17,
             14,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时33分]"
         }
       ]
     }
