@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:32:00.024224+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2026-03-01T23:32:03.086700+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
@@ -139,11 +139,13 @@
           "source": "微博",
           "ranks": [
             30,
-            17
+            17,
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时31分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时32分]"
         },
         {
           "title": "荣耀发布人形机器人与“机器人手机”，押注AI硬件转型",
@@ -152,7 +154,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -163,7 +165,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -211,8 +213,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时35分 ~ 22时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时35分 ~ 23时32分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
