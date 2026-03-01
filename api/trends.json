@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T05:31:12.409857+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-03-02T06:32:02.946914+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             18,
             17,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时32分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
         }
       ]
     },
@@ -46,11 +48,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时32分]"
         }
       ]
     },
@@ -64,11 +67,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY站上98，日内涨0.34%。",
+          "url": "https://flash.jin10.com/detail/20260302061646512800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         }
       ]
     }
