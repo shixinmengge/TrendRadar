@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:37:19.778987+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-03-01T18:32:56.543763+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 18时32分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -187,8 +187,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 18时32分]"
         },
         {
           "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
@@ -364,7 +364,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
