@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T13:00:43.886393+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-03-01T14:01:22.707159+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时01分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -86,7 +86,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -170,11 +170,24 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时01分]"
+        },
+        {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 14时01分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -191,17 +204,6 @@
           "time_info": "[01时27分 ~ 07时29分]"
         },
         {
-          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
-          "url": "https://www.zhihu.com/question/1950611259528549544",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
           "url": "https://www.zhihu.com/question/1950611259528549544",
           "source": "知乎",
@@ -211,6 +213,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "美政府罕见封杀本国AI企业Anthropic",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 14时01分]"
         },
         {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
@@ -248,18 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时29分]"
-        },
-        {
-          "title": "美政府罕见封杀本国AI企业Anthropic",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 13时00分]"
         },
         {
           "title": "黄仁勋押注的AI“金矿”到底在哪里",
