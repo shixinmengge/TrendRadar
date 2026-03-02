@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T16:55:26.200778+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-03-02T17:58:54.565410+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI短剧",
@@ -23,17 +23,6 @@
           "time_info": "[00时37分 ~ 07时31分]"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -48,6 +37,18 @@
           "time_info": "[04时35分 ~ 07时31分]"
         },
         {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时58分]"
+        },
+        {
           "title": "演员逼真到根本看不出来是AI",
           "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -60,6 +61,41 @@
           "time_info": "[10时40分 ~ 12时54分]"
         },
         {
+          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
+          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时58分]"
+        },
+        {
+          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
+          "url": "https://www.zhihu.com/question/2011022777268856579",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时58分]"
+        },
+        {
+          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
+          "url": "https://www.zhihu.com/question/2011307404294365414",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时58分]"
+        },
+        {
           "title": "AI技术会如何改变现代战争形态",
           "url": "https://www.toutiao.com/trending/7612471183472070163/",
           "source": "今日头条",
@@ -69,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "千问AI眼镜开启预约，到手价最低1997元",
@@ -91,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
-          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "澳大利亚考虑要求应用商店和搜索引擎下架存在安全隐患的AI服务。",
@@ -132,29 +168,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
-          "url": "https://www.zhihu.com/question/2011022777268856579",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
-          "url": "https://www.zhihu.com/question/2011307404294365414",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -173,7 +187,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -204,9 +218,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
@@ -248,7 +273,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         }
