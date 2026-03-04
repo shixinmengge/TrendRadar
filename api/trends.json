@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:44:41.161193+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-03-04T19:37:31.386757+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[10时34分 ~ 19时37分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -87,8 +87,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 19时37分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -101,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 19时37分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -127,6 +127,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时33分 ~ 12时46分]"
+        },
+        {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 19时37分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -165,16 +178,16 @@
           "time_info": "[14时58分 ~ 15时44分]"
         },
         {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时44分]"
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时37分]"
         },
         {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
@@ -288,7 +301,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -302,17 +315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "6个AI合伙开发搞玩具",
@@ -391,11 +393,12 @@
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[10时34分 ~ 19时37分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -449,11 +452,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时37分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -600,7 +604,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
