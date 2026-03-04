@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T14:58:58.107099+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-04T15:44:23.521502+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时34分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 15时44分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -41,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时58分 ~ 14时58分]"
+          "appearance_count": 17,
+          "time_info": "[00时58分 ~ 15时44分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -58,20 +70,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时53分 ~ 14时58分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 14时58分]"
+          "appearance_count": 16,
+          "time_info": "[01时53分 ~ 15时44分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -83,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3063418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -133,16 +122,41 @@
           "time_info": "[13时51分 ~ 14时58分]"
         },
         {
+          "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 15时44分]"
+        },
+        {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 15时44分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时58分]"
+          "time_info": "[13时51分 ~ 15时44分]"
         },
         {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
@@ -191,18 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时41分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 14时58分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -261,6 +263,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "6个AI合伙开发搞玩具",
+          "url": "https://search.bilibili.com/all?keyword=6%E4%B8%AAAI%E5%90%88%E4%BC%99%E5%BC%80%E5%8F%91%E6%90%9E%E7%8E%A9%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3062945",
           "source": "华尔街见闻-快讯",
@@ -281,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "AI的奥本海默时刻已经到来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9A%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E6%97%B6%E5%88%BB%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "日本太空一号中止“KAIROS”火箭发射。",
@@ -311,7 +335,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -341,8 +365,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 14时58分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 15时44分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -356,17 +391,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时58分 ~ 10时35分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 14时58分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -537,6 +561,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时37分]"
+        },
+        {
+          "title": "美元指数回吐涨幅，此前一度上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3063446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "美元指数3日上涨",
+          "url": "https://flash.jin10.com/detail/20260304045747487800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt",
       "match_count": 2,
       "titles": [
@@ -563,34 +626,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时37分]"
-        },
-        {
-          "title": "美元指数3日上涨",
-          "url": "https://flash.jin10.com/detail/20260304045747487800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
         }
       ]
     },
