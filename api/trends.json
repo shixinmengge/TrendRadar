@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T21:11:09.984107+08:00",
-  "total_titles_processed": 1913,
+  "generated_at": "2026-03-04T22:43:14.175796+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时34分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时51分 ~ 22时43分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -71,8 +86,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 21时11分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 22时43分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -93,20 +108,6 @@
           "time_info": "[01时53分 ~ 17时51分]"
         },
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 21时11分]"
-        },
-        {
           "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
           "url": "https://www.cls.cn/detail/2302236",
           "source": "财联社热门",
@@ -119,6 +120,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时50分 ~ 21时11分]"
+        },
+        {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时44分 ~ 22时43分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -157,19 +171,6 @@
           "time_info": "[04时40分 ~ 05时41分]"
         },
         {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 21时11分]"
-        },
-        {
           "title": "代表建议为AI内容添加不可去除水印",
           "url": "https://www.toutiao.com/trending/7613178493744087103/",
           "source": "今日头条",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时58分 ~ 15时44分]"
+        },
+        {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
@@ -251,6 +263,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 13时51分]"
+        },
+        {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
@@ -349,7 +372,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -401,7 +424,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -412,8 +435,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时34分 ~ 21时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时34分 ~ 22时43分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -474,6 +497,17 @@
           "time_info": "[21时10分 ~ 21时11分]"
         },
         {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -520,6 +554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时37分]"
+        },
+        {
+          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2302992",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
@@ -624,6 +669,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3063688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美股股指期货盘中走高，纳指期货、标普500指数期货均转涨。",
           "url": "https://wallstreetcn.com/livenews/3063549",
           "source": "华尔街见闻-快讯",
@@ -715,6 +771,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
+          "url": "https://wallstreetcn.com/livenews/3062902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时53分]"
+        },
+        {
+          "title": "谷歌Gemini被新诉讼指控诱导用户自杀",
+          "url": "https://wallstreetcn.com/livenews/3063696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt",
       "match_count": 2,
       "titles": [
@@ -741,24 +826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌公司推出Gemini 3.1 Flash-LITE模型。",
-          "url": "https://wallstreetcn.com/livenews/3062902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时53分]"
         }
       ]
     }
