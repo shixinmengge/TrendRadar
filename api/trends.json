@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T04:45:42.025450+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-06T05:43:09.882725+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -26,8 +26,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
+        },
+        {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
+        },
+        {
+          "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
+          "url": "https://wallstreetcn.com/livenews/3064666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -41,6 +64,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
+          "url": "https://wallstreetcn.com/livenews/3064665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260306033140632800",
           "source": "金十数据",
@@ -51,18 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时45分]"
-        },
-        {
-          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2304327",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
@@ -88,6 +110,28 @@
           "time_info": "02时11分"
         },
         {
+          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260306050553225800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260306050548553800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "美股芯片股短线走低 英伟达跌近2%",
           "url": "https://flash.jin10.com/detail/20260306013942118800",
           "source": "金十数据",
@@ -97,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美股收盘：道指跌1.6% 哔哩哔哩跌7%",
+          "url": "https://flash.jin10.com/detail/20260306050150725800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "美股延续跌势，纳指短线下挫，现跌近1%，道指跌约2%，标普500指数跌1.2%。",
@@ -113,7 +168,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -123,8 +178,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -134,8 +189,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -146,8 +201,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -156,11 +211,12 @@
           "ranks": [
             21,
             23,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时43分]"
         },
         {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
@@ -168,11 +224,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 05时43分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -185,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时45分]"
+        },
+        {
+          "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
+          "url": "https://flash.jin10.com/detail/20260306050651902800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -240,6 +308,36 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260306051212623800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
+          "url": "https://wallstreetcn.com/livenews/3064653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 05时43分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt",
       "match_count": 1,
       "titles": [
@@ -250,24 +348,6 @@
           "ranks": [
             24,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
-          "url": "https://wallstreetcn.com/livenews/3064653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
