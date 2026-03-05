@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:54:59.283035+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-03-05T15:02:20.387894+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
             14,
             10,
             23,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 13时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -189,8 +190,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时02分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -234,7 +235,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -256,7 +257,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -386,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -398,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 15时02分]"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
@@ -534,8 +535,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时02分]"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
