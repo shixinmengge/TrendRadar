@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:44:08.572722+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-03-06T19:36:33.003133+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -98,6 +98,17 @@
           "time_info": "[15时47分 ~ 18时44分]"
         },
         {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "AI相关产业规模将超10万亿元",
           "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -107,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时36分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -119,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时56分]"
+        },
+        {
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时36分]"
         },
         {
           "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
@@ -170,26 +203,16 @@
           "time_info": "[16时49分 ~ 18时44分]"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 18时44分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 19时36分]"
         },
         {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
@@ -203,18 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 05时43分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 18时44分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -261,6 +272,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
+          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "千问AI一句话下单无门槛立减",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E4%B8%80%E5%8F%A5%E8%AF%9D%E4%B8%8B%E5%8D%95%E6%97%A0%E9%97%A8%E6%A7%9B%E7%AB%8B%E5%87%8F%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
@@ -376,8 +420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时55分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[07时55分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -573,7 +617,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }
@@ -590,11 +634,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时36分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时36分 ~ 19时36分]"
         },
         {
           "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
