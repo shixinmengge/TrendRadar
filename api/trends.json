@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T21:01:59.776244+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-03-07T21:47:22.979841+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "养龙虾，今年最大AI风暴",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 21时47分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 21时01分]"
+          "appearance_count": 21,
+          "time_info": "[00时52分 ~ 21时47分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -138,11 +138,12 @@
             23,
             28,
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 21时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 21时47分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -161,11 +162,38 @@
           "source": "微博",
           "ranks": [
             4,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时47分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时47分]"
+        },
+        {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时47分]"
         },
         {
           "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
@@ -194,41 +222,28 @@
           "time_info": "[10时29分 ~ 14时52分]"
         },
         {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 21时01分]"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时01分]"
-        },
-        {
           "title": "用AI动画片求婚谁不心动啊",
           "url": "https://www.douyin.com/hot/2422221",
           "source": "抖音",
           "ranks": [
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时47分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时47分]"
         },
         {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
@@ -301,15 +316,15 @@
           "time_info": "[14时52分 ~ 15时35分]"
         },
         {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2013275268022757071",
+          "source": "知乎",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "21时47分"
         },
         {
           "title": "解读刷爆外网的AI危机预言",
@@ -356,6 +371,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
           "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
           "source": "澎湃新闻",
@@ -395,7 +421,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -427,8 +453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时34分 ~ 21时01分]"
+          "appearance_count": 14,
+          "time_info": "[07时34分 ~ 21时47分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -548,8 +574,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时47分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
