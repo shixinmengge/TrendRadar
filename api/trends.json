@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T00:36:32.408349+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T01:28:27.455093+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -26,30 +26,44 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
           "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
           "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -59,19 +73,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "TES教练 Naiyou说季后赛输的都是假赛",
-          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
@@ -81,8 +84,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -92,19 +95,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         },
         {
           "title": "用AI动画片求婚谁不心动啊",
           "url": "https://www.douyin.com/hot/2422221",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     },
@@ -120,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
         }
       ]
     }
