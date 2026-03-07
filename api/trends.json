@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T13:42:44.043629+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-03-07T14:52:46.672260+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 13时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 14时52分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -73,8 +74,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 13时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 14时52分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -102,6 +103,18 @@
           "time_info": "[00时52分 ~ 07时35分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 14时52分]"
+        },
+        {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2013292943084058316",
           "source": "知乎",
@@ -113,18 +126,6 @@
           "time_info": "[00时52分 ~ 05时36分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时42分]"
-        },
-        {
           "title": "AI短剧霍去病持续刷屏",
           "url": "https://www.douyin.com/hot/2421579",
           "source": "抖音",
@@ -134,8 +135,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 14时52分]"
         },
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -146,8 +147,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 14时52分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -155,11 +156,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 14时52分]"
         },
         {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
@@ -171,6 +173,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "AI眼镜助失明姑娘独立出行",
+          "url": "https://www.toutiao.com/trending/7614054710404317238/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时52分]"
         },
         {
           "title": "TESnaiyou 假赛",
@@ -195,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
-        },
-        {
-          "title": "AI眼镜助失明姑娘独立出行",
-          "url": "https://www.toutiao.com/trending/7614054710404317238/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
         },
         {
           "title": "解读刷爆外网的AI危机预言",
@@ -241,6 +244,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "AI时代人的创作还有意义吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%88%9B%E4%BD%9C%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
           "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
           "source": "澎湃新闻",
@@ -250,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -272,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "委员谈OpenClaw“养龙虾”火出AI圈",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E8%B0%88OpenClaw%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E7%81%AB%E5%87%BAAI%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
@@ -314,8 +350,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 14时52分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
