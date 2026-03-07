@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-03-07T18:31:42.714246+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-03-07T19:27:15.768590+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5,
             6,
-            8
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 19时27分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -50,17 +49,32 @@
           "time_info": "[00时52分 ~ 13时42分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
           "ranks": [
-            6,
+            4,
             5,
-            4
+            6,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 18时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 19时27分]"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 19时27分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -102,19 +116,6 @@
           "time_info": "[00时52分 ~ 13时42分]"
         },
         {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 18时31分]"
-        },
-        {
           "title": "Naiyou Jiaqi",
           "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -127,6 +128,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时35分]"
+        },
+        {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -153,6 +165,19 @@
           "time_info": "[00时52分 ~ 14时52分]"
         },
         {
+          "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
+          "url": "https://wallstreetcn.com/livenews/3065691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时27分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -166,18 +191,6 @@
           "time_info": "[10时29分 ~ 14时52分]"
         },
         {
-          "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
-          "url": "https://wallstreetcn.com/livenews/3065691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时31分]"
-        },
-        {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
           "url": "https://www.zhihu.com/question/2004583095244911914",
           "source": "知乎",
@@ -188,6 +201,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 17时36分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
@@ -235,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 15时35分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "TES上报Naiyou不正当行为",
@@ -315,17 +350,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "国产AI短剧《霍去病》火到海外",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
           "source": "百度热搜",
@@ -343,7 +367,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -374,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时34分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 19时27分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -473,7 +497,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
@@ -497,6 +521,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
