@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-10T18:51:15.913176+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-03-10T19:38:51.239871+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时34分 ~ 18时51分]"
-        },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
           "url": "https://wallstreetcn.com/articles/3766992",
@@ -45,6 +31,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 10时34分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时34分 ~ 19时38分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -145,6 +146,18 @@
           "time_info": "[01时52分 ~ 03时02分]"
         },
         {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时38分]"
+        },
+        {
           "title": "AI初创公司KAI完成1.25亿美元种子轮及A轮融资。",
           "url": "https://wallstreetcn.com/livenews/3067202",
           "source": "华尔街见闻-快讯",
@@ -157,15 +170,16 @@
           "time_info": "[17时54分 ~ 18时51分]"
         },
         {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
+          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
+          "url": "https://wallstreetcn.com/livenews/3067229",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
+          "time_info": "[18时51分 ~ 19时38分]"
         },
         {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
@@ -203,6 +217,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "这只全网爆火的AI“小龙虾”，普通人要不要养？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32737877",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "高中生评测M4 iPad Air",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%AF%84%E6%B5%8BM4%20iPad%20Air",
           "source": "bilibili 热搜",
@@ -225,15 +250,26 @@
           "time_info": "10时34分"
         },
         {
-          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
-          "url": "https://wallstreetcn.com/livenews/3067229",
+          "title": "金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度",
+          "url": "https://wallstreetcn.com/livenews/3067246",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "19时38分"
+        },
+        {
+          "title": "博睿数据：OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品，未形成商业化应用，也未形成收入，对公司目前业务不构成影响。",
+          "url": "https://wallstreetcn.com/livenews/3067244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
@@ -294,7 +330,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -405,6 +441,17 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
@@ -416,6 +463,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260310040602792800",
           "source": "金十数据",
@@ -425,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
