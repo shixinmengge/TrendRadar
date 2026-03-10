@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T17:54:28.922033+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-03-10T18:51:15.913176+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时34分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时34分 ~ 18时51分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -115,7 +116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -142,6 +143,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时02分]"
+        },
+        {
+          "title": "AI初创公司KAI完成1.25亿美元种子轮及A轮融资。",
+          "url": "https://wallstreetcn.com/livenews/3067202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时51分]"
+        },
+        {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
@@ -179,17 +203,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "AI初创公司KAI完成1.25亿美元种子轮及A轮融资。",
-          "url": "https://wallstreetcn.com/livenews/3067202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
           "title": "高中生评测M4 iPad Air",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%AF%84%E6%B5%8BM4%20iPad%20Air",
           "source": "bilibili 热搜",
@@ -210,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
+          "url": "https://wallstreetcn.com/livenews/3067229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
@@ -270,7 +294,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -332,6 +356,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
