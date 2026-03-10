@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-10T16:54:36.379962+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-03-10T17:54:28.922033+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 17时54分]"
+        },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
           "url": "https://wallstreetcn.com/articles/3766992",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 10时34分]"
-        },
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 16时54分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -108,6 +109,17 @@
           "time_info": "[00时07分 ~ 06时37分]"
         },
         {
+          "title": "AI养龙虾为何引发跟风",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E8%B7%9F%E9%A3%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3067011",
           "source": "华尔街见闻-快讯",
@@ -144,6 +156,18 @@
           "time_info": "[05时40分 ~ 06时37分]"
         },
         {
+          "title": "AI龙虾为何那么“生猛”",
+          "url": "https://www.douyin.com/hot/2425335",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 17时54分]"
+        },
+        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -153,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "AI初创公司KAI完成1.25亿美元种子轮及A轮融资。",
+          "url": "https://wallstreetcn.com/livenews/3067202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "高中生评测M4 iPad Air",
@@ -183,7 +218,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -230,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        },
-        {
-          "title": "AI龙虾为何那么“生猛”",
-          "url": "https://www.douyin.com/hot/2425335",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
         }
       ]
     },
@@ -452,7 +476,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
