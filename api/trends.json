@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:03:57.181550+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-03-11T16:53:42.591203+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -16,11 +16,12 @@
             7,
             12,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 15时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 16时53分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -55,11 +56,12 @@
             15,
             19,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 15时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时07分 ~ 16时53分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -111,6 +113,19 @@
           "time_info": "07时34分"
         },
         {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 16时53分]"
+        },
+        {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
           "url": "https://wallstreetcn.com/livenews/3067532",
           "source": "华尔街见闻-快讯",
@@ -121,18 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 04时42分]"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 15时03分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -153,11 +156,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时53分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时03分]"
+          "time_info": "[15时03分 ~ 16时53分]"
         },
         {
           "title": "黄仁勋定义“AI五层蛋糕”架构，预示万亿级基建浪潮",
@@ -170,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时55分]"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时53分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -196,15 +223,15 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "16时53分"
         },
         {
           "title": "韩国总统府AI首席秘书官：鉴于阿联酋加强国防能力的需要，预计冲突结束后，韩国与阿联酋的人工智能合作有望加速推进。",
@@ -213,18 +240,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -279,7 +295,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -312,7 +328,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -323,7 +339,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -342,7 +358,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -364,8 +380,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时03分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时53分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -527,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "甲骨文美股盘前涨超11%，公司营收指引超预期。",
+          "url": "https://wallstreetcn.com/livenews/3067922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
