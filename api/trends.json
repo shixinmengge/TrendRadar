@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:55:46.353535+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-03-11T15:03:57.181550+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,11 +15,12 @@
             4,
             7,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 15时03分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -53,11 +54,12 @@
             11,
             15,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 15时03分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -121,6 +123,18 @@
           "time_info": "[03时47分 ~ 04时42分]"
         },
         {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时03分]"
+        },
+        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -134,15 +148,16 @@
           "time_info": "[05时35分 ~ 10时34分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
           "ranks": [
-            13
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时55分]"
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时03分]"
         },
         {
           "title": "黄仁勋定义“AI五层蛋糕”架构，预示万亿级基建浪潮",
@@ -181,6 +196,39 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "韩国总统府AI首席秘书官：鉴于阿联酋加强国防能力的需要，预计冲突结束后，韩国与阿联酋的人工智能合作有望加速推进。",
+          "url": "https://wallstreetcn.com/livenews/3067840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
           "url": "https://www.cls.cn/detail/2308421",
           "source": "财联社热门",
@@ -190,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -236,6 +273,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
+          "url": "https://wallstreetcn.com/livenews/3067827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "院士说文科生绝不会被AI替代",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -256,6 +304,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
+          "url": "https://wallstreetcn.com/livenews/3067825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "美的集团加码AI，拟未来三年投入超600亿元",
+          "url": "https://wallstreetcn.com/livenews/3067822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "AI机器人初创公司Rhoda AI完成4.5亿美元A轮融资，旨在推动机器人从实验室走向现实应用。本轮融资由淡马锡（Temasek）、Capricorn投资集团、Khosla Ventures、Leitmotif、Matter Venture Partners及Xora等机构参投。",
@@ -294,8 +364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时03分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -307,8 +377,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时03分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -545,7 +615,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
