@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T15:08:33.331787+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-03-12T16:54:28.560753+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -32,11 +32,12 @@
             29,
             23,
             26,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 15时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 16时54分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -90,6 +91,54 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
+          "title": "老板电器发布全球首款AI烹饪眼镜",
+          "url": "https://wallstreetcn.com/livenews/3068770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
+          "url": "https://www.cls.cn/detail/2310365",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 16时54分]"
+        },
+        {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
+        },
+        {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
           "url": "https://wallstreetcn.com/articles/3767211",
           "source": "华尔街见闻",
@@ -101,18 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 10时40分]"
-        },
-        {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时08分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -150,6 +187,17 @@
           "time_info": "[06时33分 ~ 07时33分]"
         },
         {
+          "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
+          "url": "https://www.cls.cn/detail/2310349",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "五角大楼设置例外条款，允许继续使用Anthropic的AI工具",
           "url": "https://wallstreetcn.com/livenews/3068504",
           "source": "华尔街见闻-快讯",
@@ -172,15 +220,15 @@
           "time_info": "10时40分"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
           "source": "知乎",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "16时54分"
         },
         {
           "title": "英伟达将豪掷260亿美元开发AI大模型",
@@ -189,7 +237,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -216,6 +264,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
+          "url": "https://flash.jin10.com/detail/20260312162011551800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "据知情人士透露，奈飞将支付高达6亿美元，来收购Ben Affleck旗下人工智能（AI）公司InterPositive。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3068313",
           "source": "华尔街见闻-快讯",
@@ -225,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
         },
         {
           "title": "AI龙虾安全风险真的那么可怕吗",
@@ -252,7 +300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -279,6 +327,17 @@
           "time_info": "[01时01分 ~ 06时33分]"
         },
         {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 16时54分]"
+        },
+        {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
@@ -291,17 +350,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 12时53分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 15时08分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -388,6 +436,17 @@
           "time_info": "[05时40分 ~ 06时33分]"
         },
         {
+          "title": "财报公布后，理想汽车(LI.O)美股盘前下跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260312163212112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "金十图示：2026年03月11日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260312040647554800",
           "source": "金十数据",
@@ -408,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计2026年第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 预计2026年第一季度车辆交付量为85,000至90,000辆，同比减少8.5%至3.1%。 理想汽车美股盘前下跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3068756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 石油股走强",
@@ -514,6 +584,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
+          "url": "https://www.cls.cn/detail/2310272",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     }
