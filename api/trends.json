@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:04:25.710144+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-03-13T16:52:21.785498+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -60,6 +60,31 @@
           "time_info": "[00时06分 ~ 03时03分]"
         },
         {
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 16时52分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 16时52分]"
+        },
+        {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
           "url": "https://flash.jin10.com/detail/20260312235230253800",
           "source": "金十数据",
@@ -69,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
         },
         {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
@@ -93,18 +107,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
           "ranks": [
-            11,
-            16,
-            17,
-            14
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时37分 ~ 15时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
@@ -201,13 +212,24 @@
           "time_info": "03时03分"
         },
         {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
           "url": "https://flash.jin10.com/detail/20260313143214386800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -221,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "网友和妈妈闹矛盾后，妈妈用 AI 生成暖心道歉话术，如何看待这种 AI「嘴替」？能帮助代际沟通吗？",
+          "url": "https://www.zhihu.com/question/2015131420163592312",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -292,7 +325,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -350,8 +383,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时04分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时52分]"
         },
         {
           "title": "美股三大股指期货全线走低",
@@ -360,7 +393,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -460,6 +493,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 05时40分]"
+        },
+        {
+          "title": "为何油价大涨美股大跌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
