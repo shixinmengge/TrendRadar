@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T19:31:49.449788+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-14T21:07:07.903041+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时48分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 21时07分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -35,6 +35,23 @@
           "time_info": "[13时53分 ~ 19时31分]"
         },
         {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            11,
+            9,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 21时07分]"
+        },
+        {
           "title": "AI带路寻美食,吧友吃到自闭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
@@ -49,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 21时07分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -67,22 +84,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时50分 ~ 19时31分]"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            11,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 19时31分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -214,6 +215,17 @@
           "time_info": "[10时36分 ~ 13时53分]"
         },
         {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
           "url": "https://www.zhihu.com/question/6607255010",
           "source": "知乎",
@@ -248,13 +260,24 @@
           "time_info": "[17时40分 ~ 18时36分]"
         },
         {
+          "title": "谁在渲染AI焦虑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
+        {
           "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
           "url": "https://www.cls.cn/detail/2312736",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -296,8 +319,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 21时07分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -321,8 +344,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时35分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[07时35分 ~ 21时07分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
