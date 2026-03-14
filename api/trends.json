@@ -1,379 +1,94 @@
 {
-  "generated_at": "2026-03-14T23:35:33.838471+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-03-15T00:40:31.132406+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时48分 ~ 23时35分]"
-        },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            17,
-            11,
-            9,
-            8,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时53分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "鹅厂抄袭AI龙虾,创始人开喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
-          "source": "贴吧",
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4,
-            6,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 19时31分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            13,
-            15,
-            17,
-            18,
-            20,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时50分 ~ 23时35分]"
-        },
-        {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            28,
-            16,
-            29,
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 19时31分]"
-        },
-        {
-          "title": "张颂文硬气回应AI冲击影视行业",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E7%A1%AC%E6%B0%94%E5%9B%9E%E5%BA%94AI%E5%86%B2%E5%87%BB%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 07时35分]"
-        },
-        {
-          "title": "马斯克誓言重建 xAI，又一联合创始人离职",
-          "url": "https://wallstreetcn.com/livenews/3069962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时37分]"
-        },
-        {
-          "title": "美国商务部撤回拟议的AI芯片出口管制新规",
-          "url": "https://wallstreetcn.com/livenews/3070033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时40分]"
-        },
-        {
-          "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3070007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
-        },
-        {
-          "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
-          "url": "https://wallstreetcn.com/livenews/3070039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 10时36分]"
-        },
-        {
-          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
-          "url": "https://flash.jin10.com/detail/20260314140852478800",
+          "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
+          "url": "https://flash.jin10.com/detail/20260315000241891800",
           "source": "金十数据",
           "ranks": [
-            5,
-            14,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 16时44分]"
-        },
-        {
-          "title": "欧盟理事会推动简化AI监管规则，禁止AI用于生成色情内容",
-          "url": "https://wallstreetcn.com/livenews/3069958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时37分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
           "url": "https://wallstreetcn.com/articles/3767512",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "Mosaic股价跌幅扩大至5.9%。",
-          "url": "https://wallstreetcn.com/livenews/3069973",
-          "source": "华尔街见闻-快讯",
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
-            7,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 04时43分]"
-        },
-        {
-          "title": "AI时代青少年该掌握哪些能力",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
-          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3070061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 13时53分]"
-        },
-        {
-          "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
-          "url": "https://www.zhihu.com/question/6607255010",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
-          "url": "https://wallstreetcn.com/livenews/3070059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 12时48分]"
-        },
-        {
-          "title": "为什么很多网文作者都非常自信，认为 AI 在创作领域无法取代自己？",
-          "url": "https://www.zhihu.com/question/1914316923497350507",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时36分]"
-        },
-        {
-          "title": "谁在渲染AI焦虑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
-        },
-        {
-          "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
-          "url": "https://www.cls.cn/detail/2312736",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
-          "url": "https://flash.jin10.com/detail/20260313233908274800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3069912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时35分 ~ 23时35分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时35分 ~ 23时35分]"
-        },
-        {
-          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
-          "url": "https://wallstreetcn.com/articles/3767394",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时43分 ~ 07时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003323131800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -383,158 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 23时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040819364800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时35分]"
-        },
-        {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时35分]"
-        },
-        {
-          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3070022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时35分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
-          "url": "https://wallstreetcn.com/livenews/3070015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时35分]"
-        },
-        {
-          "title": "美股三大指数集体高开 百度涨超2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时41分]"
-        },
-        {
-          "title": "美伊冲突升级，美股倒V转跌，Mag7陷入回调，Meta跌近4%，美元破百，金银三连跌",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003327722800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
-          "url": "https://wallstreetcn.com/articles/3767392",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时35分]"
-        },
-        {
-          "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260314043306471800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时35分]"
-        },
-        {
-          "title": "彭博美元现货指数创2026年收盘新高。",
-          "url": "https://wallstreetcn.com/livenews/3070004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时40分]"
-        },
-        {
-          "title": "美元指数收盘价创年内新高。",
-          "url": "https://flash.jin10.com/detail/20260314040234290800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时35分]"
+          "time_info": "00时40分"
         }
       ]
     }
