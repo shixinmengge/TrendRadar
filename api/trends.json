@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T02:50:17.102470+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-03-15T03:33:41.129838+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -36,11 +37,12 @@
           "ranks": [
             6,
             17,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -50,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -61,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -89,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -100,8 +102,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时33分]"
         }
       ]
     }
