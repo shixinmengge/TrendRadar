@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T22:37:58.897506+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-03-15T23:36:23.955114+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -56,11 +56,47 @@
             20,
             22,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 22时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 23时36分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 23时36分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时36分]"
+        },
+        {
+          "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313341",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时36分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -97,60 +133,15 @@
           "time_info": "18时38分"
         },
         {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 22时37分]"
-        },
-        {
-          "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
-          "url": "https://wallstreetcn.com/livenews/3070357",
+          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
+          "url": "https://wallstreetcn.com/livenews/3070375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
-          "url": "https://www.cls.cn/detail/2313341",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "给AI投毒",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%99AI%E6%8A%95%E6%AF%92&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
+          "time_info": "23时36分"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -161,8 +152,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时36分]"
+        },
+        {
+          "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
+          "url": "https://wallstreetcn.com/livenews/3070357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时37分]"
+          "time_info": "[22时37分 ~ 23时36分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -179,6 +182,18 @@
           "time_info": "[00时40分 ~ 03时33分]"
         },
         {
+          "title": "给AI投毒",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%99AI%E6%8A%95%E6%AF%92&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时36分]"
+        },
+        {
           "title": "马斯克xAI联创团队几乎全跑了",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
           "source": "百度热搜",
@@ -189,6 +204,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时12分 ~ 16时47分]"
+        },
+        {
+          "title": "六指内塔尼亚胡是AI替身？真相来了",
+          "url": "https://www.toutiao.com/trending/7617060842857267209/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时36分]"
         },
         {
           "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
@@ -202,26 +228,26 @@
           "time_info": "[15时07分 ~ 16时47分]"
         },
         {
-          "title": "六指内塔尼亚胡是AI替身？真相来了",
-          "url": "https://www.toutiao.com/trending/7617060842857267209/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时37分]"
-        },
-        {
           "title": "315晚会曝光“AI投毒产业链”",
           "url": "https://www.douyin.com/hot/2431845",
           "source": "抖音",
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时36分]"
+        },
+        {
+          "title": "专家：AI大模型投毒是新型不正当竞争",
+          "url": "https://wallstreetcn.com/livenews/3070365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时37分"
+          "time_info": "23时36分"
         },
         {
           "title": "84岁奶奶为AI霸总花近万还要嫁给他",
@@ -235,15 +261,37 @@
           "time_info": "13时12分"
         },
         {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.toutiao.com/trending/7616979498366140452/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "315晚会曝光AI大模型被投毒，给AI投毒已成产业链",
           "url": "https://wallstreetcn.com/livenews/3070328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
+        },
+        {
+          "title": "实测AI推荐如何被操控",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
@@ -288,6 +336,18 @@
           "time_info": "[00时40分 ~ 07时35分]"
         },
         {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 23时36分]"
+        },
+        {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
           "url": "https://flash.jin10.com/detail/20260315102410675800",
           "source": "金十数据",
@@ -298,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 13时12分]"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 22时37分]"
         },
         {
           "title": "美股“异相”：ETF成交量飙升",
