@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T10:57:02.253894+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-03-15T13:12:23.809015+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 10时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时12分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 10时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时12分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -69,6 +70,17 @@
           "time_info": "[07时34分 ~ 10时57分]"
         },
         {
+          "title": "xAI核心团队基本跑光",
+          "url": "https://www.toutiao.com/trending/7617270651551747634/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
           "url": "https://flash.jin10.com/detail/20260315000241891800",
           "source": "金十数据",
@@ -81,6 +93,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时33分]"
+        },
+        {
+          "title": "84岁奶奶为AI霸总花近万还要嫁给他",
+          "url": "https://s.weibo.com/weibo?q=%2384%E5%B2%81%E5%A5%B6%E5%A5%B6%E4%B8%BAAI%E9%9C%B8%E6%80%BB%E8%8A%B1%E8%BF%91%E4%B8%87%E8%BF%98%E8%A6%81%E5%AB%81%E7%BB%99%E4%BB%96%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
@@ -108,8 +142,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 10时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时12分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -128,11 +162,12 @@
           "url": "https://flash.jin10.com/detail/20260315102410675800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时12分]"
         },
         {
           "title": "美股“异相”：ETF成交量飙升",
@@ -144,6 +179,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 10时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
+          "url": "https://wallstreetcn.com/articles/3767525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     }
