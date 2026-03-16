@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T07:37:00.694151+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-03-16T10:57:07.930745+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时57分]"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -25,22 +25,24 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时57分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
           "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时57分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -48,11 +50,28 @@
           "source": "今日头条",
           "ranks": [
             13,
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时57分]"
+        },
+        {
+          "title": "实测AI推荐如何被操控",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16,
+            25,
+            30,
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "time_info": "[00时39分 ~ 10时57分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -75,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时57分]"
         },
         {
           "title": "给AI投毒已成产业链",
@@ -94,21 +114,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时35分 ~ 07时37分]"
-        },
-        {
-          "title": "实测AI推荐如何被操控",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16,
-            25,
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "给AI投毒",
@@ -177,6 +182,28 @@
           "time_info": "[03时34分 ~ 05时34分]"
         },
         {
+          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313556",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
+          "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
+          "url": "https://www.zhihu.com/question/2016626718161465398",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
@@ -235,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时57分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
