@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T21:21:22.526568+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2026-03-19T22:57:26.255771+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时12分 ~ 21时21分]"
+          "appearance_count": 20,
+          "time_info": "[01时12分 ~ 22时57分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -197,11 +197,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 21时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 22时57分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -213,11 +214,12 @@
             19,
             14,
             15,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 21时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 22时57分]"
         },
         {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
@@ -308,6 +310,19 @@
           "time_info": "[15时52分 ~ 18时51分]"
         },
         {
+          "title": "AI艺人被指撞脸多位明星",
+          "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时57分]"
+        },
+        {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
           "url": "https://www.zhihu.com/question/2017645383652696499",
           "source": "知乎",
@@ -329,18 +344,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 14时07分]"
-        },
-        {
-          "title": "AI艺人被指撞脸多位明星",
-          "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 21时21分]"
         },
         {
           "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
@@ -366,6 +369,17 @@
           "time_info": "[04时47分 ~ 05时43分]"
         },
         {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时57分]"
+        },
+        {
           "title": "AI盛行 周杰伦坚持手搓",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9B%9B%E8%A1%8C%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9D%9A%E6%8C%81%E6%89%8B%E6%90%93&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -376,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 19时41分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时57分]"
         },
         {
           "title": "短剧方称男二以下AI演员无法实现",
@@ -406,18 +431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -522,14 +536,14 @@
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时57分"
         },
         {
           "title": "阿里巴巴(09988.HK)：新成立的悟空事业部进一步将AI战略延伸至企业层面，将前沿模型能力直接融入工作流程之中，把阿里巴巴在MaaS的领先优势，转化为客户可量化的运营效率提升。",
@@ -679,7 +693,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -758,11 +772,12 @@
           "url": "https://www.cls.cn/detail/2318602",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时57分]"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货跌幅扩大至0.7%，纳指期货跌0.8%，均至日内低点。",
@@ -771,7 +786,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -815,7 +830,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         },
@@ -984,7 +999,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时21分"
         }
