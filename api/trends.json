@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T10:48:25.459953+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-03-19T13:02:19.739346+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 10时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 13时02分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -56,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 10时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 13时02分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -68,11 +69,25 @@
           "source": "贴吧",
           "ranks": [
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 10时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 13时02分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 13时02分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -100,19 +115,6 @@
           "time_info": "[01时12分 ~ 06时38分]"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 10时48分]"
-        },
-        {
           "title": "易小星参加B站AI创作大赛",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -120,11 +122,12 @@
             21,
             13,
             12,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时46分 ~ 10时48分]"
+          "appearance_count": 9,
+          "time_info": "[04时46分 ~ 13时02分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -163,6 +166,42 @@
           "time_info": "01时12分"
         },
         {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时02分]"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时02分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 13时02分]"
+        },
+        {
           "title": "美光科技：AI服务器需求继续表现强劲。",
           "url": "https://wallstreetcn.com/livenews/3072679",
           "source": "华尔街见闻-快讯",
@@ -173,6 +212,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时43分]"
+        },
+        {
+          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2017645383652696499",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "微短剧专业学生制作AI漫剧1分钟100元",
+          "url": "https://www.toutiao.com/trending/7617807310119288875/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787960",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -186,24 +258,13 @@
           "time_info": "07时37分"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "AI演员 假人感",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E5%81%87%E4%BA%BA%E6%84%9F&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -219,26 +280,15 @@
           "time_info": "07时37分"
         },
         {
-          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
-          "url": "https://www.zhihu.com/question/2016065149123970133",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
+          "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
+          "url": "https://wallstreetcn.com/livenews/3072898",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "13时02分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
@@ -288,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 13时02分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -311,7 +361,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
