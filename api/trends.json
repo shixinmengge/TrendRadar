@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T02:59:48.883617+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-03-21T03:42:42.333649+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
@@ -74,7 +74,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -85,7 +85,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -125,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -136,8 +136,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -147,8 +147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -160,8 +160,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -172,8 +172,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -184,8 +184,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -217,11 +217,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时42分]"
         }
       ]
     },
@@ -234,22 +235,24 @@
           "url": "https://wallstreetcn.com/livenews/3074300",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时42分]"
         },
         {
           "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
           "url": "https://wallstreetcn.com/livenews/3074297",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时42分]"
         }
       ]
     },
