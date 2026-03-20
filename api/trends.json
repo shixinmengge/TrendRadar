@@ -1,342 +1,77 @@
 {
-  "generated_at": "2026-03-20T23:51:53.718271+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-03-21T00:54:31.057190+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时38分 ~ 23时51分]"
-        },
         {
           "title": "人工智能太绕,AI急需中文名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 23时51分]"
-        },
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 10时38分]"
-        },
-        {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时36分 ~ 21时14分]"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            26,
-            19,
-            17,
-            15,
-            13,
-            12,
-            10,
-            6,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 15时08分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            15,
-            19,
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时01分 ~ 23时51分]"
-        },
-        {
-          "title": "人民日报：请给AI起个中文名字",
-          "url": "https://www.toutiao.com/trending/7618806460609200137/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 15时08分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
           "url": "https://www.cls.cn/detail/2319626",
           "source": "财联社热门",
           "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时47分 ~ 23时51分]"
-        },
-        {
-          "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
-          "url": "https://www.zhihu.com/question/2017676791603553270",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "超级麦吉3.0宣布成为全球首个企业级开源AI Agent平台",
-          "url": "https://wallstreetcn.com/livenews/3074022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 15时08分]"
-        },
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 07时37分]"
-        },
-        {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时51分]"
-        },
-        {
-          "title": "【何小鹏：IRON人形机器人将于2026年底量产，月产能目标上千台】小鹏董事长、CEO何小鹏表示，全新一代的IRON机器人将会在2026年底量产。小鹏IRON搭载三颗图灵AI芯片，端侧的有效算力远高于行业里的机器人。当前，小鹏VLA2.0技术栈已经在机器人上成功跑通，结合小鹏机器人的全新第4代运动控制系统。小鹏机器人主攻商业、工业和家庭三大场景。IRON将首先支持在小鹏中国和海外的门店和园区落地服务、导览和导购等商业场景。今年一季度，小鹏在广州启动了人形机器人量产基地的建设。IRON今年底的月产能目标是上千台。",
-          "url": "https://wallstreetcn.com/livenews/3074165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "00时54分"
         },
         {
-          "title": "揭秘AI投毒运作原理",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
           "ranks": [
-            9,
-            17,
-            21
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 15时08分]"
-        },
-        {
-          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3073578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时36分]"
-        },
-        {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时11分]"
-        },
-        {
-          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
-          "url": "https://wallstreetcn.com/livenews/3074229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时51分]"
-        },
-        {
-          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
-          "url": "https://flash.jin10.com/detail/20260320052711190800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时36分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "未来十年AI拼的是什么",
           "url": "https://www.douyin.com/hot/2436316",
           "source": "抖音",
           "ranks": [
-            26,
-            12,
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时13分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
-          "url": "https://www.zhihu.com/question/2017606912024207686",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 13时58分]"
-        },
-        {
-          "title": "AI龙抬头赐我新发型",
-          "url": "https://www.douyin.com/hot/2436323",
-          "source": "抖音",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 13时58分]"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            30,
-            26
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时58分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
           "ranks": [
-            6
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "白宫拟于周五向国会提交AI监管框架",
-          "url": "https://flash.jin10.com/detail/20260320060446066800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "曝AI短剧使用杨紫的脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -346,587 +81,80 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时51分]"
-        },
-        {
-          "title": "利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实",
-          "url": "https://wallstreetcn.com/livenews/3074006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
-          "url": "https://www.cls.cn/detail/2318679",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3073585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "阿里妈妈发布“AI万相”，多智能体协同重构经营新范式",
-          "url": "https://flash.jin10.com/detail/20260320162945026800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。",
-          "url": "https://wallstreetcn.com/livenews/3073450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：众议院将推动实施国家AI框架。",
-          "url": "https://wallstreetcn.com/livenews/3074217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
-          "url": "https://wallstreetcn.com/livenews/3073582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实",
-          "url": "https://flash.jin10.com/detail/20260320172557882800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "日本软银计划在美国俄亥俄州建设由燃气电厂供电的巨型AI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3074214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
-          "url": "https://wallstreetcn.com/livenews/3073839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "贝佐斯计划为人工智能（AI）制造基金筹资1000亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "去世演员通过AI重返银幕",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E4%B8%96%E6%BC%94%E5%91%98%E9%80%9A%E8%BF%87AI%E9%87%8D%E8%BF%94%E9%93%B6%E5%B9%95%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "何小鹏：2026年小鹏汽车物理AI相关研发投入预计提升至70亿元",
-          "url": "https://wallstreetcn.com/livenews/3074206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时38分 ~ 23时51分]"
-        },
-        {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 15时08分]"
-        },
-        {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 07时37分]"
-        },
-        {
-          "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3768006",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时13分 ~ 23时51分]"
-        },
-        {
-          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3073561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时13分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时51分]"
-        },
-        {
-          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3073567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时36分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.83%，报341.31点，逼近2025年12月18日收盘位338.36点，较2月27日所创收盘历史最高位累计回撤27.44%。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌6.63%，报2395.68点，逼近12月16日收盘位2378.54点，较3月2日所创收盘历史最高位累计回撤27.57%。 在美股时段交易的原材料指数收跌2.67%，金属与矿业指数收跌0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3073593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260320040622886800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260320040620199800",
-          "source": "金十数据",
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时54分"
         },
         {
-          "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
-          "url": "https://flash.jin10.com/detail/20260320040117255800",
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260321003203096800",
           "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "超微电脑美股盘后跌8.8%。",
-          "url": "https://wallstreetcn.com/livenews/3073615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "高盛拉响警报！美股或迎猛烈回调，传统的避风港将失灵？",
-          "url": "https://flash.jin10.com/detail/20260320121013817800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "美国锑美股盘前涨超8%，公司第四季度业绩超出市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3073925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3074048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "超微电脑美股盘前跌超20%。",
-          "url": "https://wallstreetcn.com/livenews/3073923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3073555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3073546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "美元指数DXY日内大跌1%，现报99.29。",
-          "url": "https://flash.jin10.com/detail/20260320025757960800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:00过后结束交易），将于3月23日恢复交易。 伊斯坦布尔证交所银行指数收跌1.84%，报16693.00点。 土耳其里拉兑美元维持0.23%的跌幅，暂报44.3286里拉，持稳于07:55所创历史最低位44.3314里拉附近。",
-          "url": "https://wallstreetcn.com/livenews/3073480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "报道称美国将向中东增派兵力后，现货黄金日内跌2.00%，现报4557.35美元/盎司。现货白银日内重挫6.00%，现报68.45美元/盎司。美元指数DXY日内涨超0.5%，报99.76。",
-          "url": "https://flash.jin10.com/detail/20260320222618679800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
-          "url": "https://wallstreetcn.com/livenews/3074039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【黄金本周表现恐创逾四十年来最糟，伊朗战争开打以来周线三连跌】黄金恐将录得1983年以来最大单周跌幅，现货黄金本周迄今累计跌超9%，势将连续第八个交易日下跌，创2023年10月以来最长连跌；COMEX黄金期货本周已累跌将近10%。中东战争推高能源价格，并削弱了市场对降息的预期。自美国和以色列上月开始袭击伊朗以来，被普遍视为避险资产的黄金每周都遭遇下跌。金价回落之际，美国国债收益率和美元走强，投资者抛售黄金以弥补其他资产损失，黄金ETF出现资金流出，全球持仓已抹去年初以来全部增量。彭博汇编的数据显示，黄金ETF将连续第三周出现资金流出，期间持仓减少逾60吨。",
-          "url": "https://wallstreetcn.com/livenews/3074251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 23时51分]"
-        },
-        {
-          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "国内金饰价格继续下探 老庙黄金领跌",
-          "url": "https://flash.jin10.com/detail/20260320132124842800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "XAI派工程师前往客户现场，以从OpenAI手中抢夺业务。",
-          "url": "https://flash.jin10.com/detail/20260320210018195800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
-          "url": "https://flash.jin10.com/detail/20260320063632572800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073607",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时54分"
+        },
         {
-          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
-          "url": "https://flash.jin10.com/detail/20260320033049642800",
+          "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260321003056283800",
           "source": "金十数据",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
-          "url": "https://wallstreetcn.com/livenews/3073558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时43分]"
+          "time_info": "00时54分"
         }
       ]
     },
@@ -935,15 +163,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
-          "url": "https://flash.jin10.com/detail/20260320063627057800",
-          "source": "金十数据",
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
+          "url": "https://flash.jin10.com/detail/20260321004049081800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     }
