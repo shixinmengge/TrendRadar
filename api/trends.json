@@ -1,107 +1,11 @@
 {
-  "generated_at": "2026-03-21T01:40:07.197186+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-03-21T02:59:48.883617+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "博主用AI手搓应用1个多月赚近九千",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3074276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -111,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -123,42 +40,54 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
-        },
-        {
-          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
           "url": "https://wallstreetcn.com/livenews/3074271",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时59分]"
+        },
+        {
+          "title": "美股延续跌势，纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260321023913056800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
+          "url": "https://flash.jin10.com/detail/20260321022539496800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股盘中）",
@@ -181,6 +110,146 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "博主用AI手搓应用1个多月赚近九千",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时59分]"
+        },
+        {
+          "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3074276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时59分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "布伦特原油日内涨幅达3.0%，报106.91美元/桶。 纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3074300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
+          "url": "https://wallstreetcn.com/livenews/3074297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
