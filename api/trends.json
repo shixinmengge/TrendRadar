@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-21T15:38:13.738486+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-03-21T16:41:59.859034+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 16时41分]"
+        },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3768006",
@@ -20,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时41分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -37,19 +50,6 @@
           "time_info": "[00时54分 ~ 06时36分]"
         },
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 15时38分]"
-        },
-        {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 16时41分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -97,11 +97,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -279,7 +280,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -301,11 +302,12 @@
             2,
             4,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时41分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -315,11 +317,12 @@
             7,
             9,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时41分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -398,6 +401,19 @@
           "time_info": "[00时54分 ~ 07时36分]"
         },
         {
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 16时41分]"
+        },
+        {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
           "url": "https://www.zhihu.com/question/2017644548151616976",
           "source": "知乎",
@@ -408,18 +424,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时43分 ~ 15时38分]"
-        },
-        {
-          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
-          "url": "https://www.zhihu.com/question/2017816580403246847",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 15时38分]"
         },
         {
           "title": "抵制没用 AI演员已经杀进影视圈",
@@ -455,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
