@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:05:48.895678+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-22T22:35:43.302873+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             2,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时48分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 22时35分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -64,8 +65,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 21时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 22时35分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -81,8 +82,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 21时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 22时35分]"
         },
         {
           "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
@@ -184,6 +185,17 @@
           "time_info": "[18时35分 ~ 19时31分]"
         },
         {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时35分]"
+        },
+        {
           "title": "蔡崇信：发展AI终极目标并非仅研发前沿模型，而是推动AI应用普及",
           "url": "https://flash.jin10.com/detail/20260322184152658800",
           "source": "金十数据",
@@ -193,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
-        },
-        {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         },
         {
           "title": "用AI写作能暴富吗",
