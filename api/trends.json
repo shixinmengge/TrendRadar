@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T22:35:43.302873+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-03-22T23:33:47.862277+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI演员为啥遭网友抵制",
@@ -16,11 +16,12 @@
             5,
             2,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时48分 ~ 22时35分]"
+          "appearance_count": 13,
+          "time_info": "[10时48分 ~ 23时33分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -65,8 +66,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 22时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 23时33分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -82,8 +83,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 22时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 23时33分]"
         },
         {
           "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
@@ -149,6 +150,18 @@
           "time_info": "[12时58分 ~ 16时43分]"
         },
         {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时33分]"
+        },
+        {
           "title": "种地都要“AI”了",
           "url": "https://www.baidu.com/s?wd=%E7%A7%8D%E5%9C%B0%E9%83%BD%E8%A6%81%E2%80%9CAI%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
@@ -185,17 +198,6 @@
           "time_info": "[18时35分 ~ 19时31分]"
         },
         {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时35分]"
-        },
-        {
           "title": "蔡崇信：发展AI终极目标并非仅研发前沿模型，而是推动AI应用普及",
           "url": "https://flash.jin10.com/detail/20260322184152658800",
           "source": "金十数据",
@@ -205,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "用AI写作能暴富吗",
