@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T01:32:12.545609+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-03-23T02:48:02.847330+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时48分]"
         },
         {
           "title": "AI演员为啥遭网友抵制",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时48分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -51,8 +51,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时48分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -63,8 +63,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时48分]"
         }
       ]
     }
