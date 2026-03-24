@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T17:03:50.798614+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-03-24T18:58:12.219017+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 17时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 18时58分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -120,6 +120,19 @@
           "time_info": "05时44分"
         },
         {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 18时58分]"
+        },
+        {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260324040614031800",
           "source": "金十数据",
@@ -130,18 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时44分]"
-        },
-        {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 17时03分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）热门中概股行情一览（美股收盘）",
@@ -166,6 +167,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时00分 ~ 15时58分]"
+        },
+        {
+          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "航空业ETF收涨将近3.5%，领跑美股行业ETF，能源业ETF涨1.2%表现“不温不火”",
@@ -198,7 +210,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -250,7 +262,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -271,11 +283,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 17时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 18时58分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -284,11 +297,25 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时00分 ~ 17时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时00分 ~ 18时58分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 18时58分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -304,18 +331,6 @@
           "time_info": "[10时40分 ~ 14时09分]"
         },
         {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 17时03分]"
-        },
-        {
           "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
           "url": "https://www.zhihu.com/question/2019761369977767358",
           "source": "知乎",
@@ -324,8 +339,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 18时58分]"
         },
         {
           "title": "内娱影视行业AI化是好是坏",
@@ -337,6 +352,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "“去人化”的AI影视 你还会看吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%BB%E4%BA%BA%E5%8C%96%E2%80%9D%E7%9A%84AI%E5%BD%B1%E8%A7%86+%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%9C%8B%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
