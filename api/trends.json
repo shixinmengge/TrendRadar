@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T14:11:25.238733+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-25T15:58:06.994360+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -28,11 +28,12 @@
             17,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时58分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -42,11 +43,12 @@
             11,
             14,
             21,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时58分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -56,11 +58,12 @@
             15,
             18,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时58分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -136,6 +139,31 @@
           "time_info": "01时07分"
         },
         {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时58分]"
+        },
+        {
+          "title": "AI将军凯旋归来",
+          "url": "https://www.douyin.com/hot/2442407",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 15时58分]"
+        },
+        {
           "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
           "url": "https://www.cls.cn/detail/2323532",
           "source": "财联社热门",
@@ -147,6 +175,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时45分 ~ 14时11分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 15时58分]"
         },
         {
           "title": "如何看待 Ai 音乐创作这个趋势？",
@@ -172,16 +211,16 @@
           "time_info": "[07时38分 ~ 10时45分]"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            10
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时01分 ~ 14时11分]"
+          "time_info": "[14时11分 ~ 15时58分]"
         },
         {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
@@ -196,38 +235,15 @@
           "time_info": "[10时45分 ~ 13时02分]"
         },
         {
-          "title": "AI将军凯旋归来",
-          "url": "https://www.douyin.com/hot/2442407",
-          "source": "抖音",
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
           "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时02分]"
-        },
-        {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -296,11 +312,39 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 14时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时58分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时58分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时58分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -312,31 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 14时11分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 14时11分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -545,6 +564,17 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时38分 ~ 15时58分]"
+        },
+        {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
@@ -565,17 +595,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 06时40分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 14时11分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -602,8 +621,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 14时11分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时58分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
