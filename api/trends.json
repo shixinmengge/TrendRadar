@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:58:06.994360+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-03-25T17:03:23.781834+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -44,11 +44,12 @@
             14,
             21,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 17时03分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -59,11 +60,12 @@
             18,
             25,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 17时03分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -106,6 +108,19 @@
           "time_info": "[10时45分 ~ 13时02分]"
         },
         {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 17时03分]"
+        },
+        {
           "title": "AI时代最离谱的KPI",
           "url": "https://www.douyin.com/hot/2442005",
           "source": "抖音",
@@ -115,6 +130,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "AI将军凯旋归来",
+          "url": "https://www.douyin.com/hot/2442407",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
@@ -139,29 +168,29 @@
           "time_info": "01时07分"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            10
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时01分 ~ 15时58分]"
+          "time_info": "[07时38分 ~ 17时03分]"
         },
         {
-          "title": "AI将军凯旋归来",
-          "url": "https://www.douyin.com/hot/2442407",
-          "source": "抖音",
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            29,
-            28
+            11,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 17时03分]"
         },
         {
           "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
@@ -175,17 +204,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时45分 ~ 14时11分]"
-        },
-        {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 15时58分]"
         },
         {
           "title": "如何看待 Ai 音乐创作这个趋势？",
@@ -211,18 +229,6 @@
           "time_info": "[07时38分 ~ 10时45分]"
         },
         {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 15时58分]"
-        },
-        {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
           "url": "https://www.cls.cn/detail/2323553",
           "source": "财联社热门",
@@ -242,8 +248,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 17时03分]"
+        },
+        {
+          "title": "张雪峰：一个向AI世界喊停的人",
+          "url": "https://www.toutiao.com/trending/7621010942226075172/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元",
+          "url": "https://wallstreetcn.com/livenews/3076559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "Meta任命Andrew Bosworth负责AI原生业务，负责管理“AI for Work”项目。 首席技术官（CTO）Bosworth将主管内部使用的AI工具。（华尔街日报）",
@@ -255,6 +283,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "裁员潮席卷硅谷，一线工程师戳破另一面真相：AI效率被严重高估",
+          "url": "https://wallstreetcn.com/livenews/3076545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
+          "url": "https://www.zhihu.com/question/2010673619001419372",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "Kimi杨植麟：开源模型正在成为新的标准，AI将在未来更大程度主导研究",
@@ -316,8 +366,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 17时03分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -330,8 +380,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -340,11 +390,12 @@
           "ranks": [
             7,
             19,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 17时03分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -561,18 +612,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时38分 ~ 15时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 17时03分]"
         },
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -618,11 +670,12 @@
             14,
             16,
             24,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 17时03分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -663,6 +716,17 @@
           "time_info": "[04时51分 ~ 05时45分]"
         },
         {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
           "url": "https://wallstreetcn.com/livenews/3076170",
           "source": "华尔街见闻-快讯",
@@ -672,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "有报道称SpaceX计划最快于本周提交IPO申请后，美股太空公司股价盘前走高。Sidus Space上涨3.4%，Rocket Lab上涨3.4%，Ast Spacemobile上涨3%，Satellogic上涨3.7%，维珍银河涨3.4%，行星实验室涨3.3%，直观机器涨3.7%。",
+          "url": "https://flash.jin10.com/detail/20260325165835846800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "美股三大股指期货盘初走高，其中纳指期货涨近1%。",
@@ -760,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
