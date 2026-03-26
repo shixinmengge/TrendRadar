@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T07:42:08.742617+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-03-26T10:52:34.789960+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -61,19 +61,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时52分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
           "url": "https://www.cls.cn/detail/2324998",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时52分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -170,7 +171,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "Token AI时代的新KPI",
@@ -180,11 +181,12 @@
             15,
             14,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 10时52分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -227,6 +229,17 @@
           "time_info": "[05时48分 ~ 06时44分]"
         },
         {
+          "title": "伊朗官媒发炸毁自由女神像AI视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
           "url": "https://www.zhihu.com/question/2019437515753398973",
           "source": "知乎",
@@ -236,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
+          "url": "https://www.zhihu.com/question/2020204147274642238",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
@@ -255,7 +279,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -263,18 +287,19 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时52分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -286,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "谷歌公司推出Lyria 3 Pro，支持更具结构意识的长音频处理。",
@@ -324,7 +360,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -333,11 +369,12 @@
           "ranks": [
             14,
             16,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 10时52分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -349,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
+          "url": "https://flash.jin10.com/detail/20260326100821499800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
