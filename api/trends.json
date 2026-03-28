@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T01:36:51.471383+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-03-29T02:52:15.603020+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -25,7 +26,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -49,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -60,8 +61,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -71,8 +72,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -82,8 +83,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -92,7 +93,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         }
@@ -121,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -132,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -143,8 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -154,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         }
       ]
     },
@@ -169,11 +170,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -184,8 +186,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -193,11 +195,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时52分]"
         }
       ]
     }
