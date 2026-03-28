@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-28T18:39:53.573083+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-03-28T19:35:27.352384+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时40分 ~ 19时35分]"
+        },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
@@ -18,19 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时40分 ~ 18时39分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时40分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[06时40分 ~ 19时35分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -66,11 +66,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时35分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -93,11 +94,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时05分 ~ 19时35分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -155,6 +157,18 @@
           "time_info": "10时44分"
         },
         {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时35分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
           "url": "https://wallstreetcn.com/livenews/3078476",
           "source": "华尔街见闻-快讯",
@@ -179,17 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 06时40分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时39分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -287,11 +290,12 @@
             11,
             12,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -303,11 +307,12 @@
             13,
             14,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -326,6 +331,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 15时49分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时35分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -369,31 +389,18 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 18时39分]"
-        },
-        {
           "title": "AI神游!原神现六指派蒙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
           "source": "贴吧",
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时35分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -512,8 +519,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -531,8 +538,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -547,11 +554,12 @@
             20,
             18,
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -559,11 +567,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时35分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
