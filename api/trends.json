@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T10:44:41.687991+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-03-28T12:59:45.753791+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -33,6 +33,19 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 12时59分]"
+        },
+        {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2327400",
           "source": "财联社热门",
@@ -47,19 +60,6 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 10时44分]"
-        },
-        {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 12时59分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -121,7 +121,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -189,13 +189,24 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
           "url": "https://wallstreetcn.com/articles/3768602",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -225,19 +236,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
-        },
         {
           "title": "中国AI模型调用量爆发式增长",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
@@ -250,16 +250,29 @@
           "time_info": "[00时02分 ~ 10时44分]"
         },
         {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
+        },
+        {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -368,6 +381,28 @@
           "time_info": "00时02分"
         },
         {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "上海市人工智能行业协会：AI发展不能因噎废食 安全和风控要协同推进",
+          "url": "https://flash.jin10.com/detail/20260328114943637800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
           "url": "https://www.zhihu.com/question/2020885312767881505",
           "source": "知乎",
@@ -403,11 +438,12 @@
             11,
             7,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -418,11 +454,12 @@
             19,
             14,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -433,11 +470,12 @@
             15,
             14,
             17,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -448,11 +486,12 @@
             14,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时59分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
