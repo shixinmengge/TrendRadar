@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:35:27.352384+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-03-28T21:09:24.416297+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[07时40分 ~ 21时09分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -29,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时40分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[06时40分 ~ 21时09分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -39,19 +40,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时40分]"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -67,11 +55,40 @@
             5,
             4,
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 21时09分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时59分 ~ 19时35分]"
+          "time_info": "[00时02分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时05分 ~ 21时09分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -86,20 +103,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时05分 ~ 19时35分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -220,6 +223,18 @@
           "time_info": "[04时48分 ~ 05时43分]"
         },
         {
+          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
+          "url": "https://wallstreetcn.com/articles/3768602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 21时09分]"
+        },
+        {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
           "url": "https://flash.jin10.com/detail/20260328040624554800",
           "source": "金十数据",
@@ -230,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时43分]"
-        },
-        {
-          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
-          "url": "https://wallstreetcn.com/articles/3768602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -291,11 +295,12 @@
             12,
             13,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时09分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -308,11 +313,27 @@
             14,
             15,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时09分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 21时09分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -331,21 +352,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 15时49分]"
-        },
-        {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 19时35分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -396,11 +402,12 @@
             6,
             7,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 21时09分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -519,8 +526,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时09分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -535,11 +542,12 @@
             22,
             13,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时09分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -555,11 +563,12 @@
             18,
             22,
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时09分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -571,8 +580,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时09分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
