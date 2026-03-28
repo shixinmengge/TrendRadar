@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:38:53.971525+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-03-28T23:38:23.269806+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时40分 ~ 22时38分]"
+          "appearance_count": 13,
+          "time_info": "[07时40分 ~ 23时38分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时40分 ~ 22时38分]"
+          "appearance_count": 14,
+          "time_info": "[06时40分 ~ 23时38分]"
         },
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -47,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 22时38分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 23时38分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -84,11 +84,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时05分 ~ 22时38分]"
+          "appearance_count": 10,
+          "time_info": "[14时05分 ~ 23时38分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -272,7 +273,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -299,8 +300,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 22时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -317,8 +318,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 22时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -332,8 +333,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 22时38分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 23时38分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -352,6 +353,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 15时49分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 23时38分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -395,19 +411,15 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
+          "title": "一个视频了解AI常识",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7,
-            8,
-            9,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 22时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -447,6 +459,18 @@
           "time_info": "[01时06分 ~ 03时04分]"
         },
         {
+          "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
+          "url": "https://wallstreetcn.com/livenews/3078600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时38分]"
+        },
+        {
           "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
           "url": "https://wallstreetcn.com/livenews/3078369",
           "source": "华尔街见闻-快讯",
@@ -467,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
-        },
-        {
-          "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
-          "url": "https://wallstreetcn.com/livenews/3078600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
         },
         {
           "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
@@ -508,7 +521,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         }
@@ -548,8 +561,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 22时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -569,8 +582,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 22时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -587,11 +600,12 @@
             22,
             23,
             21,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 22时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 23时38分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
