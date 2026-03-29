@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:10:09.276226+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-03-29T22:40:34.755764+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时46分 ~ 21时10分]"
+          "appearance_count": 13,
+          "time_info": "[13时46分 ~ 22时40分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时41分 ~ 22时40分]"
         },
         {
           "title": "一个视频了解AI常识",
@@ -35,22 +46,12 @@
             9,
             10,
             29,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 21时10分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 21时10分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 22时40分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -67,6 +68,21 @@
           "time_info": "[00时42分 ~ 19时36分]"
         },
         {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 22时40分]"
+        },
+        {
           "title": "AI神游!原神现六指派蒙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
           "source": "贴吧",
@@ -80,8 +96,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时42分 ~ 21时10分]"
+          "appearance_count": 25,
+          "time_info": "[00时42分 ~ 22时40分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -109,20 +125,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时42分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 21时10分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -173,6 +175,17 @@
           "time_info": "[05时37分 ~ 07时38分]"
         },
         {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时40分]"
+        },
+        {
           "title": "就是你是RAIN也得接孩子放学",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -194,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
-          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
-          "url": "https://wallstreetcn.com/articles/3768659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -240,11 +242,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时46分 ~ 21时10分]"
+          "appearance_count": 13,
+          "time_info": "[13时46分 ~ 22时40分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -258,8 +261,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时17分 ~ 21时10分]"
+          "appearance_count": 14,
+          "time_info": "[11时17分 ~ 22时40分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -316,8 +319,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 21时10分]"
+          "appearance_count": 5,
+          "time_info": "[19时35分 ~ 22时40分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -334,7 +337,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -395,8 +398,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时46分 ~ 21时10分]"
+          "appearance_count": 13,
+          "time_info": "[13时46分 ~ 22时40分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国3月官方制造业PMI将公布；周五非农重磅来袭却碰上美股休市",
+          "url": "https://flash.jin10.com/detail/20260329214652557800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     }
