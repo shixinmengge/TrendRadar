@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-29T18:42:09.164036+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-03-29T19:36:17.298526+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 16,
       "titles": [
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 19时36分]"
+        },
         {
           "title": "一个视频了解AI常识",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
@@ -36,8 +51,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 18时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 19时36分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -48,11 +63,12 @@
             21,
             22,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 18时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 19时36分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -82,18 +98,15 @@
           "time_info": "[00时42分 ~ 15时14分]"
         },
         {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时46分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 19时36分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -107,15 +120,17 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 19时36分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -140,18 +155,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 06时37分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 18时42分]"
         },
         {
           "title": "中国AI不会因几张邀请函停滞",
@@ -215,7 +218,7 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -226,8 +229,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时46分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 19时36分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -240,8 +243,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 19时36分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -300,6 +303,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时46分 ~ 16时53分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
         }
       ]
     },
@@ -351,8 +365,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 18时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 19时36分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -361,11 +375,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时46分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 19时36分]"
         }
       ]
     }
