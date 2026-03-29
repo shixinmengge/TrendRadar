@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:14:20.861637+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-03-29T16:53:04.134814+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
           "ranks": [
             7,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 16时53分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -45,11 +46,12 @@
           "ranks": [
             13,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 16时53分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -58,11 +60,12 @@
           "ranks": [
             20,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 16时53分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -98,6 +101,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时53分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -136,18 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 07时38分]"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 15时14分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -230,11 +234,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 16时53分]"
         },
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -245,8 +250,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时53分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -256,8 +261,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时53分]"
         }
       ]
     },
@@ -309,8 +314,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 16时53分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -318,11 +323,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时53分]"
         }
       ]
     }
