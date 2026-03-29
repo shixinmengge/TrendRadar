@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T16:53:04.134814+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-03-29T17:46:10.344526+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -36,8 +36,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时46分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -50,8 +50,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时46分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -64,8 +64,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时46分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -92,17 +92,6 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
-          "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
-          "url": "https://flash.jin10.com/detail/20260329004806006800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
           "source": "澎湃新闻",
@@ -112,8 +101,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 17时46分]"
+        },
+        {
+          "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
+          "url": "https://flash.jin10.com/detail/20260329004806006800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 07时38分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -229,19 +240,6 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 16时53分]"
-        },
-        {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
@@ -250,8 +248,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 17时46分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            13,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 17时46分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -314,8 +326,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 16时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时46分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -327,8 +339,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 17时46分]"
         }
       ]
     }
