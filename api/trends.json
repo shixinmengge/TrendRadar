@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T19:36:17.298526+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-03-29T21:10:09.276226+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -16,11 +16,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时46分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时46分 ~ 21时10分]"
         },
         {
           "title": "一个视频了解AI常识",
@@ -37,8 +38,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 18时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 21时10分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 21时10分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -64,11 +76,12 @@
             22,
             24,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 19时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 21时10分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -98,15 +111,18 @@
           "time_info": "[00时42分 ~ 15时14分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 21时10分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -118,19 +134,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时45分 ~ 19时36分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -193,6 +196,17 @@
           "time_info": "[18时41分 ~ 18时42分]"
         },
         {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "xAI最后一位联合创始人据悉已离开公司",
           "url": "https://flash.jin10.com/detail/20260329003301596800",
           "source": "金十数据",
@@ -229,8 +243,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时46分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时46分 ~ 21时10分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -240,11 +254,12 @@
             3,
             13,
             20,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 21时10分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -294,6 +309,17 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 21时10分]"
+        },
+        {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
           "url": "https://www.zhihu.com/question/2021000785224287940",
           "source": "知乎",
@@ -303,17 +329,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时46分 ~ 16时53分]"
-        },
-        {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         }
       ]
     },
@@ -376,11 +391,12 @@
             9,
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时46分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时46分 ~ 21时10分]"
         }
       ]
     }
