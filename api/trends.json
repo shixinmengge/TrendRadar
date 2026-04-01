@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T06:47:12.984988+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-04-02T07:42:48.850887+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -43,6 +43,17 @@
           "time_info": "[01时04分 ~ 04时54分]"
         },
         {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
           "url": "https://wallstreetcn.com/livenews/3081109",
           "source": "华尔街见闻-快讯",
@@ -58,11 +69,12 @@
           "url": "https://www.cls.cn/detail/2332707",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时42分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -99,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
+          "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3081151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
@@ -156,6 +179,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "全球星(GSAT.O)美股盘后涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260402064156553800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
           "url": "https://wallstreetcn.com/livenews/3081023",
           "source": "华尔街见闻-快讯",
@@ -173,7 +207,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         }
@@ -181,7 +215,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -191,11 +225,12 @@
             14,
             17,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -203,11 +238,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -217,19 +253,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时47分]"
-        },
-        {
-          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
-          "url": "https://wallstreetcn.com/livenews/3081142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时42分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -238,11 +263,24 @@
           "ranks": [
             26,
             30,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 07时42分]"
+        },
+        {
+          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
+          "url": "https://wallstreetcn.com/livenews/3081142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时42分]"
         },
         {
           "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
@@ -250,11 +288,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时51分 ~ 06时47分]"
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 07时42分]"
         },
         {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
@@ -277,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
+          "url": "https://www.zhihu.com/question/2011753780459300532",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     },
