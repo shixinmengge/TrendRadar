@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:41:18.462398+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-03T10:53:16.455081+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             7,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 10时53分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 10时53分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -30,18 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 04时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时41分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -193,7 +195,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -201,22 +203,24 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 10时53分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 10时53分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -225,7 +229,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -240,6 +244,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时39分]"
+        },
+        {
+          "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
+          "url": "https://wallstreetcn.com/livenews/3081922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "AI用得越深 Token花费越高，这让不少普通用户和中小企业倍感压力",
+          "url": "https://flash.jin10.com/detail/20260403102938251800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -266,9 +292,59 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "谷歌 google",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
+          "url": "https://wallstreetcn.com/livenews/3081923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
         {
           "title": "美元指数2日上涨",
           "url": "https://flash.jin10.com/detail/20260403043416469800",
@@ -291,23 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
         }
       ]
     },
