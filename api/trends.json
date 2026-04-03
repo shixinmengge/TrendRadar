@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T03:45:37.772005+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-04T04:45:24.079727+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时45分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -27,11 +28,12 @@
             30,
             19,
             14,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时45分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -41,8 +43,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时45分]"
         },
         {
           "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
@@ -50,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时45分]"
         },
         {
           "title": "新AI技术让无人机照样知道自己在哪里",
@@ -74,7 +77,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         }
@@ -92,11 +95,12 @@
             24,
             18,
             22,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 04时45分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -104,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时45分]"
         }
       ]
     },
