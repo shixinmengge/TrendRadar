@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:42:29.542435+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-04-03T21:18:03.330874+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -195,7 +195,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -220,11 +220,12 @@
             11,
             19,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时03分 ~ 21时18分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -261,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时39分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
@@ -320,63 +332,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 15时20分]"
-        },
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 13时11分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时42分]"
-        },
-        {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
@@ -402,6 +359,17 @@
           "time_info": "[05时46分 ~ 06时39分]"
         },
         {
+          "title": "美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。",
+          "url": "https://wallstreetcn.com/livenews/3082210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "周四（4月2日）纽约尾盘，ICE美元指数涨0.35%，报99.998点，日内交投区间为99.447-100.263点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间19:16刷新日高。 彭博美元指数涨0.26%，报1215.67点。 美元兑日元涨0.50%，报159.60日元，日内交投区间为158.55-159.74日元。",
           "url": "https://wallstreetcn.com/livenews/3081774",
           "source": "华尔街见闻-快讯",
@@ -422,6 +390,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 15时20分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 21时18分]"
+        },
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 13时11分]"
+        },
+        {
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
         }
       ]
     },
