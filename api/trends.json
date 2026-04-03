@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:52:18.587822+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-04-03T19:42:29.542435+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -219,11 +219,12 @@
             14,
             11,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 18时52分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 19时42分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -235,8 +236,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 19时42分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -312,7 +313,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -353,11 +354,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时42分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
