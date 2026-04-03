@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T04:45:24.079727+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-04T05:41:17.667580+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时41分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -29,11 +29,12 @@
             19,
             14,
             16,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时41分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -43,8 +44,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时41分]"
         },
         {
           "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
@@ -53,11 +54,12 @@
           "ranks": [
             18,
             15,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 05时41分]"
         },
         {
           "title": "新AI技术让无人机照样知道自己在哪里",
@@ -96,11 +98,12 @@
             18,
             22,
             15,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时41分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -109,11 +112,12 @@
           "ranks": [
             11,
             12,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 05时41分]"
         }
       ]
     },
