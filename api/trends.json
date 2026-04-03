@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T10:53:16.455081+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-04-03T13:11:54.498635+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 10时53分]"
+          "appearance_count": 6,
+          "time_info": "[06时38分 ~ 13时11分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -216,11 +216,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 10时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 13时11分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -252,7 +253,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -263,7 +264,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -300,22 +301,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 13时11分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 13时11分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -341,7 +344,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
