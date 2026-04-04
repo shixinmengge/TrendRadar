@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T06:37:42.007608+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-04-05T07:38:29.496072+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             3,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时38分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -33,8 +34,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时38分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -46,8 +47,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时38分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时44分 ~ 06时37分]"
+        },
+        {
+          "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260405062637079800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
