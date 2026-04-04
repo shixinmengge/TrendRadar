@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T21:10:12.208669+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-04-04T22:40:08.594544+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -40,6 +40,23 @@
           "time_info": "[02时58分 ~ 15时52分]"
         },
         {
+          "title": "Space X并购xAI目的何在",
+          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            7,
+            6,
+            10,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时04分 ~ 22时40分]"
+        },
+        {
           "title": "40岁男子AI成瘾无法接受版本更新",
           "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
           "source": "百度热搜",
@@ -72,33 +89,18 @@
           "time_info": "[00时51分 ~ 16时51分]"
         },
         {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            7,
-            6,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时04分 ~ 21时10分]"
-        },
-        {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
           "url": "https://wallstreetcn.com/livenews/3082430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             5,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 21时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时40分]"
         },
         {
           "title": "千问AI打车上线后周环比增长超1500%",
@@ -124,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时51分 ~ 17时47分]"
+        },
+        {
+          "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
+          "url": "https://www.zhihu.com/question/2023543499937576139",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "红果多部短剧AI角色撞脸易烊千玺",
