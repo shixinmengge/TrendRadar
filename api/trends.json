@@ -1,317 +1,66 @@
 {
-  "generated_at": "2026-04-04T23:39:40.902831+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-04-05T00:44:43.248062+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
         {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "title": "UP主结合自身经历做清明AI短片",
+          "url": "https://search.bilibili.com/all?keyword=UP%E7%BB%93%E5%90%88%E8%87%AA%E8%BA%AB%E7%BB%8F%E5%8E%86%E5%81%9A%E6%B8%85%E6%98%8EAI%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            3,
-            4,
-            8,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时57分]"
-        },
-        {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            10,
-            5,
-            3,
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时58分 ~ 15时52分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "Space X并购xAI目的何在",
           "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            5,
-            7,
-            6,
-            10,
-            18,
-            13,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时04分 ~ 23时39分]"
-        },
-        {
-          "title": "40岁男子AI成瘾无法接受版本更新",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            19,
-            14,
-            16,
-            8,
-            20,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时43分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            30,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 16时51分]"
-        },
-        {
-          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3082430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            16,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 23时39分]"
-        },
-        {
-          "title": "UP主结合自身经历做清明AI短片",
-          "url": "https://search.bilibili.com/all?keyword=UP%E7%BB%93%E5%90%88%E8%87%AA%E8%BA%AB%E7%BB%8F%E5%8E%86%E5%81%9A%E6%B8%85%E6%98%8EAI%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "00时44分"
         },
         {
-          "title": "千问AI打车上线后周环比增长超1500%",
-          "url": "https://wallstreetcn.com/livenews/3082383",
-          "source": "华尔街见闻-快讯",
+          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
+          "url": "https://www.zhihu.com/question/2023363667584927528",
+          "source": "知乎",
           "ranks": [
-            2,
-            7,
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时52分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
           "url": "https://www.zhihu.com/question/2023543499937576139",
           "source": "知乎",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时39分 ~ 23时39分]"
-        },
-        {
-          "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
-          "url": "https://wallstreetcn.com/livenews/3082402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 17时47分]"
-        },
-        {
-          "title": "红果多部短剧AI角色撞脸易烊千玺",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%A4%9A%E9%83%A8%E7%9F%AD%E5%89%A7AI%E8%A7%92%E8%89%B2%E6%92%9E%E8%84%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时35分]"
-        },
-        {
-          "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
-          "url": "https://flash.jin10.com/detail/20260404125453767800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "新AI技术让无人机照样知道自己在哪里",
-          "url": "https://www.toutiao.com/trending/7624502363428323391/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "数千年炼铁方式变了 中国AI高炉出铁",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E5%B9%B4%E7%82%BC%E9%93%81%E6%96%B9%E5%BC%8F%E5%8F%98%E4%BA%86+%E4%B8%AD%E5%9B%BDAI%E9%AB%98%E7%82%89%E5%87%BA%E9%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            18,
-            22,
-            15,
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 15时52分]"
-        },
-        {
-          "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
-          "url": "https://wallstreetcn.com/livenews/3082305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 05时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中金：黄金投资需求和价格或均存向上修复空间",
-          "url": "https://wallstreetcn.com/livenews/3082359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 14时04分]"
-        },
-        {
-          "title": "中金：黄金投资需求和价格或均存向上修复空间",
-          "url": "https://flash.jin10.com/detail/20260404084059092800",
-          "source": "金十数据",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数在非农日清单的交投行情中涨超0.1%，本周大致持平",
-          "url": "https://wallstreetcn.com/livenews/3082342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时41分]"
+          "time_info": "00时44分"
         },
         {
-          "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
-          "url": "https://wallstreetcn.com/livenews/3082252",
+          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3082430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
-          "url": "https://wallstreetcn.com/livenews/3082422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时35分]"
+          "time_info": "00时44分"
         }
       ]
     }
