@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T03:39:31.537014+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-04-06T04:41:53.925637+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "AI时代，如何打赢人脸保护战？",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -72,11 +72,12 @@
           "ranks": [
             15,
             13,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         }
       ]
     }
