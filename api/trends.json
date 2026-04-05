@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T22:41:19.571559+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-04-05T23:40:35.190027+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 22时41分]"
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 23时40分]"
         },
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -60,11 +61,12 @@
             18,
             15,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[15时16分 ~ 23时40分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -80,8 +82,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时44分 ~ 22时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 23时40分]"
+        },
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时47分 ~ 23时40分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -107,16 +121,15 @@
           "time_info": "[13时47分 ~ 15时17分]"
         },
         {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时41分]"
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时40分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -133,27 +146,17 @@
           "time_info": "[01时38分 ~ 06时37分]"
         },
         {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时11分 ~ 22时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 23时40分]"
         },
         {
           "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
