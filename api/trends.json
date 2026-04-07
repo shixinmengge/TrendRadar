@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T21:45:44.725683+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-04-07T23:16:47.712933+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
@@ -90,6 +90,18 @@
           "time_info": "[00时57分 ~ 06时45分]"
         },
         {
+          "title": "AI染指鬼灭,日网友气急跳脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 23时16分]"
+        },
+        {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
           "url": "https://www.zhihu.com/question/2024413032667772670",
           "source": "知乎",
@@ -113,18 +125,6 @@
           "time_info": "13时16分"
         },
         {
-          "title": "AI染指鬼灭,日网友气急跳脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 21时45分]"
-        },
-        {
           "title": "大魔王迎战硬刚马斯克AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352857&amp;topic_name=%E5%A4%A7%E9%AD%94%E7%8E%8B%E8%BF%8E%E6%88%98%E7%A1%AC%E5%88%9A%E9%A9%AC%E6%96%AF%E5%85%8BAI",
           "source": "贴吧",
@@ -132,11 +132,12 @@
             6,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 23时16分]"
         },
         {
           "title": "Meta Platforms将发布其下一代AI模型的开源版本。（Axios）",
@@ -208,6 +209,18 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "AI时代鸡娃还有意义吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E9%B8%A1%E5%A8%83%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 23时16分]"
+        },
+        {
           "title": "AI翻唱淘金小镇",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
           "source": "bilibili 热搜",
@@ -225,7 +238,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -236,7 +249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -274,24 +287,13 @@
           "time_info": "10时55分"
         },
         {
-          "title": "AI时代鸡娃还有意义吗",
-          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E9%B8%A1%E5%A8%83%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "京东开源图像模型JoyAI-Image-Edit",
           "url": "https://flash.jin10.com/detail/20260407211119572800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -321,7 +323,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -346,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[07时42分 ~ 23时16分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -389,7 +391,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -469,13 +471,24 @@
           "time_info": "[05时43分 ~ 06时45分]"
         },
         {
+          "title": "美伊谈判“最后期限”逼近，美股跌幅扩大，油价攀升，黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
           "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -497,7 +510,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -508,7 +521,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -530,9 +543,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "伊朗关闭对美沟通渠道，油价涨、美股黄金跌",
+          "url": "https://flash.jin10.com/detail/20260407220904342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -547,7 +571,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -665,7 +689,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数6日下跌",
@@ -701,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "恒天然：4月7日全球乳品贸易（GDT）拍卖价格指数下降3.4%，奶粉各合同期FAS拍卖均价4,228美元/吨。 批发奶粉价格指数跌0.7%，报3,687美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -714,11 +749,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 23时16分]"
         }
       ]
     },
