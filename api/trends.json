@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T13:18:19.617040+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-04-09T15:47:36.334600+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 15时47分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -89,6 +89,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
+        },
+        {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 15时47分]"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
@@ -146,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
@@ -250,7 +251,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -259,11 +260,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 13时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 15时47分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -334,6 +336,18 @@
           "time_info": "[10时51分 ~ 13时18分]"
         },
         {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 15时47分]"
+        },
+        {
           "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
           "url": "https://flash.jin10.com/detail/20260409051523248800",
           "source": "金十数据",
@@ -351,20 +365,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
         {
-          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
-          "source": "澎湃新闻",
+          "title": "如何看待 Faker 称「非常期待与 AI 对战，我认为人类所拥有的直觉力是 AI 无法完全追赶的」？",
+          "url": "https://www.zhihu.com/question/2025281071332290932",
+          "source": "知乎",
           "ranks": [
-            14
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "15时47分"
         },
         {
           "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
@@ -395,7 +409,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }
