@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:12:33.502126+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-04-11T06:54:39.758597+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 06时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时54分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -26,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时54分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -47,11 +48,12 @@
           "ranks": [
             30,
             17,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 06时54分]"
         },
         {
           "title": "中国AI芯片格局反转",
@@ -124,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时54分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -135,8 +137,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时54分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -146,8 +148,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时54分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
