@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:03:08.095289+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-04-10T16:24:29.324398+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI红利和普通人有何关系",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 14时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 16时24分]"
         },
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -63,8 +63,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 11时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 16时24分]"
         },
         {
           "title": "AI写作年赚200万夫妻被封号",
@@ -77,17 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 14时03分]"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -124,6 +113,18 @@
           "time_info": "11时23分"
         },
         {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时24分]"
+        },
+        {
           "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
           "url": "https://wallstreetcn.com/livenews/3085370",
           "source": "华尔街见闻-快讯",
@@ -134,6 +135,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时43分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时24分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -156,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 11时23分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "最高涨价463% 你的AI员工变贵了",
@@ -200,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "A股欧菲光盘中异动拉升，现涨超5%；消息面上，华为即将发布的AI眼镜摄像头模组由欧菲光独供。",
@@ -241,7 +254,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -263,7 +276,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -315,7 +328,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -400,6 +413,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "停火也拦不住美股散户卖出",
+          "url": "https://wallstreetcn.com/articles/3769606",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美股盘前，台积电涨1.37%，公司Q1营收突破万亿大关，3月单月同比激增45%。Lumentum盘前涨超4%，得益于AI需求，公司预计2028年订单将迅速排满。",
+          "url": "https://wallstreetcn.com/livenews/3085705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "贝莱德：市场对美股的盈利预期过于乐观",
@@ -514,6 +549,79 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260410043300021800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时51分]"
+        },
+        {
+          "title": "韩国央行行长李昌镛：2025年底韩元兑美元汇率接近1,500关口，是因为散户投资者增加了海外股票投资。 最近几周韩元兑美元的波动是由外国投资者抛售国内股票所驱动的。 当前汇率水平是由外资获利了结以及中东风险所致。 被纳入世界政府债券指数（WGBI）将为韩国带来外资流入。 国民年金公团（NPS）正计划削减部分海外投资。 外汇储备将在市场波动时期被积极动用。",
+          "url": "https://wallstreetcn.com/livenews/3085510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3085308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：韩元兑美元汇率走势应与美元指数走势相比较。",
+          "url": "https://flash.jin10.com/detail/20260410104827584800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美元指数DXY站上99，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20260410160219118800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 5,
       "titles": [
@@ -567,68 +675,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数9日下跌",
-          "url": "https://flash.jin10.com/detail/20260410043300021800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
-          "url": "https://wallstreetcn.com/articles/3769555",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时51分]"
-        },
-        {
-          "title": "韩国央行行长李昌镛：2025年底韩元兑美元汇率接近1,500关口，是因为散户投资者增加了海外股票投资。 最近几周韩元兑美元的波动是由外国投资者抛售国内股票所驱动的。 当前汇率水平是由外资获利了结以及中东风险所致。 被纳入世界政府债券指数（WGBI）将为韩国带来外资流入。 国民年金公团（NPS）正计划削减部分海外投资。 外汇储备将在市场波动时期被积极动用。",
-          "url": "https://wallstreetcn.com/livenews/3085510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3085308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：韩元兑美元汇率走势应与美元指数走势相比较。",
-          "url": "https://flash.jin10.com/detail/20260410104827584800",
-          "source": "金十数据",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
