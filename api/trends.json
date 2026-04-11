@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:42:36.484570+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-04-11T19:37:20.834705+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -47,17 +47,6 @@
           "time_info": "[00时01分 ~ 07时42分]"
         },
         {
-          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
-          "url": "https://wallstreetcn.com/livenews/3086054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
           "title": "我也来试一下这个wait",
           "url": "https://www.douyin.com/hot/2462368",
           "source": "抖音",
@@ -67,8 +56,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 19时37分]"
+        },
+        {
+          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
+          "url": "https://wallstreetcn.com/livenews/3086054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
@@ -96,6 +96,19 @@
           "time_info": "[00时01分 ~ 07时42分]"
         },
         {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时37分]"
+        },
+        {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
           "url": "https://flash.jin10.com/detail/20260411142532640800",
           "source": "金十数据",
@@ -119,18 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时42分]"
         },
         {
           "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
@@ -162,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -212,11 +213,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时42分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[07时42分 ~ 19时37分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -259,11 +261,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时37分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -337,8 +340,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时10分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[14时10分 ~ 19时37分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -348,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 19时37分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
