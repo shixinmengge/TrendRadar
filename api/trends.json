@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T05:40:18.069048+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-12T06:39:52.008860+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时39分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -32,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时39分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时39分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时39分]"
         }
       ]
     },
@@ -90,8 +90,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时39分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -101,11 +101,12 @@
             15,
             14,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时39分]"
         }
       ]
     }
