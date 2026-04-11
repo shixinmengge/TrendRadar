@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:37:20.834705+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-04-11T21:13:22.174774+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,20 @@
           "time_info": "[04时47分 ~ 07时42分]"
         },
         {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 21时13分]"
+        },
+        {
           "title": "夫妻称用AI写公众号年赚200万被封号",
           "url": "https://www.toutiao.com/trending/7626953352832040996/",
           "source": "今日头条",
@@ -45,19 +59,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时01分 ~ 07时42分]"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 19时37分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -83,6 +84,19 @@
           "time_info": "[13时01分 ~ 14时10分]"
         },
         {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时13分]"
+        },
+        {
           "title": "中国AI芯片格局反转",
           "url": "https://www.toutiao.com/trending/7627057914037289014/",
           "source": "今日头条",
@@ -94,19 +108,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时01分 ~ 07时42分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
         },
         {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
@@ -146,6 +147,18 @@
           "time_info": "[15时55分 ~ 16时54分]"
         },
         {
+          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 21时13分]"
+        },
+        {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
           "url": "https://wallstreetcn.com/livenews/3086083",
           "source": "华尔街见闻-快讯",
@@ -155,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
-        },
-        {
-          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "CoreWeave下跌11%，根据最新协议，该公司的AI算力将支持Anthropic的Claude。",
@@ -214,11 +216,12 @@
             4,
             3,
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时42分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时42分 ~ 21时13分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -243,6 +246,20 @@
           "time_info": "[04时47分 ~ 07时42分]"
         },
         {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时13分]"
+        },
+        {
           "title": "美股巨震",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -254,19 +271,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时54分 ~ 18时42分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -340,8 +344,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 21时13分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -351,8 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时13分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
