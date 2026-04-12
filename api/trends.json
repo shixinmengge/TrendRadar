@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T03:48:07.911769+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-04-13T04:44:28.377111+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时44分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时44分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -37,11 +37,36 @@
             20,
             18,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时44分]"
+        },
+        {
+          "title": "央视曝光AI造黄产业链",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 04时44分]"
+        },
+        {
+          "title": "AI 会有情绪吗？",
+          "url": "https://www.zhihu.com/question/583568899",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 04时44分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -54,29 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 03时48分]"
-        },
-        {
-          "title": "央视曝光AI造黄产业链",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时48分]"
-        },
-        {
-          "title": "AI 会有情绪吗？",
-          "url": "https://www.zhihu.com/question/583568899",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
         }
       ]
     },
@@ -93,8 +95,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时44分]"
         }
       ]
     },
@@ -111,8 +113,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时44分]"
         }
       ]
     }
