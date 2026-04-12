@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:44:28.377111+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-04-13T05:42:35.060799+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时42分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时42分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -38,11 +38,12 @@
             18,
             9,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时42分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -53,8 +54,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 05时42分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -62,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 04时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 05时42分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -95,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时42分]"
         }
       ]
     },
@@ -113,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 05时42分]"
         }
       ]
     }
