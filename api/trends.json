@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T13:58:50.997766+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-04-12T15:39:16.119627+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 15时39分]"
+        },
+        {
+          "title": "让AI与AI互相聊天会聊出什么",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时39分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时26分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时39分]"
         },
         {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
@@ -61,17 +85,6 @@
           "time_info": "07时42分"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260412130705252800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
           "url": "https://www.zhihu.com/question/2002055091918697271",
           "source": "知乎",
@@ -81,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "让AI与AI互相聊天会聊出什么",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         }
       ]
     },
@@ -109,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 15时39分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -142,8 +144,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 15时39分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -154,11 +156,12 @@
             14,
             12,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 15时39分]"
         }
       ]
     }
