@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T17:05:29.491581+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-04-13T19:22:23.788571+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -47,6 +47,19 @@
           "time_info": "[00时50分 ~ 07时43分]"
         },
         {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 19时22分]"
+        },
+        {
           "title": "AI 会有情绪吗？",
           "url": "https://www.zhihu.com/question/583568899",
           "source": "知乎",
@@ -58,19 +71,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时47分 ~ 07时43分]"
-        },
-        {
-          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
-          "url": "https://www.zhihu.com/question/2026361952214017900",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 17时05分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -91,11 +91,23 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 19时22分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
@@ -136,6 +148,30 @@
           "time_info": "[03时01分 ~ 03时48分]"
         },
         {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时22分]"
+        },
+        {
+          "title": "央视曝光AI造黄产业链",
+          "url": "https://www.toutiao.com/trending/7627852499819118611/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 19时22分]"
+        },
+        {
           "title": "市场消息：曹操出行(02643.HK)押注无人驾驶出租车和AI，力争实现首个年度盈利。",
           "url": "https://flash.jin10.com/detail/20260413105754305800",
           "source": "金十数据",
@@ -145,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         },
         {
           "title": "在抨击梵蒂冈教皇之后，美国总统特朗普发布了一张自己化身成耶稣治愈病人的AI图片，其两侧还有老鹰、战斗机和自由女神像等形象。",
@@ -169,24 +194,13 @@
           "time_info": "11时33分"
         },
         {
-          "title": "央视曝光AI造黄产业链",
-          "url": "https://www.toutiao.com/trending/7627852499819118611/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "荣耀发布自研龙虾AI智能体YOYO Claw",
           "url": "https://wallstreetcn.com/livenews/3086808",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -205,7 +219,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -220,6 +234,29 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时50分 ~ 14时21分]"
+        },
+        {
+          "title": "潘兴广场宣布启动潘兴广场美国公司合并IPO，美股发行价为50.00美元，拟寻求至少50亿美元的发行规模。",
+          "url": "https://flash.jin10.com/detail/20260413191534887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时22分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
@@ -244,17 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时43分]"
-        },
-        {
-          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         }
       ]
     },
