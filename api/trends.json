@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:21:14.587292+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-04-14T20:02:33.700755+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -16,11 +16,12 @@
             10,
             16,
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 20时02分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -31,11 +32,12 @@
             13,
             17,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 20时02分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -62,6 +64,30 @@
           "time_info": "07时52分"
         },
         {
+          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://wallstreetcn.com/livenews/3087702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 20时02分]"
+        },
+        {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
           "url": "https://www.cls.cn/detail/2342373",
           "source": "财联社热门",
@@ -74,16 +100,16 @@
           "time_info": "[03时39分 ~ 07时52分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            10
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时47分 ~ 18时21分]"
+          "time_info": "[18时20分 ~ 20时02分]"
         },
         {
           "title": "AI突袭短剧 “霸总爹”失业",
@@ -109,15 +135,15 @@
           "time_info": "[18时20分 ~ 18时21分]"
         },
         {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
+          "title": "市场消息：甲骨文(ORCL.N)将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://flash.jin10.com/detail/20260414194229713800",
+          "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
@@ -129,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "第二十届深圳金博会定档5月 聚焦AI时代制造业与服务业协同发展",
+          "url": "https://wallstreetcn.com/livenews/3087683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
@@ -197,6 +234,17 @@
           "time_info": "16时47分"
         },
         {
+          "title": "离职员工被训练出AI分身继续上班",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E8%AE%AD%E7%BB%83%E5%87%BAAI%E5%88%86%E8%BA%AB%E7%BB%A7%E7%BB%AD%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "Claude：正调查Claude.AI出现的一个问题。",
           "url": "https://wallstreetcn.com/livenews/3087075",
           "source": "华尔街见闻-快讯",
@@ -211,7 +259,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
@@ -283,6 +331,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260414040602403800",
           "source": "金十数据",
@@ -311,7 +370,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
