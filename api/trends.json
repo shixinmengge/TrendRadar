@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T18:21:50.090296+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-04-15T19:59:51.811851+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时06分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时06分 ~ 19时59分]"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -86,6 +87,18 @@
           "time_info": "[00时14分 ~ 06时54分]"
         },
         {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时59分]"
+        },
+        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -126,7 +139,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -140,17 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
@@ -189,6 +191,28 @@
           "time_info": "05时57分"
         },
         {
+          "title": "鼎泰高科：一季度净利润2.6亿元，同比增长259%；主要受益于AI算力，推动营收实现较快增长。",
+          "url": "https://wallstreetcn.com/livenews/3088486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗外交部发言人Esmail Baghaei：核浓缩的水平和类型是可以协商的。",
+          "url": "https://wallstreetcn.com/livenews/3088482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3088208",
           "source": "华尔街见闻-快讯",
@@ -217,7 +241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -239,7 +263,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -288,6 +312,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
+          "url": "https://wallstreetcn.com/livenews/3088457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
           "url": "https://wallstreetcn.com/livenews/3087960",
           "source": "华尔街见闻-快讯",
@@ -313,7 +348,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -327,6 +362,18 @@
           "time_info": "[00时14分 ~ 04时09分]"
         },
         {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 19时59分]"
+        },
+        {
           "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
           "url": "https://www.cls.cn/detail/2344205",
           "source": "财联社热门",
@@ -336,18 +383,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 14时07分]"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 18时21分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -385,6 +420,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
           "url": "https://www.cls.cn/detail/2344302",
           "source": "财联社热门",
@@ -407,13 +453,24 @@
           "time_info": "14时07分"
         },
         {
+          "title": "摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。 第一季度净营收205.8亿美元，预估197.1亿美元。 第一财季股票交易收入51.5亿美元，预期47.8亿美元。 第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿美元，预估28.9亿美元。 摩根士丹利美股盘前涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3088477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "美股股指期货转跌，报道称美国向中东增兵",
           "url": "https://wallstreetcn.com/livenews/3088378",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
