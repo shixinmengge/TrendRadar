@@ -1,428 +1,86 @@
 {
-  "generated_at": "2026-04-15T22:02:11.448186+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-04-16T00:06:14.559211+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
           "ranks": [
-            1,
-            4,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时06分 ~ 22时02分]"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 22时02分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时57分 ~ 18时21分]"
-        },
-        {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            15,
-            16,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 11时21分]"
-        },
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 11时21分]"
-        },
-        {
-          "title": "央视重锤!AI造黄产业链被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 11时21分]"
-        },
-        {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时54分]"
-        },
-        {
-          "title": "英伟达推出全球首个开源量子AI模型",
-          "url": "https://www.toutiao.com/trending/7627728168379547654/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时54分]"
-        },
-        {
-          "title": "报道：Anthropic准备Opus 4.7模型和AI设计工具。",
-          "url": "https://wallstreetcn.com/livenews/3087917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时09分 ~ 07时51分]"
-        },
-        {
-          "title": "IBM宣布新的网络安全措施，帮助企业识别并衡量前沿AI模型带来的新风险。",
-          "url": "https://wallstreetcn.com/livenews/3088406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "阿里千问AI眼镜全球首店在南京开业",
-          "url": "https://wallstreetcn.com/livenews/3088147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "快手可灵AI深入视听产业：大幅降低成本 缩短制作周期",
-          "url": "https://wallstreetcn.com/livenews/3088574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 16时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
           "url": "https://www.zhihu.com/question/2027689506711630551",
           "source": "知乎",
           "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 22时02分]"
-        },
-        {
-          "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
-          "url": "https://flash.jin10.com/detail/20260415052923283800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时54分]"
-        },
-        {
-          "title": "Meta与博通就定制款AI芯片签署协议",
-          "url": "https://wallstreetcn.com/livenews/3087983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "鼎泰高科：一季度净利润2.6亿元，同比增长259%；主要受益于AI算力，推动营收实现较快增长。",
-          "url": "https://wallstreetcn.com/livenews/3088486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "伊朗外交部发言人Esmail Baghaei：核浓缩的水平和类型是可以协商的。",
-          "url": "https://wallstreetcn.com/livenews/3088482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3088208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
-          "url": "https://www.cls.cn/detail/2344233",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
-          "title": "阿里ATH发布AI开发工具Meoo，已打通阿里云核心产品",
-          "url": "https://wallstreetcn.com/livenews/3088382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
-          "url": "https://wallstreetcn.com/livenews/3087974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
-          "url": "https://flash.jin10.com/detail/20260415010320072800",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260415233459124800",
           "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "Claude：正调查Claude.AI出错率偏高这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3088634",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "00时06分"
         },
         {
-          "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
-          "url": "https://wallstreetcn.com/livenews/3087996",
+          "title": "鞋类和服装产品供应商Allbirds一度上涨461%，最高达到13.97美元，该公司宣布切换至AI赛道。",
+          "url": "https://wallstreetcn.com/livenews/3088625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。 呼吁监管部门评估银行业面临的AI网络风险。",
-          "url": "https://wallstreetcn.com/livenews/3087890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "哪个艺人授权AI了",
-          "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AA%E8%89%BA%E4%BA%BA%E6%8E%88%E6%9D%83AI%E4%BA%86&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
-          "url": "https://wallstreetcn.com/livenews/3088457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
-          "url": "https://wallstreetcn.com/livenews/3087960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "什么是AI幻觉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AFAI%E5%B9%BB%E8%A7%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "00时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
           "url": "https://wallstreetcn.com/articles/3769987",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 22时02分]"
-        },
-        {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时09分]"
-        },
-        {
-          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时07分]"
-        },
-        {
-          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时54分]"
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时51分]"
-        },
-        {
-          "title": "谈判曙光提振市场，美股高开，阿斯麦跌3%，黄金重回4800美元，布油转跌",
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
           "url": "https://wallstreetcn.com/articles/3770007",
           "source": "华尔街见闻",
           "ranks": [
@@ -430,329 +88,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "time_info": "[00时05分 ~ 00时06分]"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2345247",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "美股收盘：中概股集体大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "美股三大指数集体高开，量子计算概念股普涨",
-          "url": "https://wallstreetcn.com/livenews/3088564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
-          "url": "https://www.cls.cn/detail/2344302",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "美股开盘，道指涨0.22%，标普500指数涨0.13%，纳指涨0.18%，博通(AVGO.O)股价上涨1.4%，因其与Meta公司延长了定制芯片协议，阿斯麦(ASML.O)开跌3%。",
-          "url": "https://flash.jin10.com/detail/20260415213245498800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
-          "url": "https://wallstreetcn.com/livenews/3088207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。 第一季度净营收205.8亿美元，预估197.1亿美元。 第一财季股票交易收入51.5亿美元，预期47.8亿美元。 第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿美元，预估28.9亿美元。 摩根士丹利美股盘前涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3088477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "美股股指期货转跌，报道称美国向中东增兵",
-          "url": "https://wallstreetcn.com/livenews/3088378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "10年期美债收益率跌超4个基点，美股开盘以来持续走低",
-          "url": "https://wallstreetcn.com/livenews/3087937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3088315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3088552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3088311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
-          "url": "https://wallstreetcn.com/livenews/3087965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3087963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
-          "url": "https://wallstreetcn.com/livenews/3087952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
-          "url": "https://wallstreetcn.com/livenews/3087988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时54分]"
-        },
-        {
-          "title": "软银贷款方邀请更多银行加入400亿美元OpenAI贷款项目。",
-          "url": "https://wallstreetcn.com/livenews/3088140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "微软接手OpenAI挪威数据中心租约",
-          "url": "https://flash.jin10.com/detail/20260415012050964800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
-          "url": "https://flash.jin10.com/detail/20260415045655489800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
-          "url": "https://wallstreetcn.com/livenews/3087968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "微软将接管OpenAI在挪威数据中心的租约",
-          "url": "https://wallstreetcn.com/livenews/3087885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普500指数初步收涨1.1%，电信板块涨3%，可选消费板块涨2.4%，科技板块涨1.4%，能源板块跌2.1%。 纳斯达克100指数初步收涨1.8%，成分股中，美光科技初步收涨8.6%，西部数据涨4.5%，Meta涨4.4%，AppLovin、亚马逊、Strategy、希捷科技、谷歌AAMD、特斯拉涨超3%，Adobe跌1.9%，英特尔跌2.4%，特许通讯跌4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3087951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
-          "url": "https://flash.jin10.com/detail/20260415010401722800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "Gitlab宣布，与谷歌云合作。",
-          "url": "https://wallstreetcn.com/livenews/3087967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3088551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（4月14日）纽约尾盘，ICE美元指数跌0.24%，报98.130点，日内交投区间为98.414-97.969点。 彭博美元指数跌0.27%，报1193.27点，日内交投区间为1196.82-1191.39点。 美元兑日元跌0.37%，报158.87日元，日内交投区间为159.46-158.60日元。 欧元兑日元跌0.09%，英镑兑日元涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3087941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "[00时05分 ~ 00时06分]"
         }
       ]
     }
