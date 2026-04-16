@@ -1,726 +1,189 @@
 {
-  "generated_at": "2026-04-16T23:02:09.544575+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-04-17T01:22:35.737097+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时52分]"
-        },
-        {
-          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
-        },
-        {
-          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
-          "url": "https://www.cls.cn/detail/2345486",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 11时47分]"
-        },
-        {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时52分]"
-        },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "白宫对与伊朗达成协议持乐观态度，黎以会谈明日举行，市场静待结果出炉，金银油多空情绪变化不大，美股股指创新高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260416114005966800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
-          "url": "https://wallstreetcn.com/livenews/3088776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 06时56分]"
-        },
-        {
-          "title": "如何看待美股新高",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 16时49分]"
+          "time_info": "01时22分"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
-          "url": "https://wallstreetcn.com/livenews/3088772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时01分]"
-        },
-        {
-          "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3088769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时01分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2346625",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "存储巨头定档今夏美股上市！最多募资100亿美元",
-          "url": "https://www.cls.cn/detail/2345773",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 16时49分]"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040543220800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时01分]"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260416003401876800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "01时22分"
         },
         {
-          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260416003200107800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "台积电美股夜盘涨近2%，第一季度净利润超市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3089023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040519362800",
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003213963800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
-          "url": "https://flash.jin10.com/detail/20260416040118406800",
+          "title": "金十图示：2026年04月16日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003029748800",
           "source": "金十数据",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美股三大指数开盘走高，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。甲骨文涨超3%，公司宣布与AWS合作。核电股普涨，Oklo涨超8%，Nano Nuclear Energy涨超6%。台积电跌超1%，此前发布一季度业绩。雅培下跌4.5%，创下2023年以来最低盘中水平。“硅谷足力健”Allbirds开盘跌17%，此前曾飙升582%。",
-          "url": "https://wallstreetcn.com/livenews/3089402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "台积电美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3089128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
+          "url": "https://wallstreetcn.com/livenews/3089499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
         {
           "title": "番茄作者AI代笔,读者白追",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
           "source": "贴吧",
           "ranks": [
-            1,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 23时02分]"
-        },
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 20时03分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            12,
-            17,
-            19,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 23时02分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            19,
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时46分 ~ 23时02分]"
-        },
-        {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时56分]"
-        },
-        {
-          "title": "据行业组织American Securities Association：Anthropic的Mythos模型对美国证券交易委员会（SEC）市场追踪数据库构成风险。 这款新型AI模型可能会让交易员和金融系统面临风险。",
-          "url": "https://wallstreetcn.com/livenews/3089434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "01时22分"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
           "url": "https://www.cls.cn/detail/2346308",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 23时02分]"
-        },
-        {
-          "title": "刷手机有多累？现在AI能算出来了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%B7%E6%89%8B%E6%9C%BA%E6%9C%89%E5%A4%9A%E7%B4%AF%EF%BC%9F%E7%8E%B0%E5%9C%A8AI%E8%83%BD%E7%AE%97%E5%87%BA%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 16时49分]"
-        },
-        {
-          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
-          "url": "https://wallstreetcn.com/livenews/3088801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时52分]"
-        },
-        {
-          "title": "美国参议院成员Whitehouse发函环境保护署（EPA），就（天然气发电站）燃机问题质问马斯克旗下人工智能初创公司xAI。",
-          "url": "https://wallstreetcn.com/livenews/3088802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "01时22分"
         },
         {
-          "title": "告别高危人工作业，云深处“AI防汛勇士”机器狗首次亮相",
-          "url": "https://wallstreetcn.com/livenews/3089423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
-          "url": "https://wallstreetcn.com/livenews/3088814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260415233459124800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "小米18Pro新增AI按键",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Pro%E6%96%B0%E5%A2%9EAI%E6%8C%89%E9%94%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "Claude：正调查Claude.AI出错率偏高这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3088634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "鞋类和服装产品供应商Allbirds一度上涨461%，最高达到13.97美元，该公司宣布切换至AI赛道。",
-          "url": "https://wallstreetcn.com/livenews/3088625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
-          "url": "https://wallstreetcn.com/livenews/3088802",
-          "source": "华尔街见闻-快讯",
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "01时22分"
         },
         {
-          "title": "港股AI应用板块走高，滴普科技(01384.HK)涨超21%，迈富时(02556.HK)涨超13%，小马智行-W(02026.HK)涨超10%，金蝶国际(00268.HK)、百度(09888.HK)涨6.8%。",
-          "url": "https://flash.jin10.com/detail/20260416111508470800",
-          "source": "金十数据",
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "DeepSeek 95后研究员郭达雅近亿元年薪入职字节，中国大厂开启AI Coding大战",
-          "url": "https://wallstreetcn.com/livenews/3089281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google",
-      "match_count": 10,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
-          "url": "https://wallstreetcn.com/livenews/3088828",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
+          "url": "https://wallstreetcn.com/livenews/3089502",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "01时22分"
         },
         {
-          "title": "欧盟提案要求谷歌向AI竞争对手共享搜索数据",
-          "url": "https://flash.jin10.com/detail/20260416194915242800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
-          "url": "https://flash.jin10.com/detail/20260416045257037800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 07时52分]"
-        },
-        {
-          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
-          "url": "https://www.cls.cn/detail/2345498",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 11时47分]"
-        },
-        {
-          "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
-          "url": "https://wallstreetcn.com/livenews/3088724",
+          "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3089494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "欧盟委员会：相关方需在5月1日前提交对拟议措施的意见。委员会预计将在7月27日发布最终决定，该决定对谷歌具有约束力。",
-          "url": "https://flash.jin10.com/detail/20260416175947287800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "欧盟委员会：措施旨在允许第三方在线搜索引擎优化其搜索服务，并挑战谷歌(GOOG.O)搜索的市场地位。",
-          "url": "https://flash.jin10.com/detail/20260416175804275800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
-          "url": "https://flash.jin10.com/detail/20260416023532344800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "市场消息：欧盟委员会提议对谷歌(GOOG.O)采取措施，要求其与第三方共享搜索引擎数据。欧盟委员会表示，谷歌应允许第三方搜索引擎访问搜索数据。",
-          "url": "https://flash.jin10.com/detail/20260416175645059800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
-          "url": "https://wallstreetcn.com/livenews/3088660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 4,
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20260416044116972800",
+          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
+          "url": "https://flash.jin10.com/detail/20260417005843333800",
           "source": "金十数据",
           "ranks": [
-            2,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 06时56分]"
-        },
-        {
-          "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
-          "url": "https://wallstreetcn.com/livenews/3088777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 06时56分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.00%，暂报2586.28点，北京时间03:26跌至2493.84点，随后持续上扬。 MarketVectorTM数字资产100中盘指数涨0.75%，报2788.46点，整体呈现出W形反转。 MarketVector数字资产100指数跌0.58%，报14776.01点。 目前，Solana涨0.70%，狗狗币涨1.73%，XRP涨1.43%。 比特币跌0.41%，暂报73948.86美元；以太坊涨1.16%，暂报2341.14美元。",
-          "url": "https://wallstreetcn.com/livenews/3088683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "北美科技软件股指数ETF一度上涨2.83%，报85.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3089410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 07时52分]"
-        },
-        {
-          "title": "OpenAI：正加速构建网络防御生态体系，以守护所有人。",
-          "url": "https://flash.jin10.com/detail/20260416180925765800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "Gemini Mac",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20Mac&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "湖南黄金：预计2026年第一季度净利润为5.32亿元～6.31亿元，同比增长60.00%～90.00%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3089146",
+          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
+          "url": "https://wallstreetcn.com/livenews/3089493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "01时22分"
         }
       ]
     }
