@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:49:39.118268+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-04-19T19:41:16.713527+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时51分 ~ 07时42分]"
         },
         {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时03分 ~ 19时41分]"
+        },
+        {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
@@ -30,8 +42,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 18时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -61,8 +73,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 18时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -75,20 +87,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 18时49分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 18时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 19时41分]"
         },
         {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
@@ -201,8 +201,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时09分 ~ 18时49分]"
+          "appearance_count": 6,
+          "time_info": "[16时09分 ~ 19时41分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -212,8 +212,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时41分]"
         }
       ]
     },
