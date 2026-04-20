@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-04-20T07:45:11.432112+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-04-20T11:33:30.710828+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时33分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时33分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -47,11 +49,12 @@
           "ranks": [
             20,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时49分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[03时49分 ~ 11时33分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -66,6 +69,17 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
           "url": "https://flash.jin10.com/detail/20260420053324061800",
           "source": "金十数据",
@@ -75,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%",
+          "url": "https://flash.jin10.com/detail/20260420110625170800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -101,8 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时33分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -113,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时33分]"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
