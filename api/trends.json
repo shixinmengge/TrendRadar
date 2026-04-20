@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T21:58:26.442185+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-04-20T23:23:50.093021+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "我们要不要向AI说谢谢？",
@@ -75,6 +75,30 @@
           "time_info": "[11时33分 ~ 21时58分]"
         },
         {
+          "title": "爱奇艺称AI艺人库仅是合作意愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
+        },
+        {
+          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
+          "url": "https://www.zhihu.com/question/2029556060424332961",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
+        },
+        {
           "title": "女子酒窝超大被网友怀疑是AI",
           "url": "https://www.toutiao.com/trending/7630464363427069993/",
           "source": "今日头条",
@@ -96,8 +120,44 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 23时23分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时11分 ~ 21时58分]"
+          "time_info": "[19时23分 ~ 23时23分]"
+        },
+        {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 23时23分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 23时23分]"
         },
         {
           "title": "AI艺人库 自掘坟墓",
@@ -124,17 +184,6 @@
           "time_info": "[14时22分 ~ 17时11分]"
         },
         {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时58分]"
-        },
-        {
           "title": "女子酒窝超大被网友怀疑是AI",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
           "source": "百度热搜",
@@ -147,28 +196,16 @@
           "time_info": "[17时11分 ~ 19时23分]"
         },
         {
-          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
-          "url": "https://wallstreetcn.com/articles/3770390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时58分]"
-        },
-        {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
+          "source": "澎湃新闻",
           "ranks": [
             12,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时58分]"
+          "time_info": "[21时58分 ~ 23时23分]"
         },
         {
           "title": "未授权AI艺人",
@@ -181,6 +218,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时11分 ~ 19时23分]"
+        },
+        {
+          "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
+          "url": "https://www.zhihu.com/question/2029557729014933493",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
+        },
+        {
+          "title": "华为首款AI眼镜来了",
+          "url": "https://www.toutiao.com/trending/7630378679035101225/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
         },
         {
           "title": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
@@ -228,28 +301,6 @@
           "time_info": "17时11分"
         },
         {
-          "title": "爱奇艺称AI艺人库仅是合作意愿",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
-          "url": "https://www.zhihu.com/question/2029556060424332961",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
           "title": "AI养马能代替养虾吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E9%A9%AC%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%85%BB%E8%99%BE%E5%90%97",
           "source": "bilibili 热搜",
@@ -261,15 +312,15 @@
           "time_info": "19时23分"
         },
         {
-          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
-          "source": "澎湃新闻",
+          "title": "市场消息：由淡马锡支持的CuspaI正进行谈判，以将其估值提升至10亿美元以上。",
+          "url": "https://flash.jin10.com/detail/20260420224540460800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "23时23分"
         },
         {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
@@ -283,15 +334,15 @@
           "time_info": "06时43分"
         },
         {
-          "title": "华为首款AI眼镜来了",
-          "url": "https://www.toutiao.com/trending/7630378679035101225/",
-          "source": "今日头条",
+          "title": "托克集团金属分析主管Graeme Train：在海湾地区运输受扰之际，已将硫磺从美国转运至刚果（金）。",
+          "url": "https://flash.jin10.com/detail/20260420224256146800",
+          "source": "金十数据",
           "ranks": [
-            19
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "23时23分"
         },
         {
           "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%",
@@ -305,26 +356,15 @@
           "time_info": "11时33分"
         },
         {
-          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
-          "url": "https://www.zhihu.com/question/2029565174948914400",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
-          "url": "https://www.zhihu.com/question/2029557729014933493",
-          "source": "知乎",
+          "title": "托克集团金属分析主管Graeme Train：战争已扰乱全球约3%的铝供应。",
+          "url": "https://flash.jin10.com/detail/20260420223716841800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "23时23分"
         },
         {
           "title": "演员集体辟谣AI授权",
@@ -338,6 +378,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
           "url": "https://flash.jin10.com/detail/20260419221748740800",
           "source": "金十数据",
@@ -347,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "英国将要求政府各部门进一步削减开支，吹捧AI带来的“重大胜利”",
+          "url": "https://wallstreetcn.com/livenews/3091206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "陈哲远对接否认签署AI授权",
@@ -412,6 +474,17 @@
           "time_info": "[00时51分 ~ 11时33分]"
         },
         {
+          "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
+        },
+        {
           "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
@@ -422,17 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时11分 ~ 19时23分]"
-        },
-        {
-          "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
@@ -447,6 +509,18 @@
           "time_info": "[06时43分 ~ 07时45分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时23分]"
+        },
+        {
           "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
@@ -456,17 +530,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2349767",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "国际原油大幅高开5% 美股指期货跌0.9%",
@@ -486,7 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -497,7 +560,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
@@ -514,7 +577,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -525,7 +588,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
