@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T16:56:30.407166+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-04-21T18:23:31.885013+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 16时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 18时23分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -29,11 +29,12 @@
             9,
             14,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 16时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 18时23分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -127,6 +128,34 @@
           "time_info": "14时08分"
         },
         {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 18时23分]"
+        },
+        {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            10,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 18时23分]"
+        },
+        {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
           "url": "https://www.zhihu.com/question/2029556060424332961",
           "source": "知乎",
@@ -150,32 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 03时16分]"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 16时56分]"
-        },
-        {
-          "title": "AI短剧是如何诞生的",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 16时56分]"
         },
         {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
@@ -301,7 +304,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -342,7 +345,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -354,8 +357,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时54分 ~ 16时56分]"
+          "appearance_count": 8,
+          "time_info": "[05时54分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
@@ -394,6 +397,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时13分 ~ 07时52分]"
+        },
+        {
+          "title": "联合健康第一季度调整后每股收益为7.23美元，去年同期为7.20美元，市场预期为6.57美元。 预计全年调整后每股收益将超过18.25美元，此前预期为超过17.75美元，市场预期为17.83美元。 预计全年每股收益将超过17.35美元，此前预期为超过17.10美元。 联合健康美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3091726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -446,6 +460,17 @@
           "time_info": "[04时56分 ~ 05时54分]"
         },
         {
+          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 18时23分]"
+        },
+        {
           "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
           "url": "https://wallstreetcn.com/livenews/3091337",
           "source": "华尔街见闻-快讯",
@@ -482,15 +507,15 @@
           "time_info": "[04时56分 ~ 05时54分]"
         },
         {
-          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
+          "title": "联合健康(UNH.N)美股盘前直线拉升涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260421175624706800",
+          "source": "金十数据",
           "ranks": [
-            9
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "18时23分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
@@ -550,6 +575,45 @@
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://flash.jin10.com/detail/20260421164852123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
+          "url": "https://www.zhihu.com/question/2028780908405170838",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -600,7 +664,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -614,34 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
-          "url": "https://flash.jin10.com/detail/20260421164852123800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
-          "url": "https://www.zhihu.com/question/2028780908405170838",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     }
