@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T18:51:24.270260+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-04-25T19:43:31.149166+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             1,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 19时43分]"
         },
         {
           "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
@@ -101,11 +102,12 @@
             12,
             15,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 19时43分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -129,11 +131,23 @@
           "ranks": [
             4,
             5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 19时43分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 19时43分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -149,17 +163,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时48分 ~ 17时02分]"
-        },
-        {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 18时51分]"
         },
         {
           "title": "利用AI编造四川泸州楼房倒塌者被罚",
@@ -181,8 +184,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时43分]"
         },
         {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
@@ -235,6 +238,18 @@
           "time_info": "[15时28分 ~ 18时51分]"
         },
         {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时43分]"
+        },
+        {
           "title": "网友在daiso买了个小狗不会用的东西",
           "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%9C%A8daiso%E4%B9%B0%E4%BA%86%E4%B8%AA%E5%B0%8F%E7%8B%97%E4%B8%8D%E4%BC%9A%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -244,18 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时51分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
@@ -340,8 +343,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时48分 ~ 18时51分]"
+          "appearance_count": 9,
+          "time_info": "[06时48分 ~ 19时43分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -503,8 +506,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 19时43分]"
         },
         {
           "title": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资100亿美元，另有300亿美元的投资将取决于是否达成特定的业绩里程碑。",
@@ -562,11 +565,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时43分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
