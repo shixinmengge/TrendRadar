@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:02:27.957852+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-04-25T18:51:24.270260+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 17时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 18时51分]"
+        },
+        {
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时48分 ~ 18时51分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -90,34 +104,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 17时02分]"
-        },
-        {
-          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时48分 ~ 17时02分]"
-        },
-        {
-          "title": "第一次对AI感到恐惧",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 18时51分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -127,11 +115,25 @@
             15,
             12,
             13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 18时51分]"
+        },
+        {
+          "title": "第一次对AI感到恐惧",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时51分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -149,6 +151,17 @@
           "time_info": "[07时48分 ~ 17时02分]"
         },
         {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时51分]"
+        },
+        {
           "title": "利用AI编造四川泸州楼房倒塌者被罚",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E6%A5%BC%E6%88%BF%E5%80%92%E5%A1%8C%E8%80%85%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -160,15 +173,16 @@
           "time_info": "13时21分"
         },
         {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时02分]"
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时51分]"
         },
         {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
@@ -213,11 +227,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 18时51分]"
         },
         {
           "title": "网友在daiso买了个小狗不会用的东西",
@@ -231,15 +246,16 @@
           "time_info": "[15时27分 ~ 15时28分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时51分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
@@ -251,17 +267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -281,7 +286,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -335,8 +340,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时48分 ~ 17时02分]"
+          "appearance_count": 8,
+          "time_info": "[06时48分 ~ 18时51分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -494,11 +499,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时51分]"
         },
         {
           "title": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资100亿美元，另有300亿美元的投资将取决于是否达成特定的业绩里程碑。",
@@ -555,11 +561,12 @@
           "url": "https://flash.jin10.com/detail/20260425162059332800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时51分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
