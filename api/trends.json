@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T11:36:43.415780+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-04-26T14:12:43.292112+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 11时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时12分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -67,13 +68,24 @@
           "time_info": "[00时53分 ~ 11时36分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
           "url": "https://www.toutiao.com/trending/7632259248220422187/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
@@ -103,7 +115,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
@@ -119,11 +131,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 11时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时12分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
