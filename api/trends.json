@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-27T07:48:35.934492+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-27T11:40:10.265747+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
           "url": "https://wallstreetcn.com/articles/3770911",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 11时40分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -25,11 +26,28 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 11时40分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            9,
+            20,
+            10,
+            11,
+            12,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时48分]"
+          "time_info": "[00时54分 ~ 11时40分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -72,19 +90,15 @@
           "time_info": "[00时54分 ~ 06时48分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
+          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
+          "url": "https://www.zhihu.com/question/2031001231607296969",
+          "source": "知乎",
           "ranks": [
-            9,
-            20,
-            10,
-            11,
-            12
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时48分]"
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -99,6 +113,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 05时46分]"
+        },
+        {
+          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
+          "url": "https://wallstreetcn.com/articles/3770917",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
+          "url": "https://www.cls.cn/detail/2356011",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "AI 筛选简历正在成为企业标配，这会带来求职不公吗？「AI 友好型」简历应该怎么写？",
+          "url": "https://www.zhihu.com/question/2028419946921620186",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "当AI跑进县城医院当“实习医生”",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E8%B7%91%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E5%BD%93%E2%80%9C%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         }
       ]
     },
