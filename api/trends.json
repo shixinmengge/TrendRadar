@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-04-29T08:01:09.157790+08:00",
-  "total_titles_processed": 622,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-04-29T11:57:30.111981+08:00",
+  "total_titles_processed": 824,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -53,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时57分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -62,11 +60,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时04分 ~ 08时01分]"
+          "appearance_count": 5,
+          "time_info": "[06时04分 ~ 11时57分]"
+        },
+        {
+          "title": "OpenAI“朋友圈”遭市场重估！",
+          "url": "https://flash.jin10.com/detail/20260429113419027800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -122,8 +132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时57分]"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -217,8 +227,33 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时57分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 11时57分]"
+        },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
           "url": "https://www.zhihu.com/question/2032163714355263384",
@@ -235,27 +270,15 @@
           "time_info": "[00时58分 ~ 08时01分]"
         },
         {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时01分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 08时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -275,11 +298,12 @@
           "ranks": [
             24,
             18,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时24分 ~ 11时57分]"
         },
         {
           "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
@@ -291,6 +315,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时01分]"
+        },
+        {
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "亚马逊云服务(AWS)推出亚马逊快速桌面AI助手。亚马逊推出人工智能工具，旨在提升办公室员工的生产力。",
@@ -324,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "掌阅科技：2026年将全面推进AI短剧工业化布局",
+          "url": "https://flash.jin10.com/detail/20260429112428703800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "报告发现：全球监管机构在AI领域落后于银行，Mythos引发监管担忧",
