@@ -1,8 +1,215 @@
 {
-  "generated_at": "2026-05-01T07:57:40.765926+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-01T12:07:31.042571+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            5,
+            7,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时57分]"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 12时07分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 12时07分]"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时02分]"
+        },
+        {
+          "title": "深圳14岁男孩用AI备考押中奥赛题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            24,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时02分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
+          "url": "https://flash.jin10.com/detail/20260501054951579800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时57分]"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 12时07分]"
+        },
+        {
+          "title": "人民日报：不能让AI生成内容误导公众",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国总统特朗普：AI将创造大量就业机会。",
+          "url": "https://wallstreetcn.com/livenews/3097697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
+          "url": "https://wallstreetcn.com/livenews/3097660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "AI 正在拿走初级程序员的「练级场」，新人还怎么熬成高手？",
+          "url": "https://www.zhihu.com/question/2032939979454859157",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
+          "url": "https://wallstreetcn.com/livenews/3097630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "AI 对于制造业程序员的冲击大吗？",
+          "url": "https://www.zhihu.com/question/2024649839900726675",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
+          "url": "https://flash.jin10.com/detail/20260501003417197800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美防长斥责Anthropic首席执行官 为五角大楼使用AI辩护",
+          "url": "https://flash.jin10.com/detail/20260501032025979800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 14,
@@ -73,7 +280,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -84,7 +291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -95,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -106,7 +313,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -168,157 +375,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "假如AI能模拟去世亲人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            5,
-            7,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时57分]"
-        },
-        {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时57分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时57分]"
-        },
-        {
-          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
-          "url": "https://www.cls.cn/detail/2361143",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时02分]"
-        },
-        {
-          "title": "深圳14岁男孩用AI备考押中奥赛题",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            24,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时02分]"
-        },
-        {
-          "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
-          "url": "https://flash.jin10.com/detail/20260501054951579800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时57分]"
-        },
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时57分]"
-        },
-        {
-          "title": "美国总统特朗普：AI将创造大量就业机会。",
-          "url": "https://wallstreetcn.com/livenews/3097697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
-          "url": "https://wallstreetcn.com/livenews/3097660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
-          "url": "https://wallstreetcn.com/livenews/3097630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
-          "url": "https://flash.jin10.com/detail/20260501003417197800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美防长斥责Anthropic首席执行官 为五角大楼使用AI辩护",
-          "url": "https://flash.jin10.com/detail/20260501032025979800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -334,6 +392,17 @@
           "time_info": "[01时01分 ~ 07时57分]"
         },
         {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 12时07分]"
+        },
+        {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
           "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
           "source": "凤凰网",
@@ -344,6 +413,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时57分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 12时07分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -359,17 +440,6 @@
           "time_info": "[01时01分 ~ 06时02分]"
         },
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097667",
           "source": "华尔街见闻-快讯",
@@ -379,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -404,13 +463,24 @@
           "time_info": "[01时02分 ~ 02时15分]"
         },
         {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
