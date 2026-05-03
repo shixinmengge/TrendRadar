@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T22:55:18.179655+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-03T23:55:17.820547+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时57分 ~ 22时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时57分 ~ 23时55分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时50分 ~ 22时55分]"
+          "appearance_count": 12,
+          "time_info": "[11时50分 ~ 23时55分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 22时55分]"
+          "appearance_count": 10,
+          "time_info": "[14时32分 ~ 23时55分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -58,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 22时55分]"
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 23时55分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -74,6 +74,19 @@
           "time_info": "[00时57分 ~ 11时51分]"
         },
         {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时32分 ~ 23时55分]"
+        },
+        {
           "title": "赛道挤爆,AI短剧收益不够电费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
           "source": "贴吧",
@@ -84,24 +97,36 @@
             18,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时57分 ~ 22时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时57分 ~ 23时55分]"
         },
         {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时11分 ~ 23时55分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时32分 ~ 22时55分]"
+          "time_info": "[16时51分 ~ 23时55分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -134,19 +159,6 @@
           "time_info": "[00时58分 ~ 07时54分]"
         },
         {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 22时55分]"
-        },
-        {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
           "url": "https://www.zhihu.com/question/2031784120653697717",
           "source": "知乎",
@@ -160,17 +172,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 07时54分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 22时55分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -265,6 +266,18 @@
           "time_info": "[07时53分 ~ 11时51分]"
         },
         {
+          "title": "博主：美军早就开始用AI进行实战了",
+          "url": "https://www.toutiao.com/trending/7635578022698946102/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时54分 ~ 23时55分]"
+        },
+        {
           "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
           "url": "https://www.cls.cn/detail/2362207",
           "source": "财联社热门",
@@ -286,17 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 16时52分]"
-        },
-        {
-          "title": "博主：美军早就开始用AI进行实战了",
-          "url": "https://www.toutiao.com/trending/7635578022698946102/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "日本制造巨头“批量转战AI”，“卫浴巨头”扩大存储元件产量，Toto股价飙升",
