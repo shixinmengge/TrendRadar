@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T05:53:09.615280+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-04T06:53:22.215175+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
@@ -52,11 +53,12 @@
             29,
             26,
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -67,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -79,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -88,11 +90,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -102,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -113,8 +116,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时53分]"
         },
         {
           "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
@@ -123,11 +126,12 @@
           "ranks": [
             7,
             12,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时09分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 06时53分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -136,11 +140,12 @@
           "ranks": [
             16,
             23,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时09分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 06时53分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -153,12 +158,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 01时56分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -166,11 +182,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 06时53分]"
+        },
+        {
+          "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260504060507166800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     }
