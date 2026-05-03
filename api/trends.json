@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:54:08.784534+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-05-03T11:51:17.857435+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -13,33 +13,36 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时51分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时51分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 11时51分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -117,6 +120,28 @@
           "time_info": "[00时58分 ~ 07时54分]"
         },
         {
+          "title": "公司用AI了35岁主管被裁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E4%BA%8635%E5%B2%81%E4%B8%BB%E7%AE%A1%E8%A2%AB%E8%A3%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
           "title": "误导女子闯入毒蛇窝AI道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -135,11 +160,23 @@
           "url": "https://wallstreetcn.com/articles/3771481",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 11时51分]"
+        },
+        {
+          "title": "日本制造巨头“批量转战AI”，“卫浴巨头”扩大存储元件产量，Toto股价飙升",
+          "url": "https://wallstreetcn.com/articles/3771480",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -247,6 +284,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 11时51分]"
+        },
+        {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
           "url": "https://www.cls.cn/detail/2362019",
           "source": "财联社热门",
@@ -257,18 +307,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时54分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
+          "title": "用ChatGPT还原盗墓笔记的世界",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8ChatGPT%E8%BF%98%E5%8E%9F%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E7%9A%84%E4%B8%96%E7%95%8C&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 07时54分]"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     }
