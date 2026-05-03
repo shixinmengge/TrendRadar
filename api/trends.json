@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T04:54:29.748614+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-04T05:53:09.615280+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
-        },
-        {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
@@ -37,6 +25,19 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            3,
             4
           ],
           "is_new": false,
@@ -54,19 +55,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
           "url": "https://www.cls.cn/detail/2362027",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -77,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -89,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -100,8 +102,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -111,8 +113,34 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时53分]"
+        },
+        {
+          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
+          "url": "https://www.zhihu.com/question/2034308747380482937",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
+        },
+        {
+          "title": "央视披露公司用AI替岗35岁主管详情",
+          "url": "https://www.toutiao.com/trending/7635183364001234963/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 05时53分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -125,30 +153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 01时56分]"
-        },
-        {
-          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
-          "url": "https://www.zhihu.com/question/2034308747380482937",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时54分]"
-        },
-        {
-          "title": "央视披露公司用AI替岗35岁主管详情",
-          "url": "https://www.toutiao.com/trending/7635183364001234963/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时54分]"
         }
       ]
     },
@@ -161,11 +165,12 @@
           "url": "https://wallstreetcn.com/articles/3771507",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 05时53分]"
         }
       ]
     }
