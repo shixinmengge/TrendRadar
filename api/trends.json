@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T17:41:08.589458+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-05-07T19:54:14.230824+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,18 @@
           "time_info": "[02时23分 ~ 11时43分]"
         },
         {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 19时54分]"
+        },
+        {
           "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
           "url": "https://www.zhihu.com/question/2035415081798869913",
           "source": "知乎",
@@ -99,18 +111,6 @@
           "time_info": "11时43分"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 17时41分]"
-        },
-        {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -124,17 +124,6 @@
           "time_info": "[00时49分 ~ 04时29分]"
         },
         {
-          "title": "“湖北惊现人造毒大米”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 17时41分]"
-        },
-        {
           "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
           "url": "https://www.zhihu.com/question/2035667399110653049",
           "source": "知乎",
@@ -142,8 +131,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时54分]"
         },
         {
           "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
@@ -153,8 +142,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时54分]"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 17时41分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -402,8 +402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时03分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[06时03分 ~ 19时54分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -454,6 +454,18 @@
           "time_info": "04时29分"
         },
         {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 19时54分]"
+        },
+        {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
           "url": "https://wallstreetcn.com/livenews/3099520",
           "source": "华尔街见闻-快讯",
@@ -478,26 +490,16 @@
           "time_info": "[00时49分 ~ 04时29分]"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 17时41分]"
-        },
-        {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时54分]"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -594,7 +596,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
