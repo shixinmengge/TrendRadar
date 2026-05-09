@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T03:13:22.496355+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-05-10T04:54:10.083267+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -73,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -85,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -95,22 +95,24 @@
           "ranks": [
             15,
             16,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3101062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
@@ -122,6 +124,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 04时54分]"
         }
       ]
     },
@@ -138,8 +171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -149,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         }
       ]
     },
@@ -166,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -178,27 +211,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时54分]"
         }
       ]
     }
