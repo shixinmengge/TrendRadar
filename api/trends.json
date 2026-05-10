@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:49:27.825396+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-05-10T23:02:25.650036+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -31,6 +31,19 @@
           "time_info": "[00时02分 ~ 07时56分]"
         },
         {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时56分 ~ 23时02分]"
+        },
+        {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
           "url": "https://www.cls.cn/detail/2366780",
           "source": "财联社热门",
@@ -42,6 +55,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时02分 ~ 19时58分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 23时02分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -73,30 +99,18 @@
           "time_info": "[00时02分 ~ 11时53分]"
         },
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
           "ranks": [
-            12,
-            3,
-            2
+            5,
+            10,
+            4,
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时56分 ~ 21时49分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 21时49分]"
+          "time_info": "[14时38分 ~ 23时02分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -121,20 +135,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 06时54分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            10,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 21时49分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -177,6 +177,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时56分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 23时02分]"
         },
         {
           "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
@@ -222,19 +236,6 @@
           "time_info": "[11时53分 ~ 21时49分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 21时49分]"
-        },
-        {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
           "url": "https://www.cls.cn/detail/2367033",
           "source": "财联社热门",
@@ -270,6 +271,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 14时39分]"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "SK 海力士利润率 72% 碾压英伟达，人均年终奖超 60 万元，带飞韩国楼市婚恋市场，这场 AI 造富能持续多久？",
@@ -322,7 +334,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         }
@@ -345,17 +357,6 @@
           "time_info": "[00时02分 ~ 06时54分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时54分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -366,8 +367,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 23时02分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时38分 ~ 21时49分]"
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -420,9 +432,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时02分]"
         }
       ]
     },
