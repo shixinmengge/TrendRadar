@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:03:30.097988+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-05-12T21:09:13.453076+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 19时03分]"
+          "appearance_count": 8,
+          "time_info": "[06时13分 ~ 21时09分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时13分 ~ 15时48分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 21时09分]"
         },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 08时05分]"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 19时03分]"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -202,7 +202,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -257,7 +257,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -268,7 +268,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
@@ -304,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 19时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 21时09分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -318,11 +318,12 @@
             26,
             17,
             19,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 19时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 21时09分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -337,8 +338,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 19时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 21时09分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -354,8 +355,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 19时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 21时09分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 21时09分]"
         },
         {
           "title": "快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段",
@@ -400,19 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            9,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 19时03分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
