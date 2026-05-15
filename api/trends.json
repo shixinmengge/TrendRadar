@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T18:34:04.613082+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-05-15T20:59:34.691875+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,23 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 20时59分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 20时59分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时58分 ~ 07时03分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -116,6 +117,18 @@
           "time_info": "15时32分"
         },
         {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 20时59分]"
+        },
+        {
           "title": "腾讯辟谣“AI一号位即将离职”",
           "url": "https://www.toutiao.com/trending/7639594791072628786/",
           "source": "今日头条",
@@ -131,11 +144,12 @@
           "url": "https://www.cls.cn/detail/2372257",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时59分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -146,8 +160,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时59分]"
         },
         {
           "title": "AI还原烂梗有多毒",
@@ -171,17 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时01分]"
-        },
-        {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
         },
         {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
@@ -301,7 +304,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -378,7 +381,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -386,7 +389,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
@@ -422,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "全球长债收益率飙升，股市普遍下挫，美股盘前跌幅扩大，白银跌破80美元，黄金跌超1%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -539,7 +553,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
@@ -552,6 +566,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时58分]"
+        },
+        {
+          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
+          "url": "https://www.zhihu.com/question/2038588162453104310",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "苹果与OpenAI关系紧张 后者拟诉诸法律",
