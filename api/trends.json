@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T04:57:25.944980+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-05-17T05:57:49.405584+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -59,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -98,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -109,8 +109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -119,22 +119,24 @@
           "ranks": [
             14,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         }
       ]
     },
@@ -150,8 +152,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         }
       ]
     },
@@ -169,8 +171,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时57分]"
         }
       ]
     }
