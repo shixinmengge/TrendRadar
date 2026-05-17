@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:14:59.997078+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-05-17T21:45:10.708946+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 21时45分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -39,11 +40,12 @@
             20,
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 21时45分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -91,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 21时45分]"
         },
         {
           "title": "AI算力产业链正批量“造富”",
@@ -156,7 +158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -185,11 +187,12 @@
             5,
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 21时45分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -241,8 +244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 21时45分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -261,7 +264,7 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
@@ -274,6 +277,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 08时01分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 21时45分]"
         }
       ]
     },
