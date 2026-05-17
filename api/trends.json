@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T17:53:20.947727+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-05-17T19:14:59.997078+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 19时14分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -42,8 +42,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 19时14分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -83,6 +83,18 @@
           "time_info": "[08时01分 ~ 15时37分]"
         },
         {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 19时14分]"
+        },
+        {
           "title": "AI算力产业链正批量“造富”",
           "url": "https://www.toutiao.com/trending/7640154327398793259/",
           "source": "今日头条",
@@ -103,17 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
         },
         {
           "title": "境外间谍对我稀土AI等领域实施窃密",
@@ -144,9 +145,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "岗位被 AI 替代后，还可以去送外卖、跑网约车，如果这些兜底岗位也被取代，又该如何？",
+          "url": "https://www.zhihu.com/question/2037906428577277385",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
@@ -155,7 +167,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         }
@@ -172,11 +184,12 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 19时14分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -220,6 +233,18 @@
           "time_info": "[01时05分 ~ 12时16分]"
         },
         {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 19时14分]"
+        },
+        {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
@@ -227,18 +252,6 @@
             10,
             8,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 17时53分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 4,
