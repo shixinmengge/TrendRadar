@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T05:01:41.692441+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-05-18T06:04:29.088143+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时04分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -61,8 +61,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -74,8 +74,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时04分]"
+        },
+        {
+          "title": "博主：中国AI算力产业链正在全面腾飞",
+          "url": "https://www.toutiao.com/trending/7640853095961857599/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时04分]"
         },
         {
           "title": "谁卡住AI算力瓶颈谁就离财富越近",
@@ -87,17 +98,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         },
         {
-          "title": "博主：中国AI算力产业链正在全面腾飞",
-          "url": "https://www.toutiao.com/trending/7640853095961857599/",
-          "source": "今日头条",
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
           "ranks": [
-            29
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时04分"
         }
       ]
     },
@@ -113,26 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时04分]"
         }
       ]
     }
