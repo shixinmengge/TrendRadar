@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T16:26:20.434295+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-05-22T19:50:09.832638+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -51,11 +51,12 @@
             19,
             16,
             18,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 19时50分]"
         },
         {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
@@ -106,15 +107,62 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
+          "title": "观想科技：子公司拟投资建设巴里坤AI科技成果转化总部基地项目，计划总投资约10亿元",
+          "url": "https://wallstreetcn.com/livenews/3108021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "港股收盘，恒指收涨0.86%，科指收涨2.11%，联想集团(00992.HK)绩后收涨19.77%，AI应用、半导体板块集体爆发，智谱(02513.HK)收涨26.93%，兆易创新(03986.HK)收涨12.92%。",
           "url": "https://flash.jin10.com/detail/20260522160853480800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时50分]"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时50分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 19时50分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -129,6 +177,28 @@
           "time_info": "[03时02分 ~ 05时41分]"
         },
         {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "朱自清《荷塘月色》AI率超60%",
+          "url": "https://www.toutiao.com/trending/7642580693547057188/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "用上AI后工作时间反而更长了",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -138,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "为什么搞AI的赚不过卖存储的",
@@ -162,24 +243,13 @@
           "time_info": "00时20分"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "朱自清散文AI率超60%",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -201,20 +271,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
         {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
+          "title": "观想科技：子公司拟投资10亿元建设AI科技成果转化总部基地项目，为不同领域的客户提供专用TOKEN等服务",
+          "url": "https://flash.jin10.com/detail/20260522192845435800",
+          "source": "金十数据",
           "ranks": [
-            10
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "19时50分"
         },
         {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
@@ -270,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         }
       ]
     },
@@ -365,7 +424,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -502,6 +561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         }
       ]
     }
