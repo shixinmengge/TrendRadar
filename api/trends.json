@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:50:09.832638+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-05-22T22:51:25.770048+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -55,8 +55,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 19时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 22时51分]"
         },
         {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
@@ -113,7 +113,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -134,11 +134,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时51分]"
         },
         {
           "title": "朱自清散文AI率超60%",
@@ -146,11 +147,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时51分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -158,11 +160,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            23
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时51分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时50分]"
+          "time_info": "[19时49分 ~ 22时51分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -175,17 +190,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 05时41分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "朱自清《荷塘月色》AI率超60%",
@@ -230,6 +234,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
@@ -282,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -476,7 +491,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -489,6 +504,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 07时09分]"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260522222139981800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -538,7 +564,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
@@ -550,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美元指数DXY短线小幅走高，美联储理事沃勒表示，美联储不应再释放降息信号。",
+          "url": "https://flash.jin10.com/detail/20260522220459582800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美元指数21日上涨",
@@ -573,11 +610,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 22时51分]"
         }
       ]
     }
