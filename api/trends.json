@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T17:06:35.856562+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-05-23T19:18:22.417649+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时08分 ~ 17时06分]"
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 19时18分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -42,6 +43,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 07时08分]"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 19时18分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -77,15 +90,15 @@
           "time_info": "[05时18分 ~ 07时08分]"
         },
         {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "19时18分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -157,7 +170,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -234,8 +247,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时56分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[03时56分 ~ 19时18分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -243,11 +256,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 17时06分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 19时18分]"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
@@ -260,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 07时08分]"
+        },
+        {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 19时18分]"
         },
         {
           "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
@@ -284,15 +310,15 @@
           "time_info": "07时08分"
         },
         {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时06分"
+          "time_info": "19时18分"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -304,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "AI光算力第一股上市首日暴涨380%",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
@@ -348,8 +385,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 19时18分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
