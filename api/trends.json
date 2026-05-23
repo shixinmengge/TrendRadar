@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:01:39.255158+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-05-24T06:04:12.205580+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -39,8 +39,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
+        },
+        {
+          "title": "下周一港股、美股休市",
+          "url": "https://www.toutiao.com/trending/7642672726146056242/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 06时04分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "下周一港股、美股休市",
-          "url": "https://www.toutiao.com/trending/7642672726146056242/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         }
       ]
     },
@@ -79,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -90,8 +91,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -116,11 +117,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
         }
       ]
     }
