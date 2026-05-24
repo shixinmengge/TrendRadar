@@ -1,11 +1,120 @@
 {
-  "generated_at": "2026-05-24T08:03:19.962999+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-05-24T13:06:51.630623+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 13时06分]"
+        },
+        {
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时04分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 13时06分]"
+        },
+        {
+          "title": "AI光算力第一股上市首日暴涨380%",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "当AI有一副人的身体",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E6%9C%89%E4%B8%80%E5%89%AF%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BD%93&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "芬兰大学：新型AI聊天机器人有助抵抗错误健康信息",
+          "url": "https://flash.jin10.com/detail/20260524102210505800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
+          "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
+          "url": "https://flash.jin10.com/detail/20260524095245715800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -13,11 +122,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 13时06分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -25,11 +135,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 13时06分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -66,58 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 08时03分]"
         },
         {
-          "title": "AI 泡沫还能持续多久？",
-          "url": "https://www.zhihu.com/question/1903030274536743238",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时04分]"
-        },
-        {
-          "title": "AI光算力第一股上市首日暴涨380%",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
-          "url": "https://wallstreetcn.com/articles/3772976",
+          "title": "美股和美债的“矛盾走势”，接下来谁会赢？",
+          "url": "https://wallstreetcn.com/articles/3772970",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "13时06分"
         }
       ]
     },
