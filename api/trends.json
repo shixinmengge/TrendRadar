@@ -1,40 +1,12 @@
 {
-  "generated_at": "2026-05-25T21:34:13.950585+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-05-26T00:26:34.059975+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 12时22分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29,
-            21,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 21时34分]"
-        },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
@@ -43,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -54,32 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
-          "url": "https://flash.jin10.com/detail/20260525012651977800",
-          "source": "金十数据",
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 07时10分]"
+          "time_info": "00时26分"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -89,164 +48,47 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时10分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
-          "url": "https://wallstreetcn.com/livenews/3108500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时02分]"
-        },
-        {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "00时26分"
         },
         {
-          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
-          "url": "https://www.cls.cn/detail/2380061",
-          "source": "财联社热门",
+          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
+          "url": "https://www.zhihu.com/question/649375328",
+          "source": "知乎",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "九安医疗：不涉及AI业务单独收费，糖尿病照护业务收入占比低",
-          "url": "https://wallstreetcn.com/livenews/3108907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "两连板九安医疗：不涉及AI业务单独收费 糖尿病照护业务收入占比低",
-          "url": "https://flash.jin10.com/detail/20260525203440244800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "AI挑战水果店员挑榴莲",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%8C%91%E6%88%98%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%91%98%E6%8C%91%E6%A6%B4%E8%8E%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 06时01分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260525060644652800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "港股、美股周一休市 金银油交易将提前结束",
-          "url": "https://flash.jin10.com/detail/20260524212457510800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数DXY跌破99，日内跌0.33%。",
-          "url": "https://flash.jin10.com/detail/20260525063241130800",
-          "source": "金十数据",
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
           "ranks": [
-            11
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "00时26分"
         }
       ]
     }
