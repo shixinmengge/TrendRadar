@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T18:08:39.753897+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-26T21:57:52.515776+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 18时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 21时57分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -89,22 +90,58 @@
           "url": "https://www.douyin.com/hot/2512287",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 21时57分]"
         },
         {
           "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
           "url": "https://wallstreetcn.com/articles/3773084",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时57分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 21时57分]"
+        },
+        {
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "21时57分"
+        },
+        {
+          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
+          "url": "https://www.zhihu.com/question/2041915902292217866",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "小米集团：第一季度智能电动汽车及AI等创新业务分部经营亏损为人民币31亿元",
@@ -113,18 +150,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
-          "url": "https://www.cls.cn/detail/2381769",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -151,6 +177,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "宝鼎科技：公司无AI覆铜板，未发现在AI服务器及算力领域的应用",
+          "url": "https://wallstreetcn.com/livenews/3109471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "京东AI静音口罩工位k歌神器",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9CAI%E9%9D%99%E9%9F%B3%E5%8F%A3%E7%BD%A9%E5%B7%A5%E4%BD%8Dk%E6%AD%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -165,8 +202,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨近4%，半导体ETF、全球科技股指数ETF涨超2%，能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3109506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.95%，费城半导体指数涨超3%，美光科技涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3109503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
           "url": "https://www.toutiao.com/trending/7643690261362196489/",
@@ -180,6 +239,28 @@
           "time_info": "[00时26分 ~ 02时47分]"
         },
         {
+          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2382097",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
           "url": "https://flash.jin10.com/detail/20260526072611689800",
           "source": "金十数据",
@@ -189,6 +270,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "美股开盘，道指涨0.27%，标普500指数涨0.58%，纳指涨0.94%。美光科技(MU.O)涨9.4%，瑞银大幅上调其目标价至1625美元，为华尔街最高；小马智行(PONY.O)涨14.35%，公司第一季度收入同比增长145%。",
+          "url": "https://flash.jin10.com/detail/20260526213029548800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3109479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
@@ -211,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "火箭及卫星板块美股盘前大涨，Redwire Corp.上涨15%，MDA Space Ltd.飙升13%，Firefly Aerospace Inc.上涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3109475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
