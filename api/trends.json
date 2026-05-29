@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T16:46:44.030143+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-05-29T20:21:22.787404+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI会带来怎样的社会变革",
@@ -72,6 +72,17 @@
           "time_info": "[00时58分 ~ 12时12分]"
         },
         {
+          "title": "我写的论文怎么成AI写的了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%99%E7%9A%84%E8%AE%BA%E6%96%87%E6%80%8E%E4%B9%88%E6%88%90AI%E5%86%99%E7%9A%84%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
           "url": "https://wallstreetcn.com/livenews/3110902",
           "source": "华尔街见闻-快讯",
@@ -81,6 +92,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 20时21分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -164,16 +187,16 @@
           "time_info": "[00时58分 ~ 06时01分]"
         },
         {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
           "ranks": [
             9,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时12分 ~ 16时46分]"
+          "time_info": "[16时46分 ~ 20时21分]"
         },
         {
           "title": "广东90后女生用AI接了400万大单",
@@ -196,19 +219,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 20时21分]"
         },
         {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 20时21分]"
+        },
+        {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时12分 ~ 16时46分]"
+          "time_info": "[16时46分 ~ 20时21分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -275,7 +311,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -291,26 +327,26 @@
           "time_info": "07时38分"
         },
         {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
+          "title": "广东夏季高考用AI批卷系不实传言",
+          "url": "https://www.toutiao.com/trending/7644786880849182729/",
+          "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "从“卖卡”到“卖Token”：AI算力市场重构与国产芯片的窗口期|深度",
@@ -319,9 +355,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "在戴尔上调本财年利润和营收预期后，AI服务器制造商相关股在盘前大涨，惠普(HPQ.N)上涨23.5%，超微电脑(SMCI.O)上涨10.6%，IBM上涨5%。",
@@ -330,7 +377,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -341,7 +388,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -355,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "字节跳动AI4S团队调整，由杨震原负责管理",
+          "url": "https://wallstreetcn.com/livenews/3111381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -385,6 +443,18 @@
           "time_info": "[00时58分 ~ 03时42分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 20时21分]"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -394,17 +464,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时38分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 16时46分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -494,7 +553,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -571,7 +630,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -610,9 +669,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 20时21分]"
         },
         {
           "title": "日本财务大臣片山皋月：已会晤OpenAI的策略长。 一些日本金融公司将获得OPENAI模型的使用权。",
@@ -621,7 +680,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
