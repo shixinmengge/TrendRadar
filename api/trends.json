@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T12:23:50.830516+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-05-31T16:19:23.905905+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 12时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 16时19分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 12时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 16时19分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -82,15 +83,15 @@
           "time_info": "[01时16分 ~ 07时05分]"
         },
         {
-          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
-          "url": "https://wallstreetcn.com/articles/3773499",
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "16时19分"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -99,11 +100,35 @@
           "ranks": [
             2,
             6,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时07分 ~ 16时19分]"
+        },
+        {
+          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 16时19分]"
+        },
+        {
+          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
+          "url": "https://wallstreetcn.com/articles/3773512",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -134,8 +159,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 12时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 16时19分]"
         }
       ]
     },
