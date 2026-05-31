@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T05:08:34.900291+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-06-01T07:07:24.318349+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
         },
         {
           "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
         },
         {
           "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
         },
         {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
@@ -59,11 +59,23 @@
           "ranks": [
             13,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
+        },
+        {
+          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代AI PC入口",
+          "url": "https://wallstreetcn.com/articles/3773517",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -74,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
         },
         {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
@@ -83,11 +95,40 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 07时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260601060027642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "李大霄：为何鲜有人提醒美股风险",
+          "url": "https://www.toutiao.com/trending/7646060691119410724/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         }
       ]
     },
@@ -104,25 +145,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 05时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李大霄：为何鲜有人提醒美股风险",
-          "url": "https://www.toutiao.com/trending/7646060691119410724/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 07时07分]"
         }
       ]
     }
