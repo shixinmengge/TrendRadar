@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T17:25:45.091166+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-06-07T19:54:15.122327+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -60,6 +60,18 @@
           "time_info": "[02时13分 ~ 13时27分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时11分 ~ 19时54分]"
+        },
+        {
           "title": "高考新增AI监考员",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -73,27 +85,66 @@
           "time_info": "[02时12分 ~ 08时12分]"
         },
         {
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时54分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时54分]"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时54分]"
+        },
+        {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
           "url": "https://wallstreetcn.com/livenews/3115527",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 19时54分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            19,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时11分 ~ 17时25分]"
+          "time_info": "[13时27分 ~ 19时54分]"
         },
         {
           "title": "北大UP主手搓AI猫娘",
@@ -107,51 +158,16 @@
           "time_info": "[08时11分 ~ 08时12分]"
         },
         {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
+          "url": "https://wallstreetcn.com/livenews/3115526",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时27分 ~ 17时25分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 17时25分]"
-        },
-        {
-          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
-          "url": "https://www.zhihu.com/question/2025012000539846038",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 17时25分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 17时25分]"
+          "time_info": "[17时25分 ~ 19时54分]"
         },
         {
           "title": "AI写的高考作文你打几分",
@@ -165,15 +181,15 @@
           "time_info": "[13时27分 ~ 17时25分]"
         },
         {
-          "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
-          "url": "https://wallstreetcn.com/livenews/3115526",
-          "source": "华尔街见闻-快讯",
+          "title": "AI短剧 100集浓缩成3分钟",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
@@ -215,7 +231,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -223,7 +239,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -231,11 +247,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 19时54分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -247,8 +264,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 19时54分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -299,6 +316,17 @@
           "time_info": "[02时12分 ~ 06时09分]"
         },
         {
+          "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
+          "url": "https://flash.jin10.com/detail/20260607184311159800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美股暴跌有何影响",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -321,11 +349,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 19时54分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -334,9 +363,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时54分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -364,7 +393,7 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -378,8 +407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 17时25分]"
+          "appearance_count": 8,
+          "time_info": "[04时14分 ~ 19时54分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -393,6 +422,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时09分 ~ 13时27分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         }
       ]
     },
