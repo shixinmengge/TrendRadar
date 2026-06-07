@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:54:15.122327+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-06-07T22:08:01.752565+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 08时12分]"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时11分 ~ 22时08分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -46,6 +58,17 @@
           "time_info": "[00时12分 ~ 08时12分]"
         },
         {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 22时08分]"
+        },
+        {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
           "url": "https://wallstreetcn.com/livenews/3115486",
           "source": "华尔街见闻-快讯",
@@ -60,16 +83,18 @@
           "time_info": "[02时13分 ~ 13时27分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12
+            19,
+            16,
+            14,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时11分 ~ 19时54分]"
+          "time_info": "[13时27分 ~ 22时08分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -92,17 +117,6 @@
             9,
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 19时54分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -134,17 +148,16 @@
           "time_info": "[17时25分 ~ 19时54分]"
         },
         {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
+          "title": "AI短剧 100集浓缩成3分钟",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            16,
-            14
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时27分 ~ 19时54分]"
+          "time_info": "[19时53分 ~ 22时08分]"
         },
         {
           "title": "北大UP主手搓AI猫娘",
@@ -179,17 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 17时25分]"
-        },
-        {
-          "title": "AI短剧 100集浓缩成3分钟",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
@@ -248,11 +250,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 19时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 22时08分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -261,11 +264,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 19时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 22时08分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -322,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -341,8 +345,20 @@
     },
     {
       "keyword_group": "chatgpt",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 22时08分]"
+        },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
@@ -357,15 +373,15 @@
           "time_info": "[13时27分 ~ 19时54分]"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -428,11 +444,12 @@
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 22时08分]"
         }
       ]
     },
