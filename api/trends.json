@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T06:11:11.631423+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-06-08T08:16:44.787184+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -13,11 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -33,15 +46,27 @@
           "time_info": "[00时22分 ~ 06时11分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
           "ranks": [
-            12
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 08时16分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -55,15 +80,15 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "英伟达CEO黄仁勋：我们与SK集团建立了一项非常重大且长期的合作伙伴关系。 AI是有利可图的。 已与SK海力士锁定长期协议。 没有哪个国家在机器人技术方面的准备比韩国更充分。 已将与SK的合作伙伴关系从AI超级计算机拓展至CPU、PC和机器人领域。",
+          "url": "https://wallstreetcn.com/livenews/3115704",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "AI炒完芯片后，下一轮被抢的会是谁？",
@@ -98,11 +123,26 @@
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
+        },
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -114,32 +154,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
           "url": "https://www.cls.cn/detail/2392886",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -167,8 +195,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         }
       ]
     },
@@ -181,11 +209,12 @@
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         }
       ]
     },
@@ -204,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 08时16分]"
         }
       ]
     },
