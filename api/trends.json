@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T08:22:51.415538+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-06-11T13:57:37.840808+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -29,8 +29,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 08时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 13时57分]"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 13时57分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -41,18 +54,6 @@
             9,
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 08时22分]"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -107,6 +108,17 @@
           "time_info": "[00时39分 ~ 08时22分]"
         },
         {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
           "url": "https://wallstreetcn.com/livenews/3117664",
           "source": "华尔街见闻-快讯",
@@ -116,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
@@ -165,18 +188,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 13时57分]"
+        },
+        {
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时09分 ~ 13时57分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -190,16 +227,15 @@
           "time_info": "[00时39分 ~ 03时40分]"
         },
         {
-          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2396570",
-          "source": "财联社热门",
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            4
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 08时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "美股泡沫为何逐渐得到认同",
@@ -211,6 +247,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
+          "url": "https://wallstreetcn.com/livenews/3117610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         }
       ]
     },
@@ -239,34 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：Altman预计OpenAI将于未来一年内IPO",
-          "url": "https://wallstreetcn.com/livenews/3117610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
         }
       ]
     }
