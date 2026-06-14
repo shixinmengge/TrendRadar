@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T13:56:44.076121+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-14T17:47:34.269393+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 17时47分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -27,11 +28,12 @@
             13,
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 17时47分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -44,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 17时47分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -67,8 +69,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 17时47分]"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -106,13 +119,46 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
+          "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
+          "url": "https://flash.jin10.com/detail/20260614171030729800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "蚂蚁集团正秘密测试AI版支付宝",
+          "url": "https://flash.jin10.com/detail/20260614170709289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "特朗普发布 AI 视频，变身火影忍者，引发日本民众抗议，日本官员称已多次提醒美方注意版权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2049169967136953360",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
           "url": "https://www.zhihu.com/question/2037135692707390495",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -139,11 +185,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 17时47分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -201,9 +248,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 17时47分]"
         }
       ]
     }
