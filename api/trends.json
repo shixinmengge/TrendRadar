@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T06:11:14.192660+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-14T08:15:06.685621+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -53,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -67,6 +68,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
           "title": "这才是AI发展真正的意义",
@@ -104,8 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -127,11 +150,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         }
       ]
     },
@@ -147,11 +171,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 08时15分]"
         }
       ]
     }
