@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-21T19:50:56.099346+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-06-21T22:24:08.701062+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 22时24分]"
+        },
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
           "url": "https://wallstreetcn.com/articles/3775106",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时40分 ~ 12时56分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 19时50分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
@@ -105,6 +105,19 @@
           "time_info": "[17时01分 ~ 19时50分]"
         },
         {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 22时24分]"
+        },
+        {
           "title": "女子用AI写3000字股市谣言被罚",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
           "source": "百度热搜",
@@ -128,6 +141,18 @@
           "time_info": "[01时40分 ~ 07时16分]"
         },
         {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 22时24分]"
+        },
+        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
@@ -139,18 +164,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时47分 ~ 07时16分]"
-        },
-        {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 19时50分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -165,16 +178,26 @@
           "time_info": "[07时15分 ~ 19时50分]"
         },
         {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            30
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时01分 ~ 19时50分]"
+          "time_info": "[19时50分 ~ 22时24分]"
+        },
+        {
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "如果给人文社科专业增加一门 AI 相关课程，你觉得最应该开哪门？",
@@ -186,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
@@ -227,7 +239,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -257,11 +269,12 @@
             9,
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 19时50分]"
+          "appearance_count": 13,
+          "time_info": "[01时40分 ~ 22时24分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -287,11 +300,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 22时24分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
