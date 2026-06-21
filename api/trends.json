@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T00:49:56.968792+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T02:23:15.317991+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -26,41 +26,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
           "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
           "url": "https://www.cls.cn/detail/2404757",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         },
         {
           "title": "父亲节用AI表达爱",
           "url": "https://www.douyin.com/hot/2542302",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         },
         {
           "title": "AI的疯狂行情何时到头",
@@ -84,11 +87,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         }
       ]
     },
@@ -104,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时23分]"
         }
       ]
     }
