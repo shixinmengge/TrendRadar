@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T14:34:20.504980+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-06-22T20:54:10.456339+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
@@ -79,11 +79,45 @@
           "url": "https://www.zhihu.com/question/2052067691926484153",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 20时54分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
+          "url": "https://www.cls.cn/detail/2405734",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "AI如此预测今晚焦点战算懂球吗",
+          "url": "https://www.douyin.com/hot/2543848",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "【午报】三大指数集体收红，有色金属等AI上游材料概念持续活跃，大金融板块爆发",
+          "url": "https://www.cls.cn/detail/2405347",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "Sand.ai 3个月连续完成2轮融资，金额超1亿美金",
@@ -92,7 +126,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -133,8 +167,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
@@ -164,7 +209,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
