@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T20:39:24.856782+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-06-23T23:55:32.721505+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -20,16 +20,18 @@
           "time_info": "[01时43分 ~ 17时54分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
+            9,
+            4,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 08时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 23时55分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
@@ -44,17 +46,28 @@
           "time_info": "[01时43分 ~ 08时14分]"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            9,
-            4,
-            5
+            2,
+            3,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时07分 ~ 20时39分]"
+          "time_info": "[06时50分 ~ 23时55分]"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "字节跳动正式发布Seed2.1，深入AI生产力",
@@ -66,6 +79,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 23时55分]"
+        },
+        {
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 23时55分]"
         },
         {
           "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
@@ -80,6 +118,19 @@
           "time_info": "[08时14分 ~ 13时08分]"
         },
         {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 23时55分]"
+        },
+        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -92,28 +143,16 @@
           "time_info": "[06时50分 ~ 08时14分]"
         },
         {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 20时39分]"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
+          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
+          "url": "https://www.cls.cn/detail/2406973",
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 23时55分]"
         },
         {
           "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
@@ -152,18 +191,6 @@
           "time_info": "[06时51分 ~ 08时14分]"
         },
         {
-          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
-          "url": "https://www.zhihu.com/question/2052439090260178506",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 20时39分]"
-        },
-        {
           "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
           "url": "https://www.zhihu.com/question/2052545440508108960",
           "source": "知乎",
@@ -174,6 +201,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 20时39分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 23时55分]"
         },
         {
           "title": "国际超算大会聚焦AI、量子计算",
@@ -204,9 +243,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "高盛：AI资本开支热潮对韩国芯片周期拉动力度、持续时长均超预期",
@@ -220,15 +270,15 @@
           "time_info": "17时54分"
         },
         {
-          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
-          "url": "https://www.cls.cn/detail/2406973",
-          "source": "财联社热门",
+          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
+          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时39分"
+          "time_info": "23时55分"
         },
         {
           "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
@@ -270,7 +320,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -286,15 +336,26 @@
           "time_info": "06时51分"
         },
         {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
+          "title": "市场消息：以色列将考虑让国防巨头以色列航空工业公司（IAI）和拉斐尔在美国进行首次公开募股。",
+          "url": "https://flash.jin10.com/detail/20260623231814911800",
+          "source": "金十数据",
           "ranks": [
-            23
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时39分"
+          "time_info": "23时55分"
+        },
+        {
+          "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3123540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "物理AI第一股上市首日高开302%",
@@ -311,7 +372,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -322,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时14分 ~ 20时39分]"
+          "appearance_count": 6,
+          "time_info": "[08时14分 ~ 23时55分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -373,6 +434,17 @@
           "time_info": "[01时43分 ~ 04时56分]"
         },
         {
+          "title": "美股集体低开 纳指跌超2%",
+          "url": "https://www.douyin.com/hot/2545296",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123022",
           "source": "华尔街见闻-快讯",
@@ -390,7 +462,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -412,11 +484,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 20时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 23时55分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美股：纳指跌1.32% SpaceX跌超16%",
@@ -458,7 +542,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -572,8 +656,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.87%，暂报2285.71点，在一波V形反转行情中、北京时间07:37刷新期内最低点至2260.26点，在一波冲高回落行情中、21:50刷新期内最高至2331.37点。 MarketVectorTM数字资产100中盘指数涨0.43%，报2662.57点，07:36刷新期内最低至2598.96点、21:50刷新期内最高位至2699.43点。 MarketVector数字资产100指数涨0.71%，报12806.37点。 目前，Solana跌1.93%，狗狗币跌0.28%，XRP跌0.67%。 比特币涨0.86%，暂报64687.74美元；以太坊涨0.31%，暂报1738.19美元。",
           "url": "https://wallstreetcn.com/livenews/3122963",
