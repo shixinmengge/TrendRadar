@@ -1,454 +1,117 @@
 {
-  "generated_at": "2026-06-24T22:44:34.904029+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-06-25T01:10:02.086702+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时04分 ~ 19时50分]"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            14,
-            20,
-            23,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时04分 ~ 22时44分]"
-        },
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
           "url": "https://www.cls.cn/detail/2408054",
           "source": "财联社热门",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 22时44分]"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            23,
-            21,
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时04分 ~ 16时26分]"
-        },
-        {
-          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
-          "url": "https://www.zhihu.com/question/2052673340993811952",
-          "source": "知乎",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
-        {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 22时44分]"
-        },
-        {
-          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3123596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
           "url": "https://www.cls.cn/detail/2407855",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时44分]"
-        },
-        {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时44分]"
-        },
-        {
-          "title": "报告：88%的受访企业表示已将代理式AI融入系统之中",
-          "url": "https://wallstreetcn.com/livenews/3124007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
-          "url": "https://www.cls.cn/detail/2406973",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
           "url": "https://www.cls.cn/detail/2408036",
           "source": "财联社热门",
           "ranks": [
-            11,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 22时44分]"
-        },
-        {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时26分]"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
           "url": "https://news.ifeng.com/c/8uDioiTwhfp",
           "source": "凤凰网",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 22时44分]"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
-          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-          "url": "https://www.zhihu.com/question/2051696278954946774",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时06分 ~ 07时13分]"
-        },
-        {
-          "title": "AI时代计算机专业还能学吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时06分 ~ 07时13分]"
-        },
-        {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
           "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 05时07分]"
-        },
-        {
-          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
-          "url": "https://www.zhihu.com/question/2035742574737143093",
-          "source": "知乎",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
-          "title": "如何评价 Sakana AI 发布的 Fugu Ultra/Fugu，号称多模型编排智能超越 Mythos？",
-          "url": "https://www.zhihu.com/question/2052418588053594631",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
-          "url": "https://wallstreetcn.com/livenews/3123591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
-          "url": "https://flash.jin10.com/detail/20260624012900197800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "【金十整理——美光财报将至：12家投行预测存储涨价将推动高利润与股价上行】 摩根士丹利：<br/> <span class=\"section-news\">1. 将美光科技(MU.O)目标价从520美元上调至1050美元，维持“增持”评级。</span> <span class=\"section-news\">2. 上调Q3业绩预测，原因是DRAM与NAND在供需失衡下平均售价持续上行。预计本季度两类存储产品价格将环比上涨约20%。</span> <span class=\"section-news\">3. 美光与大型客户之间的长期协议将成为市场关注重点。 </span> <br/>韦德布什：<br/> <span class=\"section-news\">1. 将目标价从550美元上调至1300美元，维持“跑赢大盘”评级。</span> <span class=\"section-news\">2. 将每股收益预测从19.16美元上调至22.84美元，营收预测从335亿美元上调至385亿美元，原因是第二季度实际定价高于此前指引，并显著高于市场一致预期。</span> <span class=\"section-news\">3. 第三季度DRAM和NAND的价格可能上涨约20%。</span> <br/>德意志银行：<br/> <span class=\"section-news\">1. 将目标价从1000美元上调至1500美元，维持“买入”评级。</span> <span class=\"section-news\">2. DRAM供应短缺可能持续到2028年甚至更久。新增供给难以赶上代理式AI和推理工作负载带来的需求增长。</span> <span class=\"section-news\">3. 预计Q3营收约351亿美元，高于公司指引上限342.5亿美元。预计2027年每股收益或达到约160美元，毛利率将在可预见的未来维持在80%以上。</span> 花旗：<br/> <span class=\"section-news\">1. 将目标价从840美元上调至1200美元，维持“买入”评级。</span> <span class=\"section-news\">2. 存储芯片价格高企的态势将持续至2027年，尤其是HBM。预计今年DRAM平均销售价格将飙升200%，原因在于由token增长加速所带动的数据中心需求强劲，而供应增长则相对有限。</span> 斯蒂费尔：<br/> <span class=\"section-news\">1. 将目标价从550美元上调至1500美元，维持“买入”评级。</span> <span class=\"section-news\">2. 传统DRAM的平均销售价格目前约为美光最初预测水平的两倍。在数据中心市场，相关合约价格已超过每GB 2.50美元；消费级PC和智能手机市场的价格也维持在每GB 1.50美元以上。在此背景下，预计公司季度营收将环比大增20%。</span> 尼德汉姆：<br/> <span class=\"section-news\">1. 将目标价上调至1550美元，维持“买入”评级。</span> <span class=\"section-news\">2. “大幅”上调业绩预测，过去90天里存储芯片市场持续走强。市场基本面将在更长时间内维持“更强劲”的状态。</span> <br/>伯恩斯坦：<br/> <span class=\"section-news\">1. 将目标价从510美元上调至1300美元，维持“跑赢大盘”评级。</span> <span class=\"section-news\">2. 短期价格涨幅强于预期，HBM平均销售价格在2027自然年之前将进一步提高。DRAM供应短缺将比此前预期更加严重且持续时间更长，价格很可能在2027自然年的大部分时间里保持强势。</span> 海纳国际：<br/> <span class=\"section-news\">1. 将目标价从600美元上调至1750美元，维持“正面”评级。</span> <span class=\"section-news\">2. 最终决定公司可持续营业利润率和估值倍数的将是“两大关键变数”。一是“键值缓存卸载”，市场对于其最终配置方案仍存在持续不确定性。二是新增晶圆产能。预计DRAM和NAND市场的供应短缺状态将持续整个2027年。</span> 杰富瑞集团： <span class=\"section-news\">1. HBM供需关系仍然紧张。目前全球HBM月产能约为33万片晶圆，预计到2027年将增至48万片，但未来一年需求仍可能增长70%。</span> <span class=\"section-news\">2. 预计美光Q3存储价格将环比上涨40%至50%，第四季度再上涨30%至40%。预计2027年存储产品平均售价仍将同比上涨40%至45%。</span> 富国银行：<br/> <span class=\"section-news\">1. 将目标价从550美元上调至1220美元，维持“买入”评级。</span> <span class=\"section-news\">2. 存储芯片市场供应持续紧张、强客户认证（SCA）项目推进强劲以及美光整体执行力表现出色，使该股今年仍有进一步上涨空间。</span> 高盛： <span class=\"section-news\">1. 将目标价从400美元上调至900美元，维持“中性”评级。当前业绩正受到人工智能硬件领域对HBM需求激增的推动。预计盈利将在2027财年达到峰值，每股收益为138.86美元。</span> 建达公司：<br/> <span class=\"section-news\">1. 将目标价从700美元上调至1500美元，重申“增持”评级。</span> <span class=\"section-news\">2. 在2026、2027和2028整个自然年期间，DRAM和NAND市场都将维持供不应求的状态。</span>",
-          "url": "https://flash.jin10.com/detail/20260624112953630800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美国亚特兰大联储董事会主席Gregory Haile：我们的委员会正在为下一任亚特兰大联储主席进行全面且审慎的遴选。 我们将继续专注于为第六区挑选最优秀的人才，同时维护遴选程序的公正性。 我们将在适当时候提供有关这一重要领导职务的相关最新进展。",
-          "url": "https://wallstreetcn.com/livenews/3123638",
-          "source": "华尔街见闻-快讯",
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
-          "title": "韩国熔断带崩华尔街？AI存储交易下半场节奏怎么踩",
-          "url": "https://flash.jin10.com/detail/20260624193719596800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：支持政府推动美国在强大且安全的前沿AI领域的领导地位的目标。",
-          "url": "https://flash.jin10.com/detail/20260624054508672800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
-          "url": "https://wallstreetcn.com/livenews/3123676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
-          "url": "https://wallstreetcn.com/livenews/3123674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "武汉启动10亿元AI科创基金",
-          "url": "https://flash.jin10.com/detail/20260624191416600800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "美国参议院共和党成员Steve Daines：参议院正酝酿自己版本的加密货币税收草案。 预计将“宜早不宜迟地”披露我们的计划。 可能会在秋季公之于众。",
-          "url": "https://wallstreetcn.com/livenews/3123668",
-          "source": "华尔街见闻-快讯",
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
+        },
+        {
+          "title": "韩乔生七旬老汉大战AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E4%B8%83%E6%97%AC%E8%80%81%E6%B1%89%E5%A4%A7%E6%88%98AI%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 12时06分]"
-        },
-        {
-          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时50分]"
-        },
-        {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
           "url": "https://wallstreetcn.com/articles/3775351",
@@ -456,67 +119,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
+        },
+        {
+          "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003422569800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 07时13分]"
-        },
-        {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时26分]"
-        },
-        {
-          "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3123642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "美股盘前，半导体股多数上涨，英特尔涨约2%，美光科技涨约3%，高通涨约3%，ARM涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3123895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "01时10分"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -525,9 +141,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -536,238 +152,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
-          "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3123636",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003209642800",
+          "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
-          "url": "https://wallstreetcn.com/livenews/3123683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "周二（6月23日），美股信息科技指数跌6.14%，报444.11点，跳空低开后持续低位窄幅震荡，成分股闪迪、美光、安森美半导体、高意公司Coherent、Credo跌13.64%-10.09%领跌，IBM涨5%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "全球航空业ETF美股盘初一度涨约3.4%，报32.24美元，创2020年1月份以来盘中新高，国际油价下跌有助于缓解航空燃油成本。",
-          "url": "https://wallstreetcn.com/livenews/3124095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "01时10分"
         },
         {
-          "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
-          "url": "https://wallstreetcn.com/livenews/3123632",
+          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
+          "url": "https://wallstreetcn.com/livenews/3124140",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "周二（6月23日），美股存储芯片与硬件供应链指数跌10.07%，报247.26点，跳空低开之后低位窄幅震荡。 成分股全线溃败，闪迪收跌13.6%，美光科技跌13.2%，拉姆研究跌9.3%，Rambus、应用材料、西部数据、泰瑞达至多跌8.6%，希捷科技跌5.1%。",
-          "url": "https://wallstreetcn.com/livenews/3123679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
-          "url": "https://wallstreetcn.com/livenews/3123630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
-          "url": "https://wallstreetcn.com/livenews/3123677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美股半导体股盘前普涨，美光科技(MU.O)、高通(QCOM.O)涨超3%，英特尔(INTC.O)、迈威尔科技(MRVL.O)涨约2%，AMD(AMD.O)涨1.5%。",
-          "url": "https://flash.jin10.com/detail/20260624160341350800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "联邦快递(FDX.N)美股盘后延续晚间跌势，现跌约6%。",
-          "url": "https://flash.jin10.com/detail/20260624045424480800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 22时44分]"
-        },
-        {
-          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 05时07分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "彭博美元指数创2025年11月份以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/3123590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美元指数涨超0.3%，一度创去年5月以来新高",
-          "url": "https://wallstreetcn.com/livenews/3123618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "01时10分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260624054152810800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "标普道琼斯指数：谷歌A(GOOGL.O)将于6月29日开盘前取代Verizon(VZ.N)，加入道琼斯工业指数。",
-          "url": "https://flash.jin10.com/detail/20260624052412130800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
+          "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
+          "url": "https://flash.jin10.com/detail/20260625002330921800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 19时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时10分"
         }
       ]
     },
@@ -780,11 +206,28 @@
           "url": "https://www.douyin.com/hot/2546511",
           "source": "抖音",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     }
