@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T02:10:09.537072+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-06-28T04:13:32.704004+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -37,25 +37,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
           "url": "https://www.cls.cn/detail/2410765",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -65,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -77,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -88,8 +89,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -105,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -116,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时13分]"
         }
       ]
     }
