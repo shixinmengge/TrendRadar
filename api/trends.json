@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T11:59:48.474405+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-06-27T15:24:43.768201+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 15时24分]"
         },
         {
           "title": "AI时代如何选专业",
@@ -47,17 +47,6 @@
           "time_info": "[01时56分 ~ 07时14分]"
         },
         {
-          "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260627112200280800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "纯中二?美官员把AI当英雄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
           "source": "贴吧",
@@ -65,11 +54,12 @@
             9,
             10,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 15时24分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
@@ -84,6 +74,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 11时59分]"
+        },
+        {
+          "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260627112200280800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -115,22 +117,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 15时24分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
           "url": "https://wallstreetcn.com/articles/3775658",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -139,20 +143,21 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
         },
         {
           "title": "韩国政府组建跨部门机构应对涉AI犯罪",
           "url": "https://wallstreetcn.com/livenews/3125531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
         },
         {
           "title": "Anthropic迈向与美国政府达成协议，解除对AI模型的限制。",
@@ -169,7 +174,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
@@ -202,7 +207,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -224,7 +229,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -246,15 +251,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -274,9 +290,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -285,9 +301,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -298,8 +314,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 15时24分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -319,9 +335,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时24分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "15时24分"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
