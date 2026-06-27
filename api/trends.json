@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T20:12:15.474366+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-06-27T22:47:16.753044+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[01时56分 ~ 22时47分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 22时47分]"
         },
         {
           "title": "AI时代如何选专业",
@@ -51,6 +64,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时56分 ~ 18时15分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 22时47分]"
+        },
+        {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时47分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -77,29 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时14分 ~ 20时12分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 20时12分]"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 20时12分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
@@ -152,18 +167,6 @@
           "time_info": "[01时56分 ~ 07时14分]"
         },
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时12分]"
-        },
-        {
           "title": "选AI专业还是被AI选",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%89AI%E4%B8%93%E4%B8%9A%E8%BF%98%E6%98%AF%E8%A2%ABAI%E9%80%89",
           "source": "bilibili 热搜",
@@ -201,8 +204,20 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时47分]"
+        },
         {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
           "url": "https://wallstreetcn.com/livenews/3125443",
@@ -216,15 +231,15 @@
           "time_info": "[03时59分 ~ 05时26分]"
         },
         {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时12分]"
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
@@ -318,8 +333,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 20时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 22时47分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -329,8 +344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 20时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 22时47分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -338,22 +353,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 20时12分]"
-        },
-        {
-          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 22时47分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -365,8 +370,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 22时47分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 05时26分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
