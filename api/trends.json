@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:23:42.046102+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-07-02T20:13:19.562383+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时03分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[02时03分 ~ 20时13分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -30,11 +30,12 @@
             10,
             16,
             15,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时03分 ~ 17时23分]"
+          "appearance_count": 10,
+          "time_info": "[02时03分 ~ 20时13分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -51,6 +52,30 @@
           "time_info": "[02时03分 ~ 08时15分]"
         },
         {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 20时13分]"
+        },
+        {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时15分 ~ 20时13分]"
+        },
+        {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
           "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
@@ -60,17 +85,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时03分 ~ 06时23分]"
-        },
-        {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "“大空头”伯里加码做空AI，称韩国芯片投资为“终结的开端”",
@@ -84,27 +98,16 @@
           "time_info": "13时04分"
         },
         {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时15分 ~ 17时23分]"
-        },
-        {
           "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
           "url": "https://wallstreetcn.com/articles/3775997",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 20时13分]"
         },
         {
           "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
@@ -142,6 +145,18 @@
           "time_info": "[13时03分 ~ 13时04分]"
         },
         {
+          "title": "AI已出现欺骗行为 联合国发出警告",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 20时13分]"
+        },
+        {
           "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
           "url": "https://www.zhihu.com/question/2055677703194403478",
           "source": "知乎",
@@ -159,9 +174,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "据了解讨论人工智能（AI）标准的知情人士透露，美国最快将于下周宣布所谓的自愿AI制度。（英国金融时报）",
@@ -175,15 +201,37 @@
           "time_info": "08时15分"
         },
         {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "Meta是否已在尖端AI竞赛中率先“投降”？华尔街纷纷热议！",
           "url": "https://www.cls.cn/detail/2414950",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
+          "url": "https://www.cls.cn/detail/2415001",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
@@ -195,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "AI已出现欺骗行为 联合国发出警告",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "英伟达通过收入分成方式与AI云公司合作",
@@ -225,7 +262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -252,6 +289,17 @@
           "time_info": "08时15分"
         },
         {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "华尔街分析师丹·艾夫斯离开韦德布什 创办AI投资银行",
           "url": "https://flash.jin10.com/detail/20260702033153805800",
           "source": "金十数据",
@@ -269,9 +317,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "市场大跌AI行情要结束了吗",
+          "url": "https://www.toutiao.com/trending/7657850303982603827/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
@@ -288,7 +358,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -338,6 +408,19 @@
           "time_info": "[02时03分 ~ 08时15分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 20时13分]"
+        },
+        {
           "title": "美股低开 算力租赁商、存储股大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -348,18 +431,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 04时51分]"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 17时23分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
@@ -398,6 +469,17 @@
           "time_info": "[04时51分 ~ 06时23分]"
         },
         {
+          "title": "美国6月非农一出，黄金、美元、美股可能这样走",
+          "url": "https://flash.jin10.com/detail/20260702195929462800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260702040533844800",
           "source": "金十数据",
@@ -426,7 +508,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -514,7 +596,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -713,7 +795,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         }
