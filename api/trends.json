@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:14:25.138316+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T03:23:38.512088+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
         }
       ]
     },
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 03时23分]"
         }
       ]
     }
