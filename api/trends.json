@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-07T12:58:56.026602+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-07T16:33:01.706261+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "【光库科技：预计上半年净利润同比增长170%-190%】光库科技公告，预计2026年上半年净利润为1.4亿元–1.5亿元，同比增长170%-190%。报告期内，受益于全球AI算力基础设施投资加速与数据中心建设，高速光模块及光器件市场需求持续增长，同时公司坚持技术创新，持续推出新产品，并积极拓展国内外新客户，营业收入实现稳步增长。",
+          "url": "https://wallstreetcn.com/livenews/3129842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
           "url": "https://wallstreetcn.com/articles/3776245",
@@ -19,6 +30,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 08时15分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 16时33分]"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -45,6 +68,29 @@
           "time_info": "[01时48分 ~ 08时15分]"
         },
         {
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 16时33分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -67,17 +113,6 @@
           "time_info": "[06时31分 ~ 08时15分]"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "AI预测葡萄牙vs西班牙赛果",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -89,24 +124,13 @@
           "time_info": "01时48分"
         },
         {
-          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
-          "url": "https://wallstreetcn.com/articles/3776296",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
           "url": "https://wallstreetcn.com/livenews/3129750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -117,7 +141,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -128,7 +152,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -191,8 +215,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 16时33分]"
+        },
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
@@ -204,18 +241,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时48分 ~ 08时15分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 12时58分]"
         },
         {
           "title": "美股收盘：三大股指收涨 芯片股走强",
@@ -238,6 +263,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 16时33分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
@@ -275,15 +312,15 @@
           "time_info": "[01时48分 ~ 04时07分]"
         },
         {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
+          "title": "美股盘前，存储概念股普跌，美光科技跌4.8%，闪迪跌超4%；康宁跌超2%，英特尔跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3129830",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "16时33分"
         },
         {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
@@ -361,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘前跌1.2%，此前该公司股票被纳入纳斯达克100指数，多家券商开始覆盖该股。",
+          "url": "https://flash.jin10.com/detail/20260707160217170800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
