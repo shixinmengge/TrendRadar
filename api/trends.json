@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:57:30.986054+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-07-07T22:56:06.662814+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时58分 ~ 19时57分]"
+        },
+        {
+          "title": "美股开盘涨跌不一，存储股下挫，西部数据跌超8%，油价涨近2%",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "美股收盘：三大股指收涨 芯片股走强",
@@ -92,6 +103,18 @@
           "time_info": "[01时48分 ~ 08时15分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时56分]"
+        },
+        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -101,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 04时07分]"
+        },
+        {
+          "title": "跌个不停！美股半导体连跌第四天",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "美股盘前，存储概念股普跌，美光科技跌4.8%，闪迪跌超4%；康宁跌超2%，英特尔跌超3%。",
@@ -114,17 +148,6 @@
           "time_info": "16时33分"
         },
         {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
           "url": "https://flash.jin10.com/detail/20260707074846278800",
           "source": "金十数据",
@@ -134,6 +157,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "美股低开低走，纳斯达克100指数跌超2%，费城半导体指数跌超6%，闪迪(SNDK.O)、西部数据(WDC.O)现均跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260707221630076800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美股芯片股持续走低，闪迪(SNDK.O)跌超11%，西部数据(WDC.O)跌近10%，美光科技(MU.O)<br/>、希捷科技(STX.O)跌超7%， 英伟达(NVDA.O)跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260707221359560800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
@@ -153,7 +198,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -208,7 +253,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -238,7 +283,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -249,8 +294,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 22时56分]"
         },
         {
           "title": "【光库科技：预计上半年净利润同比增长170%-190%】光库科技公告，预计2026年上半年净利润为1.4亿元–1.5亿元，同比增长170%-190%。报告期内，受益于全球AI算力基础设施投资加速与数据中心建设，高速光模块及光器件市场需求持续增长，同时公司坚持技术创新，持续推出新产品，并积极拓展国内外新客户，营业收入实现稳步增长。",
@@ -325,6 +370,18 @@
           "time_info": "[12时58分 ~ 16时33分]"
         },
         {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时56分]"
+        },
+        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -358,17 +415,6 @@
           "time_info": "01时48分"
         },
         {
-          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
-          "url": "https://wallstreetcn.com/articles/3776368",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
           "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
           "url": "https://wallstreetcn.com/livenews/3129750",
           "source": "华尔街见闻-快讯",
@@ -380,6 +426,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "“物质科学智能研发工厂”在上海落地，AI4S实现科研全流程无人干预",
+          "url": "https://wallstreetcn.com/livenews/3130047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
           "url": "https://flash.jin10.com/detail/20260707121237234800",
           "source": "金十数据",
@@ -389,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://wallstreetcn.com/livenews/3130042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
@@ -424,6 +492,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "报道：智谱考虑自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3130039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
           "url": "https://wallstreetcn.com/livenews/3129491",
           "source": "华尔街见闻-快讯",
@@ -446,6 +525,17 @@
           "time_info": "08时15分"
         },
         {
+          "title": "李开复：AI迈入决策时代，一号位主导推进AI将改善经营业绩表现",
+          "url": "https://wallstreetcn.com/livenews/3130028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
           "url": "https://wallstreetcn.com/livenews/3129433",
           "source": "华尔街见闻-快讯",
@@ -460,7 +550,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周一（7月6日）纽约尾盘，ICE美元指数涨0.02%，报100.876点，日内交投区间为101.145-100.840点，亚太盘初至北京时间18:06持续上扬，经过一段时间的高位窄幅震荡之后，从23:00开始回落。 彭博美元指数跌0.02%，报1218.84点，日内交投区间为1220.46-1218.60点。",
@@ -473,6 +563,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 06时31分]"
+        },
+        {
+          "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
+          "url": "https://www.cls.cn/detail/2419496",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
@@ -497,6 +598,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "美元指数DXY短线走高10点，向上触及101，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260707220801467800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
           "url": "https://wallstreetcn.com/livenews/3129560",
           "source": "华尔街见闻-快讯",
@@ -506,6 +618,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Alphabet旗下谷歌公司宣布，已向总部位于德国的Proxima Fusion提供4.11亿欧元（约合4.68亿美元）的融资，支持其建造欧洲首座商业聚变发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3130034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
