@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-07-09T15:48:14.693817+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-07-09T19:11:21.603705+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 19时11分]"
+        },
+        {
+          "title": "高盛重磅发声：做多中国AI价值链",
+          "url": "https://www.cls.cn/detail/2421215",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 19时11分]"
+        },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
           "url": "https://wallstreetcn.com/articles/3776428",
@@ -22,17 +48,17 @@
           "time_info": "[01时44分 ~ 15时48分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            22,
-            26
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 19时11分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -48,17 +74,6 @@
           "time_info": "[01时44分 ~ 15时48分]"
         },
         {
-          "title": "高盛重磅发声：做多中国AI价值链",
-          "url": "https://www.cls.cn/detail/2421215",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
           "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
           "url": "https://flash.jin10.com/detail/20260709070516668800",
           "source": "金十数据",
@@ -70,16 +85,27 @@
           "time_info": "07时15分"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
           "ranks": [
             7,
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时51分 ~ 15时48分]"
+          "time_info": "[15时47分 ~ 19时11分]"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -94,26 +120,16 @@
           "time_info": "[01时44分 ~ 07时15分]"
         },
         {
-          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
-          "url": "https://www.cls.cn/detail/2421292",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
           "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 19时11分]"
         },
         {
           "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
@@ -147,6 +163,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "科技股暴跌只是“健康回调”？美知名投行：AI主题拥有“绝对主导地位”！",
+          "url": "https://www.cls.cn/detail/2421277",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前跌1%，IBM(IBM.N)跌超3%，此前消息称，星巴克引入AI以减轻对微软等企业的依赖。",
+          "url": "https://flash.jin10.com/detail/20260709185725289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "工业富联：2026年上半年云服务商AI服务器营业收入同比增长超过230%",
+          "url": "https://wallstreetcn.com/livenews/3131285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -210,6 +259,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 19时11分]"
+        },
+        {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
           "url": "https://www.cls.cn/detail/2421032",
           "source": "财联社热门",
@@ -232,17 +293,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 15时48分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
