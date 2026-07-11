@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:57:21.888939+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-07-11T21:43:28.325543+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时03分 ~ 19时57分]"
+          "appearance_count": 10,
+          "time_info": "[07时03分 ~ 21时43分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -30,11 +30,12 @@
             4,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 19时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 21时43分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -77,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 19时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 21时43分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -86,11 +87,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 19时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 21时43分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -105,6 +107,19 @@
           "time_info": "[01时02分 ~ 05时11分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 21时43分]"
+        },
+        {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
@@ -114,18 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 07时04分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时57分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -243,7 +246,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -273,8 +276,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 19时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 21时43分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -302,6 +305,30 @@
           "time_info": "[01时02分 ~ 07时04分]"
         },
         {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时43分]"
+        },
+        {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
           "url": "https://wallstreetcn.com/articles/3776606",
           "source": "华尔街见闻",
@@ -326,18 +353,6 @@
           "time_info": "[11时18分 ~ 16时52分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时57分]"
-        },
-        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://www.toutiao.com/trending/7660829419656888339/",
           "source": "今日头条",
@@ -345,8 +360,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时43分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -392,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
