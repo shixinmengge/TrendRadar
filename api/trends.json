@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T03:13:50.846384+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-07-13T04:58:09.839851+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -48,8 +48,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
+        },
+        {
+          "title": "AI是如何“杀死”印度IT行业的",
+          "url": "https://www.toutiao.com/trending/7661654432722980388/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时13分]"
+          "time_info": "[04时57分 ~ 04时58分]"
         }
       ]
     },
@@ -65,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         }
       ]
     }
