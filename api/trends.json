@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T07:01:36.271902+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-12T08:05:44.748792+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -39,11 +39,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -53,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -66,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时05分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -106,8 +107,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -129,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -141,8 +142,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时05分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -154,8 +155,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时05分]"
         }
       ]
     },
@@ -173,8 +174,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时05分]"
         }
       ]
     }
