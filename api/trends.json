@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T17:57:58.594578+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-07-12T19:16:50.188786+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 17时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 19时16分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 17时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 19时16分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -100,11 +100,12 @@
           "ranks": [
             5,
             16,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 19时16分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -114,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 19时16分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 15时32分]"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
@@ -202,8 +214,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 17时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 19时16分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -256,9 +268,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时16分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
