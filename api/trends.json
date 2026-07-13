@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-13T11:33:45.110476+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-07-13T15:28:22.276474+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
           "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 11时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 15时28分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -60,9 +61,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时28分]"
+        },
+        {
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "15时28分"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -77,26 +89,60 @@
           "time_info": "[04时57分 ~ 07时02分]"
         },
         {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时28分]"
+        },
+        {
+          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
+          "url": "https://www.cls.cn/detail/2424084",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
           "url": "https://www.cls.cn/detail/2422793",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
+          "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
+          "url": "https://www.cls.cn/detail/2424076",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "15时28分"
+        },
+        {
+          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
+          "url": "https://www.cls.cn/detail/2424017",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "韩国央行看好AI驱动的芯片超级周期，驳斥“见顶”担忧",
@@ -105,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -124,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 11时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 15时28分]"
         },
         {
           "title": "苹果指控OpenAI偷窃商业机密",
@@ -134,7 +180,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -145,7 +191,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -153,7 +199,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
@@ -166,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "摩根士丹利策略师预计美股上涨范围将扩大 受盈利增长等因素提振",
+          "url": "https://wallstreetcn.com/livenews/3132678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
