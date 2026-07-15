@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-15T11:20:27.209526+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-07-15T14:21:05.271368+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 14时21分]"
+        },
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
@@ -44,17 +58,29 @@
           "time_info": "[00时23分 ~ 07时57分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7,
-            4
+            11,
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 11时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 14时21分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 14时21分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -67,19 +93,6 @@
             8,
             23,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 11时20分]"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -99,15 +112,26 @@
           "time_info": "[00时23分 ~ 07时57分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "金山办公将推出独立AI办公智能体灵犀专业版，率先上线PC端",
+          "url": "https://wallstreetcn.com/livenews/3134128",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "帮美国打伊朗，换来AI芯片“绿灯”！阿联酋与特朗普家族的利益交换浮出水面",
+          "url": "https://flash.jin10.com/detail/20260715135111358800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -121,6 +145,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 07时57分]"
+        },
+        {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 14时21分]"
+        },
+        {
+          "title": "WAIC 2026即将启幕",
+          "url": "https://search.bilibili.com/all?keyword=WAIC%202026%E5%8D%B3%E5%B0%86%E5%90%AF%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "AI生成图片被评摄影一等奖 官方通报",
@@ -176,17 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "AI短剧以假乱真了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
         },
         {
           "title": "美商务部官员：芯片和AI监管措施即将出台",
@@ -315,8 +362,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 14时21分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -327,8 +374,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 14时21分]"
+        },
+        {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 14时21分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -351,17 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -403,7 +450,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -542,7 +589,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
