@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T11:15:08.709338+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-07-16T14:24:31.969774+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -25,11 +25,24 @@
           "ranks": [
             15,
             16,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 11时15分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 14时24分]"
+        },
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -45,15 +58,16 @@
           "time_info": "[01时23分 ~ 07时02分]"
         },
         {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时24分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -89,18 +103,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 11时15分]"
-        },
-        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -118,22 +120,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时24分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "澳大利亚政府成立AI办公室",
@@ -143,8 +147,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时24分]"
+        },
+        {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时24分]"
         },
         {
           "title": "知网就AI署名论文发声明",
@@ -178,17 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2060770809543758786",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
           "title": "第一批用AI的受害者出现了",
@@ -230,7 +235,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -241,7 +246,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -252,7 +257,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -263,9 +268,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "日本机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
+          "url": "https://wallstreetcn.com/livenews/3134812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -290,6 +306,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "苹果、三星通过人工智能服务备案，知情人士：百度均系AI合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3134805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3134540",
           "source": "华尔街见闻-快讯",
@@ -307,7 +334,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -354,6 +381,17 @@
           "time_info": "[01时23分 ~ 11时15分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时24分]"
+        },
+        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -377,17 +415,6 @@
           "time_info": "[05时06分 ~ 07时02分]"
         },
         {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2427604",
           "source": "财联社热门",
@@ -408,8 +435,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时24分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
@@ -540,8 +567,20 @@
     },
     {
       "keyword_group": "谷歌 google",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时24分]"
+        },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
           "url": "https://wallstreetcn.com/livenews/3134609",
@@ -567,17 +606,6 @@
           "time_info": "[05时06分 ~ 07时02分]"
         },
         {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
           "url": "https://www.cls.cn/detail/2427717",
           "source": "财联社热门",
@@ -598,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
