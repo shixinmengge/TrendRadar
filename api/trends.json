@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T15:22:45.270322+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-07-17T18:06:08.618983+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -41,6 +41,17 @@
           "time_info": "[02时11分 ~ 06时08分]"
         },
         {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
           "title": "AI站稳产业圈顶流C位",
           "url": "https://www.douyin.com/hot/2574370",
           "source": "抖音",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 15时22分]"
+        },
+        {
+          "title": "16位诺贝尔奖得主联名发出AI警告",
+          "url": "https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%8D%E5%8F%91%E5%87%BAAI%E8%AD%A6%E5%91%8A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -71,7 +93,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -100,6 +122,17 @@
           "time_info": "[00时22分 ~ 08时03分]"
         },
         {
+          "title": "优刻得与上海理工在WAIC 2026发布“太空算力”样机",
+          "url": "https://wallstreetcn.com/livenews/3135636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
           "url": "https://www.cls.cn/detail/2428882",
           "source": "财联社热门",
@@ -109,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "AI Agent开始协作：阶跃与支付宝互通解决“最后一步”",
+          "url": "https://wallstreetcn.com/livenews/3135628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "美联储洛根：长期来看对人工智能带来的生产率提升非常乐观。但目前AI投资需求强劲且真实存在，短期内会带来通胀压力。",
@@ -132,6 +176,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时08分 ~ 12时13分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 18时06分]"
         },
         {
           "title": "财晓得｜中国AI跑出加速度背后的四重底气",
@@ -160,16 +217,60 @@
           "time_info": "[04时05分 ~ 08时03分]"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时06分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时06分]"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时06分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 15时22分]"
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
+          "title": "周鸿祎：中国AI正在下一盘大棋",
+          "url": "https://www.toutiao.com/trending/7663347841623936558/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
         },
         {
           "title": "美国银行CEO加入华尔街高管之列，警示Mythos等AI模型风险",
@@ -203,6 +304,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "千问AI眼镜将升级为智能体眼镜",
+          "url": "https://wallstreetcn.com/livenews/3135623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "AI估值担忧加剧 欧洲信用违约保障成本上升",
+          "url": "https://flash.jin10.com/detail/20260717174120946800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "奈飞：AI将让电影（质量）变得更好，但不会取代人类。",
@@ -249,17 +372,6 @@
           "time_info": "06时08分"
         },
         {
-          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
-          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "xAI在Gro推出自动化功能。",
           "url": "https://wallstreetcn.com/livenews/3135280",
           "source": "华尔街见闻-快讯",
@@ -293,28 +405,6 @@
           "time_info": "06时08分"
         },
         {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "AI行情结束了吗？锂电新周期来了？最新研判释放重要信号",
           "url": "https://flash.jin10.com/detail/20260717113104697800",
           "source": "金十数据",
@@ -337,13 +427,24 @@
           "time_info": "12时13分"
         },
         {
+          "title": "《上海市进一步推动“AI+制造”发展的若干措施》印发",
+          "url": "https://wallstreetcn.com/livenews/3135599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "投资者撤离AI股 全球市场遭遇重挫",
           "url": "https://flash.jin10.com/detail/20260717145040499800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -354,7 +455,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -376,7 +477,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -387,6 +488,18 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 18时06分]"
+        },
+        {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
@@ -396,17 +509,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 06时08分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 15时22分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -773,11 +875,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 18时06分]"
         }
       ]
     },
