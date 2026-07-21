@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:26:32.925775+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-07-21T23:10:18.546413+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -51,6 +51,20 @@
           "time_info": "[02时10分 ~ 18时31分]"
         },
         {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 23时10分]"
+        },
+        {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
           "url": "https://www.cls.cn/detail/2432010",
           "source": "财联社热门",
@@ -60,6 +74,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 15时37分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 23时10分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -72,19 +98,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 08时02分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 20时26分]"
         },
         {
           "title": "AI的猴子为什么能让菲律宾“破防”",
@@ -159,18 +172,6 @@
           "time_info": "[12时18分 ~ 18时31分]"
         },
         {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 18时31分]"
-        },
-        {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
           "url": "https://www.zhihu.com/question/2062518030224061737",
           "source": "知乎",
@@ -189,9 +190,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "科威特外交部：科威特已就伊朗周一在霍尔木兹海峡袭击科威特油轮“KAIFAN”号一事召见伊朗大使，提出抗议。",
+          "url": "https://flash.jin10.com/detail/20260721224247956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "AI耗电激增与高温炙烤下 美国电网迎极限考验",
@@ -261,6 +273,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "首部AI长剧要来了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "AI 的「最后一公里」，还要走多久？",
@@ -357,7 +391,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -398,7 +432,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -406,11 +440,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 20时26分]"
+          "appearance_count": 11,
+          "time_info": "[08时01分 ~ 23时10分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -448,6 +483,17 @@
           "time_info": "[02时10分 ~ 04时26分]"
         },
         {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "90后清华天才 干崩了美股",
           "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
@@ -459,6 +505,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时36分 ~ 20时26分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -576,6 +633,17 @@
           "time_info": "[12时18分 ~ 12时19分]"
         },
         {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "美股股指期货走强，纳指期货涨超1%，道指期货涨0.27%，标普500指数期货涨0.4%。",
           "url": "https://flash.jin10.com/detail/20260721115127423800",
           "source": "金十数据",
@@ -593,7 +661,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -615,7 +683,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -626,7 +694,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -648,7 +716,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -659,6 +727,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 23时10分]"
+        },
+        {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
           "source": "财联社热门",
@@ -668,18 +748,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 15时37分]"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 20时26分]"
         },
         {
           "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
@@ -717,11 +785,12 @@
             6,
             10,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 20时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 23时10分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
