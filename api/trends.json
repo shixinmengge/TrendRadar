@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T01:06:32.854432+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T03:17:14.193874+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -48,52 +48,67 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
           "url": "https://www.zhihu.com/question/2064272326489628784",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
           "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
           "url": "https://www.toutiao.com/trending/7666381434109578761/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时17分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -103,8 +118,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时17分]"
         }
       ]
     },
@@ -120,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -131,19 +146,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
           "url": "https://www.toutiao.com/trending/7666447099256376875/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -153,8 +169,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时17分]"
         }
       ]
     }
