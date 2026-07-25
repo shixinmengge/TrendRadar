@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:07:33.923956+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-25T11:18:58.065919+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 07时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 11时18分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 07时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 11时18分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -52,6 +54,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 05时11分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
@@ -123,6 +136,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "Anthropic宣布推出Opus 5 AI模型，其性能接近前沿智能水平的 Fable 5，但价格仅为其一半。",
           "url": "https://flash.jin10.com/detail/20260725010125721800",
           "source": "金十数据",
@@ -132,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将在AI封装技术领域与Lens Tech合作。",
@@ -154,12 +189,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
+          "url": "https://wallstreetcn.com/livenews/3139690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -185,13 +231,24 @@
           "time_info": "[01时43分 ~ 05时11分]"
         },
         {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -202,9 +259,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -255,13 +323,24 @@
           "time_info": "[05时11分 ~ 07时07分]"
         },
         {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
           "url": "https://wallstreetcn.com/livenews/3139661",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -275,6 +354,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 11时18分]"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 01时44分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
+          "url": "https://wallstreetcn.com/livenews/3139562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
@@ -329,57 +471,6 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 07时07分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
-          "url": "https://wallstreetcn.com/livenews/3139562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
-          "url": "https://wallstreetcn.com/livenews/3139592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -390,7 +481,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
