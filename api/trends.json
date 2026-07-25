@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T14:23:45.671606+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-07-25T17:04:32.301086+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时04分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -68,28 +68,6 @@
           "time_info": "[01时43分 ~ 05时11分]"
         },
         {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
           "url": "https://flash.jin10.com/detail/20260725010418061800",
           "source": "金十数据",
@@ -99,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -125,6 +92,55 @@
           "time_info": "[03时38分 ~ 07时07分]"
         },
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时04分]"
+        },
+        {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 17时04分]"
+        },
+        {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 17时04分]"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 17时04分]"
+        },
+        {
           "title": "AI重现狼牙山五壮士英雄壮举",
           "url": "https://www.toutiao.com/trending/7666058970050183209/",
           "source": "今日头条",
@@ -137,16 +153,16 @@
           "time_info": "[01时43分 ~ 05时11分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
           "ranks": [
-            8,
-            6
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时23分]"
+          "time_info": "[14时23分 ~ 17时04分]"
         },
         {
           "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
@@ -222,7 +238,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -233,7 +249,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -244,18 +260,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -266,7 +271,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -288,7 +293,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -304,13 +309,24 @@
           "time_info": "11时18分"
         },
         {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
           "url": "https://flash.jin10.com/detail/20260725123126272800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
@@ -348,11 +364,12 @@
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时04分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -362,8 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时04分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -393,11 +410,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 17时04分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
