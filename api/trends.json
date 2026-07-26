@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T02:05:20.535794+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-27T04:15:13.369571+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -15,19 +15,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
+          "url": "https://flash.jin10.com/detail/20260727034241267800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "04时15分"
         },
         {
           "title": "AI还要跌多久",
@@ -37,41 +49,54 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
           "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
+            8,
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
           "url": "https://www.douyin.com/hot/2586099",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 04时15分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -81,15 +106,15 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 04时15分]"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
           "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -109,8 +134,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -120,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 04时15分]"
         },
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
@@ -131,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时15分]"
         }
       ]
     }
