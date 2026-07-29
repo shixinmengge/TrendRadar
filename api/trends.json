@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T01:21:17.403366+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T03:26:19.872301+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -26,19 +26,54 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -63,39 +98,6 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
-        },
-        {
           "title": "AI手机大战全面开打",
           "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
           "source": "百度热搜",
@@ -107,13 +109,24 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
+          "title": "美联储主席沃什：高科技（企业的）资本开支激增的现象非常突出。 资本开支为未来的（美国经济）增长做铺垫。 资本开支对供给侧影响的时间点是难以预料的。 资本开支繁荣正推高AI基础设施的价格。",
+          "url": "https://wallstreetcn.com/livenews/3141843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
           "url": "https://wallstreetcn.com/livenews/3141783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -131,8 +144,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -142,19 +155,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2440482",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
@@ -163,7 +177,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -174,7 +188,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -185,7 +199,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -196,7 +210,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -213,7 +227,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -224,7 +238,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -235,7 +249,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -252,7 +266,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -263,7 +277,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -280,7 +294,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
