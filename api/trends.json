@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T02:21:37.264632+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-31T06:12:45.734401+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -36,9 +36,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -49,41 +61,98 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
           "url": "https://www.cls.cn/detail/2441830",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时21分]"
-        },
-        {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778263",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 06时12分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
+          "url": "https://flash.jin10.com/detail/20260731054211887800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "06时12分"
+        },
+        {
+          "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
+          "url": "https://wallstreetcn.com/livenews/3142662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
+          "url": "https://www.cls.cn/detail/2441965",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
@@ -106,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：越来越多公司选择Mac以利用设备端AI优势。",
+          "url": "https://flash.jin10.com/detail/20260731052605982800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
@@ -121,8 +201,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时12分]"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -142,7 +222,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -153,7 +233,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -164,7 +244,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -192,7 +272,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -203,7 +283,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -214,7 +294,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -225,7 +305,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -244,7 +324,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -257,13 +337,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 02时21分]"
+        },
+        {
+          "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3142660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260731053830299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3142637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
           "url": "https://wallstreetcn.com/livenews/3142587",
@@ -271,7 +406,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         }
