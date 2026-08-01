@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T07:08:52.165519+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-01T11:31:39.717495+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -18,6 +18,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 07时08分]"
+        },
+        {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
+        },
+        {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -40,20 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
-        },
-        {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -61,23 +75,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
-        },
-        {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -86,9 +89,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 11时31分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -108,17 +123,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -175,13 +179,25 @@
           "time_info": "[01时46分 ~ 05时13分]"
         },
         {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 11时31分]"
+        },
+        {
           "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
           "url": "https://wallstreetcn.com/livenews/3143503",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -197,15 +213,15 @@
           "time_info": "05时13分"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
+          "title": "达利欧称 AI 资产泡沫特征已显现，80 年一次大周期已进尾声，这一说法有哪些依据？AI 热还能持续多久？",
+          "url": "https://www.zhihu.com/question/2066610469444347106",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "11时31分"
         },
         {
           "title": "华尔街AI股神高杠杆爆仓出局",
@@ -214,7 +230,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -222,7 +238,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -234,8 +250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -255,11 +271,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -290,11 +307,12 @@
           "url": "https://www.cls.cn/detail/2443155",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 11时31分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -306,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美股三大股指全线收涨",
+          "url": "https://www.douyin.com/hot/2592807",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
@@ -358,7 +387,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -366,7 +395,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
@@ -393,13 +422,24 @@
           "time_info": "[05时13分 ~ 07时08分]"
         },
         {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "报道：OpenAI本周预览了AI模型Astra",
           "url": "https://wallstreetcn.com/livenews/3143500",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -415,6 +455,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3143530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
           "url": "https://wallstreetcn.com/livenews/3143443",
           "source": "华尔街见闻-快讯",
@@ -424,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美媒：OpenAI筹备发布新模型系列Astra，主打多智能体长周期任务协同",
+          "url": "https://flash.jin10.com/detail/20260801095559987800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
@@ -488,7 +550,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -499,7 +561,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -527,7 +589,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -538,7 +600,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
