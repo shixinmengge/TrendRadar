@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:14:08.453498+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-03T06:01:32.468686+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -74,8 +75,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -99,11 +100,12 @@
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时01分]"
         }
       ]
     },
@@ -120,8 +122,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         }
       ]
     },
@@ -138,8 +140,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时01分]"
         }
       ]
     }
