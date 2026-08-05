@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T19:26:09.825538+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-08-05T22:22:41.324346+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 22时22分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -27,11 +27,12 @@
             12,
             15,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时54分 ~ 19时26分]"
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 22时22分]"
         },
         {
           "title": "AI做的动物尺度太大了",
@@ -39,11 +40,24 @@
           "source": "微博",
           "ranks": [
             5,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时22分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时22分]"
         },
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
@@ -77,6 +91,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时22分]"
         },
         {
           "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
@@ -160,27 +187,16 @@
           "time_info": "[01时54分 ~ 07时08分]"
         },
         {
-          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
-          "url": "https://www.cls.cn/detail/2446218",
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时26分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时26分]"
+          "time_info": "[19时25分 ~ 22时22分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -194,17 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时54分 ~ 07时08分]"
-        },
-        {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
@@ -250,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
+          "url": "https://www.zhihu.com/question/2068056227817284742",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "马斯克：预计首批Starmind AI卫星将于明年开始发射升空。",
@@ -393,12 +409,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "影石GO Ultra AI语音助手将延期推出",
+          "url": "https://wallstreetcn.com/livenews/3145415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -464,7 +491,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -475,7 +502,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -490,6 +517,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 10时56分]"
+        },
+        {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "随着金价接近一个月高点，美股黄金矿商盘前上涨。纽蒙特矿业(NEM.N)涨3.5%，金田(GFI.N)涨5.4%，哈莫尼黄金(HMY.N)涨4.6%。SPDR黄金ETF涨2.1%。",
@@ -509,9 +547,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -531,7 +580,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -556,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "美股三大股指小幅高开 SpaceX盘初大跌市值蒸发2050亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
@@ -594,7 +654,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
@@ -631,6 +691,17 @@
           "time_info": "[13时52分 ~ 16时45分]"
         },
         {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
           "url": "https://wallstreetcn.com/livenews/3144861",
           "source": "华尔街见闻-快讯",
@@ -645,7 +716,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数4日下跌",
@@ -657,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨超1%，处于连续第九个交易日上涨之中，报103.50美元，逼近6月1日顶部108.03美元和2025年9月顶部117.97美元（历史最高位）。",
+          "url": "https://wallstreetcn.com/livenews/3145429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     }
