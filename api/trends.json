@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T07:08:39.962051+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-08-05T10:56:26.272771+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "黄仁勋：马斯克是AI竞赛的赢家，基于基础设施的“算力数学”使然",
@@ -63,6 +74,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
+          "url": "https://www.cls.cn/detail/2445817",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "富国银行：AI投资热潮将外溢推动传统工业股上涨",
           "url": "https://flash.jin10.com/detail/20260805033017618800",
           "source": "金十数据",
@@ -74,18 +96,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时08分]"
-        },
-        {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
           "url": "https://wallstreetcn.com/articles/3778632",
           "source": "华尔街见闻",
@@ -95,15 +105,28 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 10时56分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 10时56分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -146,6 +169,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
+          "url": "https://www.zhihu.com/question/2067572483331291076",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "马斯克：预计首批Starmind AI卫星将于明年开始发射升空。",
           "url": "https://flash.jin10.com/detail/20260805044446076800",
           "source": "金十数据",
@@ -185,7 +219,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -218,7 +252,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -248,7 +282,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -277,11 +311,23 @@
           "url": "https://www.cls.cn/detail/2445760",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时56分]"
+        },
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "10时56分"
         },
         {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
@@ -292,8 +338,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 10时56分]"
+        },
+        {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -324,7 +381,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -335,7 +392,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -372,11 +429,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 10时56分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
