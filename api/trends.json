@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T15:44:33.427376+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-08-06T18:45:51.846679+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -31,13 +31,24 @@
           "time_info": "[00时46分 ~ 02时27分]"
         },
         {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "字节跳动整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力",
           "url": "https://flash.jin10.com/detail/20260806154059601800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -90,6 +101,18 @@
           "time_info": "[00时46分 ~ 08时04分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 18时45分]"
+        },
+        {
           "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
           "url": "https://www.cls.cn/detail/2446788",
           "source": "财联社热门",
@@ -102,24 +125,13 @@
           "time_info": "[08时04分 ~ 15时44分]"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 15时44分]"
-        },
-        {
           "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -144,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "外资机构密集发声，AI资本开支拐点隐现",
@@ -179,13 +202,24 @@
           "time_info": "12时18分"
         },
         {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
           "source": "百度热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -207,7 +241,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -221,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美议员拟推出“数据中心权利法案”遏制AI基建扩张",
+          "url": "https://flash.jin10.com/detail/20260806180930334800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
@@ -265,12 +310,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "同事用AI半天干了我一周的活",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%8C%E4%BA%8B%E7%94%A8AI%E5%8D%8A%E5%A4%A9%E5%B9%B2%E4%BA%86%E6%88%91%E4%B8%80%E5%91%A8%E7%9A%84%E6%B4%BB&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "认错比谁都快 这届用户被AI气笑了",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A4%E9%94%99%E6%AF%94%E8%B0%81%E9%83%BD%E5%BF%AB+%E8%BF%99%E5%B1%8A%E7%94%A8%E6%88%B7%E8%A2%ABAI%E6%B0%94%E7%AC%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -309,6 +387,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 12时18分]"
+        },
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -445,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
@@ -609,7 +709,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -631,7 +731,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
