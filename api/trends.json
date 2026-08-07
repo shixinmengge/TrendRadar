@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:59:19.985616+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-08-07T19:53:00.611051+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -15,11 +15,12 @@
             8,
             7,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 19时53分]"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -56,6 +57,20 @@
           "time_info": "[08时07分 ~ 15时25分]"
         },
         {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            27,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时53分]"
+        },
+        {
           "title": "戚薇AI短剧 雷霆视角",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -82,17 +97,65 @@
           "time_info": "[13时45分 ~ 17时06分]"
         },
         {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时53分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            27,
-            23
+            9,
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时59分]"
+          "time_info": "[17时06分 ~ 19时53分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时53分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时53分]"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时53分]"
         },
         {
           "title": "戚薇用AI解锁末世",
@@ -142,16 +205,15 @@
           "time_info": "[11时54分 ~ 13时45分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时59分]"
+          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
@@ -174,17 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时59分]"
         },
         {
           "title": "AI复原文人笔下的立秋",
@@ -220,15 +271,15 @@
           "time_info": "[15时24分 ~ 15时25分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "非洲开发者更愿用中国AI模型说明啥",
+          "url": "https://www.toutiao.com/trending/7671214313847131702/",
+          "source": "今日头条",
           "ranks": [
-            7
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
@@ -251,28 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "美科学家用AI设计出病毒意味着什么",
@@ -336,7 +365,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
@@ -354,8 +383,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时07分 ~ 18时59分]"
+          "appearance_count": 10,
+          "time_info": "[08时07分 ~ 19时53分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -375,11 +404,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时53分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
