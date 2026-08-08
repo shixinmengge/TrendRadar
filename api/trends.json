@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T22:38:01.996219+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-08-08T23:36:24.068359+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时02分 ~ 22时38分]"
+          "appearance_count": 14,
+          "time_info": "[15时02分 ~ 23时36分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -26,11 +26,28 @@
           "source": "贴吧",
           "ranks": [
             28,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时39分 ~ 22时38分]"
+          "appearance_count": 11,
+          "time_info": "[18时39分 ~ 23时36分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时41分 ~ 23时36分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -46,21 +63,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时03分 ~ 13时04分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时41分 ~ 22时38分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -111,22 +113,25 @@
           "time_info": "[04时48分 ~ 21时00分]"
         },
         {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时59分 ~ 23时36分]"
+        },
+        {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
           "url": "https://news.ifeng.com/c/8vOieX1f4iR",
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 07时39分]"
-        },
-        {
-          "title": "国民党推出AI发言人“郑小文”迎战民进党",
-          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -142,8 +147,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时59分 ~ 22时38分]"
+          "appearance_count": 7,
+          "time_info": "[20时59分 ~ 23时36分]"
+        },
+        {
+          "title": "国民党推出AI发言人“郑小文”迎战民进党",
+          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时39分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -160,17 +176,18 @@
           "time_info": "[09时59分 ~ 15时02分]"
         },
         {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
           "ranks": [
-            22,
-            23,
-            12
+            5,
+            11,
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时59分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 23时36分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -183,19 +200,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 05时45分]"
-        },
-        {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时00分 ~ 22时38分]"
         },
         {
           "title": "戚薇谈把脸交给AI",
@@ -269,6 +273,30 @@
           "time_info": "[13时04分 ~ 16时50分]"
         },
         {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时36分]"
+        },
+        {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时36分]"
+        },
+        {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
           "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
@@ -291,17 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 13时04分]"
-        },
-        {
-          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
-          "url": "https://www.cls.cn/detail/2449139",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
@@ -328,17 +345,6 @@
           "time_info": "[21时00分 ~ 21时53分]"
         },
         {
-          "title": "当AI反过来问你问题",
-          "url": "https://www.douyin.com/hot/2600930",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
-        },
-        {
           "title": "AI大模型迈向分时定价",
           "url": "https://wallstreetcn.com/livenews/3146821",
           "source": "华尔街见闻-快讯",
@@ -348,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -406,11 +423,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时59分 ~ 22时38分]"
+          "appearance_count": 19,
+          "time_info": "[09时59分 ~ 23时36分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -424,8 +442,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时03分 ~ 22时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时03分 ~ 23时36分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -439,8 +457,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时43分 ~ 22时38分]"
+          "appearance_count": 21,
+          "time_info": "[06时43分 ~ 23时36分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -598,22 +616,24 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时00分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 23时36分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时36分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -656,8 +676,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时52分 ~ 22时38分]"
+          "appearance_count": 5,
+          "time_info": "[21时52分 ~ 23时36分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
