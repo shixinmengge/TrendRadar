@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T07:35:16.836668+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-09T10:08:02.531651+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -62,11 +62,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -75,11 +76,12 @@
           "ranks": [
             16,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -97,6 +99,17 @@
           "time_info": "[01时36分 ~ 07时35分]"
         },
         {
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
           "url": "https://wallstreetcn.com/articles/3778982",
           "source": "华尔街见闻",
@@ -110,6 +123,29 @@
           "time_info": "[04时37分 ~ 07时35分]"
         },
         {
+          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
+          "url": "https://wallstreetcn.com/articles/3778990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 10时08分]"
+        },
+        {
+          "title": "AI帮你开发以前要花钱的功能",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 10时08分]"
+        },
+        {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
           "url": "https://wallstreetcn.com/articles/3778983",
           "source": "华尔街见闻",
@@ -121,15 +157,37 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
-          "url": "https://wallstreetcn.com/articles/3778990",
+          "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
+          "url": "https://wallstreetcn.com/articles/3778989",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
+          "url": "https://www.zhihu.com/question/2069446019272724909",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "苹果AI 千问",
@@ -141,17 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "AI帮你开发以前要花钱的功能",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -168,7 +215,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -178,8 +225,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -190,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -204,6 +251,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 07时35分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         }
       ]
     },
@@ -220,11 +278,12 @@
             8,
             7,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -233,11 +292,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 10时08分]"
         }
       ]
     },
@@ -254,11 +314,12 @@
             9,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时08分]"
         }
       ]
     }
