@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T04:40:14.245194+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-08-10T05:38:59.716549+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
-        },
-        {
-          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
-          "url": "https://wallstreetcn.com/livenews/3147116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -38,8 +27,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时38分]"
+        },
+        {
+          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+          "url": "https://wallstreetcn.com/livenews/3147116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "网民AI造谣“西平灭门案”被行拘",
@@ -49,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -60,8 +61,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -69,22 +70,24 @@
           "source": "知乎",
           "ranks": [
             19,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时50分 ~ 04时40分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 05时38分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
           "url": "https://wallstreetcn.com/livenews/3147103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -112,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -123,8 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -134,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 05时38分]"
         }
       ]
     }
