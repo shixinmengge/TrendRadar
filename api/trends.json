@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T21:03:10.655416+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-08-09T22:40:58.292413+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -38,11 +38,12 @@
             10,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 22时40分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -68,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 21时03分]"
+          "appearance_count": 24,
+          "time_info": "[00时40分 ~ 22时40分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -83,11 +84,12 @@
             12,
             13,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 21时03分]"
+          "appearance_count": 24,
+          "time_info": "[00时40分 ~ 22时40分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -129,6 +131,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时51分 ~ 21时03分]"
+        },
+        {
+          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+          "url": "https://wallstreetcn.com/livenews/3147116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -277,9 +290,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "网民AI造谣“西平灭门案”被行拘",
+          "url": "https://www.toutiao.com/trending/7671970111683969066/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "70亿token做出AI督学军官",
+          "url": "https://search.bilibili.com/all?keyword=70%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%86%9B%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
+          "url": "https://wallstreetcn.com/livenews/3147103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "苹果AI国行版上线官网",
@@ -330,8 +376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 22时40分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -384,8 +430,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 22时40分]"
         },
         {
           "title": "一边买黄金，一边买美股",
