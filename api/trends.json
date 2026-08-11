@@ -1,548 +1,160 @@
 {
-  "generated_at": "2026-08-11T23:04:38.533358+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-08-12T01:28:37.176487+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 13,
       "titles": [
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
+          "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3148181",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 23时04分]"
-        },
-        {
-          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
-          "url": "https://wallstreetcn.com/articles/3779065",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 13时56分]"
-        },
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 15时18分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 23时04分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 23时04分]"
-        },
-        {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            9,
-            5,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 23时04分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 23时04分]"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 23时04分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 19时50分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 23时04分]"
-        },
-        {
-          "title": "AI挤占短剧业,真人演员遭偷家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 13时56分]"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 21时19分]"
-        },
-        {
-          "title": "AI在黎曼猜想上做出了什么突破",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时18分]"
-        },
-        {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            13,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 23时04分]"
-        },
-        {
-          "title": "字节跳动新成立AI数据与安全部门",
-          "url": "https://flash.jin10.com/detail/20260811183836039800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时44分]"
+          "time_info": "01时28分"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
           "source": "财联社热门",
           "ranks": [
-            9,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时18分 ~ 23时04分]"
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
-          "title": "TaiLung被永久禁赛有何内幕",
-          "url": "https://search.bilibili.com/all?keyword=TaiLung%E8%A2%AB%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B5%9B%E6%9C%89%E4%BD%95%E5%86%85%E5%B9%95",
-          "source": "bilibili 热搜",
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "01时28分"
         },
         {
-          "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
-          "url": "https://flash.jin10.com/detail/20260811041811135800",
-          "source": "金十数据",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
           "ranks": [
-            1,
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
-          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
-          "url": "https://wallstreetcn.com/livenews/3147686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
-          "url": "https://wallstreetcn.com/livenews/3147680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
-          "url": "https://flash.jin10.com/detail/20260811044638936800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时44分]"
-        },
-        {
-          "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
-          "url": "https://wallstreetcn.com/livenews/3147615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "英伟达：AI实验室与AI初创公司都需要计算。",
-          "url": "https://wallstreetcn.com/livenews/3147696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时44分]"
-        },
-        {
-          "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
-          "url": "https://www.zhihu.com/question/2066610730116421630",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。 对于新一轮人工智能融资计划，无人拒绝。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3147688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时44分]"
-        },
-        {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.toutiao.com/trending/7672253690623508506/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
-          "url": "https://flash.jin10.com/detail/20260811115612569800",
-          "source": "金十数据",
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "01时28分"
         },
         {
-          "title": "强瑞技术：拟定增募资不超过10.5亿元 用于AI服务器精密液冷部件等项目",
-          "url": "https://flash.jin10.com/detail/20260811193754160800",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
+          "url": "https://flash.jin10.com/detail/20260812005839889800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "01时28分"
         },
         {
-          "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3147688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "巴克莱仍偏好美国成长股和大型股 因AI支出支撑业绩",
-          "url": "https://wallstreetcn.com/livenews/3147906",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceXAI：推出Grok Bot聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260812005621568800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "01时28分"
         },
         {
-          "title": "据The Information：英伟达(NVDA.O)正在开发一款新的Nemotron 4开源AI模型。",
-          "url": "https://flash.jin10.com/detail/20260811210245641800",
-          "source": "金十数据",
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "01时28分"
         },
         {
-          "title": "理想第二代AI眼镜预计明年下半年上市",
-          "url": "https://wallstreetcn.com/livenews/3147904",
-          "source": "华尔街见闻-快讯",
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "01时28分"
         },
         {
-          "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
-          "url": "https://flash.jin10.com/detail/20260811042651352800",
-          "source": "金十数据",
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
           "ranks": [
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "IBM与Together AI签署2.4亿美元云服务协议",
-          "url": "https://wallstreetcn.com/livenews/3148066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
-          "url": "https://flash.jin10.com/detail/20260811002725586800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "Meta发布可单卡运行轻量AI模型，扎克伯格描绘“个人赋能新时代”",
-          "url": "https://wallstreetcn.com/livenews/3147602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "ai漫剧顶流已经出了8季了",
-          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成某种安排”，SK海力士在华扩产，工业富联AI算力利润翻倍 | Plus日报",
-          "url": "https://flash.jin10.com/detail/20260811222213183800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3148057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "AI服务器抢内存为何要买手机的人买单",
-          "url": "https://www.toutiao.com/trending/7672398009455349311/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "智光电气：网传完成英伟达AIDC BESS自测等消息不属实",
-          "url": "https://wallstreetcn.com/livenews/3147990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：不希望失业率升至非加速通胀失业率（NAIRU）水平之上。 我们需要经济增长放缓，劳动市场的紧俏程度也需要降低。 我们很有可能还需要再次升息。 房市下滑不会对金融稳定构成重大风险。 委员会所有成员至少都对通胀有些担忧。",
-          "url": "https://wallstreetcn.com/livenews/3147884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
-          "url": "https://flash.jin10.com/detail/20260811111212869800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -552,495 +164,92 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 23时04分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时18分]"
-        },
-        {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时44分 ~ 15时18分]"
-        },
-        {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时49分]"
-        },
-        {
-          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3148081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3147690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
-          "url": "https://wallstreetcn.com/livenews/3147685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "Hims & Hers美股盘后涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3147682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
-          "url": "https://wallstreetcn.com/livenews/3147681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
-          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20260811004521998800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040544089800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004311524800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040524679800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时49分]"
+          "time_info": "01时28分"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260811004202641800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "01时28分"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
-          "url": "https://flash.jin10.com/detail/20260811040205708800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
-          "url": "https://wallstreetcn.com/livenews/3148059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超1%，公用事业ETF、全球航空业ETF涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3148104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3148099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
-          "url": "https://wallstreetcn.com/livenews/3147639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时44分]"
-        },
-        {
-          "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
-          "url": "https://flash.jin10.com/detail/20260811005217914800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
-          "url": "https://flash.jin10.com/detail/20260811005211685800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
-          "url": "https://flash.jin10.com/detail/20260811005131000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "OpenAI回购70亿美元员工股份",
-          "url": "https://wallstreetcn.com/livenews/3147697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时44分]"
-        },
-        {
-          "title": "据悉OpenAI回购70亿美元员工股份",
-          "url": "https://flash.jin10.com/detail/20260811044344828800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时44分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
-          "url": "https://wallstreetcn.com/livenews/3147635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
-          "url": "https://flash.jin10.com/detail/20260811012108617800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
-          "url": "https://flash.jin10.com/detail/20260811210808524800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "雅培：与谷歌多年合作将雅培的Lingo生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
-          "url": "https://flash.jin10.com/detail/20260811210739634800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
-          "url": "https://flash.jin10.com/detail/20260811210715702800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147629",
+          "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
+          "url": "https://wallstreetcn.com/livenews/3148170",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF收涨2.26%，报105.01美元，逼近6月1日收盘位107.68美元和2025年9月份顶部117.97美元。",
-          "url": "https://wallstreetcn.com/livenews/3147689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时44分]"
+          "time_info": "01时28分"
         },
         {
-          "title": "美元指数10日上涨",
-          "url": "https://flash.jin10.com/detail/20260811033207795800",
+          "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
+          "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
           "ranks": [
-            23
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "周一（8月10日）纽约尾盘，ICE美元指数涨0.29%，刷新日高至99.829点，整体处于上涨状态，亚太盘初以来冲高回落、北京时间16:15回落至99.603点刷新日低，之后一度持续扩大涨幅。 彭博美元指数涨0.25%，逼近21:53刷新的日高1203.67点。",
-          "url": "https://wallstreetcn.com/livenews/3147664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
-          "url": "https://flash.jin10.com/detail/20260811005120672800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
-          "url": "https://wallstreetcn.com/livenews/3147627",
+          "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
+          "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     }
